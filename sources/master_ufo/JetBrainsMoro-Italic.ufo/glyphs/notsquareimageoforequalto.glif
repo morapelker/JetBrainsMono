@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notsquareimageoforequalto" format="2">
+  <advance width="600"/>
+  <unicode hex="22E2"/>
+  <outline>
+    <contour>
+      <point x="38" y="-110" type="line"/>
+      <point x="112" y="-110" type="line"/>
+      <point x="605" y="830" type="line"/>
+      <point x="531" y="830" type="line"/>
+    </contour>
+    <component base="squareimageoforequalto"/>
+  </outline>
+</glyph>

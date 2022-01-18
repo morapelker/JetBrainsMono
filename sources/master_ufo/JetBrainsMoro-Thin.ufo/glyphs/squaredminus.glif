@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="squaredminus" format="2">
+  <advance width="600"/>
+  <unicode hex="229F"/>
+  <outline>
+    <contour>
+      <point x="140" y="308" type="line"/>
+      <point x="460" y="308" type="line"/>
+      <point x="460" y="353" type="line"/>
+      <point x="140" y="353" type="line"/>
+    </contour>
+    <component base="whiteSquare" yOffset="-30"/>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="neitherapproximatelynoractuallyequalto" format="2">
+  <advance width="600"/>
+  <unicode hex="2247"/>
+  <outline>
+    <contour>
+      <point x="127" y="-100" type="line"/>
+      <point x="173" y="-100" type="line"/>
+      <point x="472" y="780" type="line"/>
+      <point x="426" y="780" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="114" type="line"/>
+      <point x="510" y="114" type="line"/>
+      <point x="510" y="158" type="line"/>
+      <point x="90" y="158" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="308" type="line"/>
+      <point x="510" y="308" type="line"/>
+      <point x="510" y="352" type="line"/>
+      <point x="90" y="352" type="line"/>
+    </contour>
+    <component base="asciitilde" yOffset="185"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notless" format="2">
+  <advance width="600"/>
+  <unicode hex="226E"/>
+  <outline>
+    <contour>
+      <point x="57" y="-69" type="line"/>
+      <point x="148" y="-69" type="line"/>
+      <point x="550" y="730" type="line"/>
+      <point x="459" y="730" type="line"/>
+    </contour>
+    <component base="less"/>
+  </outline>
+</glyph>

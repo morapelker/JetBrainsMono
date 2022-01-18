@@ -128,7 +128,7 @@ wght = {
 date = "2021-09-24 14:07:13 +0000";
 designer = "Philipp Nurullin, Konstantin Bulenkov";
 designerURL = "https://www.jetbrains.com";
-familyName = "JetBrains Mono";
+familyName = "JetBrains Moro";
 featurePrefixes = (
 {
 automatic = 1;
@@ -627,15 +627,6 @@ sub SPC greater' greater by SPC;
 sub greater' greater greater by SPC;
 } greater_greater_greater.liga;
 
-lookup greater_equal.liga {
-ignore sub greater greater' equal;
-ignore sub greater' equal equal;
-ignore sub greater' equal greater;
-ignore sub greater' equal less;
-sub SPC equal' by greater_equal.liga;
-sub greater' equal by SPC;
-} greater_equal.liga;
-
 lookup greater_colon.liga {
 ignore sub greater greater' colon;
 ignore sub greater' colon colon;
@@ -654,16 +645,6 @@ ignore sub greater' bracketright bracketright;
 sub SPC bracketright' by greater_bracketright.liga;
 sub greater' bracketright by SPC;
 } greater_bracketright.liga;
-
-lookup less_equal.liga {
-ignore sub less' equal less;
-ignore sub less' equal bar;
-ignore sub less less' equal;
-ignore sub parenleft question less' equal;
-ignore sub less' equal equal;
-sub SPC equal' by less_equal.liga;
-sub less' equal by SPC;
-} less_equal.liga;
 
 lookup less_less_equal.liga {
 ignore sub less' less equal equal;
@@ -699,16 +680,6 @@ sub SPC bar' underscore by SPC;
 sub underscore' bar underscore by SPC;
 } underscore_bar_underscore.liga;
 
-lookup exclam_equal.liga {
-ignore sub exclam exclam' equal;
-ignore sub parenleft question exclam' equal;
-ignore sub parenleft question less exclam' equal;
-ignore sub equal exclam' equal;
-ignore sub exclam' equal equal;
-sub SPC equal' by exclam_equal.liga;
-sub exclam' equal by SPC;
-} exclam_equal.liga;
-
 lookup exclam_exclam.liga {
 ignore sub exclam exclam' exclam;
 ignore sub parenleft question exclam' exclam;
@@ -717,16 +688,6 @@ ignore sub exclam' exclam exclam;
 sub SPC exclam' by exclam_exclam.liga;
 sub exclam' exclam by SPC;
 } exclam_exclam.liga;
-
-lookup exclam_equal_equal.liga{
-ignore sub exclam exclam' equal equal;
-ignore sub parenleft question exclam' equal equal;
-ignore sub parenleft question less exclam' equal equal;
-ignore sub exclam' equal equal equal;
-sub SPC SPC equal' by exclam_equal_equal.liga;
-sub SPC equal' equal by SPC;
-sub exclam' equal equal by SPC;
-} exclam_equal_equal.liga;
 
 lookup equal_exclam_equal.liga{
 ignore sub equal equal' exclam equal;
@@ -749,27 +710,6 @@ ignore sub equal' greater greater;
 sub SPC greater' by equal_greater.liga;
 sub equal' greater by SPC;
 } equal_greater.liga;
-
-lookup equal_equal.liga {
-ignore sub equal equal' equal;
-ignore sub parenleft question less equal' equal;
-ignore sub parenleft question equal' equal;
-ignore sub equal' equal equal;
-ignore sub equal' equal greater;
-sub SPC equal' by equal_equal.liga;
-sub equal' equal by SPC;
-} equal_equal.liga;
-
-lookup equal_equal_equal.liga {
-ignore sub equal equal' equal equal;
-ignore sub parenleft question equal' equal equal;
-ignore sub less equal' equal equal;
-ignore sub equal' equal equal equal;
-ignore sub equal' equal equal greater;
-sub SPC SPC equal' by equal_equal_equal.liga;
-sub SPC equal' equal by SPC;
-sub equal' equal equal by SPC;
-} equal_equal_equal.liga;
 
 lookup equal_colon_equal.liga {
 ignore sub equal equal' colon equal;

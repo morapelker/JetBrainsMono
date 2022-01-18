@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotminus" format="2">
+  <advance width="600"/>
+  <unicode hex="2238"/>
+  <outline>
+    <contour>
+      <point x="310" y="340" type="curve" smooth="yes"/>
+      <point x="360" y="340"/>
+      <point x="398" y="370"/>
+      <point x="405" y="415" type="curve" smooth="yes"/>
+      <point x="412" y="460"/>
+      <point x="384" y="490"/>
+      <point x="334" y="490" type="curve" smooth="yes"/>
+      <point x="284" y="490"/>
+      <point x="246" y="460"/>
+      <point x="239" y="415" type="curve" smooth="yes"/>
+      <point x="232" y="370"/>
+      <point x="260" y="340"/>
+    </contour>
+    <component base="minus" xOffset="-19" yOffset="-120"/>
+  </outline>
+</glyph>

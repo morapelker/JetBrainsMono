@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="precedesorequalto" format="2">
+  <advance width="600"/>
+  <unicode hex="227C"/>
+  <outline>
+    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="499" y="80" type="line"/>
+      <point x="39" y="80" type="line"/>
+    </contour>
+    <component base="precedes" xOffset="20" yOffset="125"/>
+  </outline>
+</glyph>
