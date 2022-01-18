@@ -501,6 +501,7 @@
       <string>zcaron</string>
       <string>zdotaccent</string>
       <string>germandbls.calt</string>
+      <string>a.alt</string>
       <string>ordfeminine</string>
       <string>ordmasculine</string>
       <string>A-cy</string>
@@ -864,6 +865,7 @@
       <string>slash_slash_slash.liga</string>
       <string>underscore_bar_underscore.liga</string>
       <string>underscore_underscore.liga</string>
+      <string>bracketleft_bar_bar_bracketright.liga</string>
       <string>leftanglebracket-math</string>
       <string>leftdoubleanglebracket-math</string>
       <string>leftwhitesquarebracket-math</string>
@@ -913,6 +915,7 @@
       <string>excess</string>
       <string>existential</string>
       <string>greaterorequivalent</string>
+      <string>leftMultimap</string>
       <string>leftcurlybracketlowerhook</string>
       <string>leftcurlybracketmiddlepiece</string>
       <string>leftcurlybracketupperhook</string>
@@ -958,8 +961,8 @@
       <string>lessequal</string>
       <string>plusminus</string>
       <string>approxequal</string>
-      <string>asciitilde</string>
       <string>logicalnot</string>
+      <string>asciitilde</string>
       <string>asciicircum</string>
       <string>infinity</string>
       <string>emptyset</string>
@@ -1104,6 +1107,7 @@
       <string>largeCircle</string>
       <string>upperRightBlackCircle</string>
       <string>upperLeftWhiteCircle</string>
+      <string>lowerRightQuadrantWhiteCircle</string>
       <string>dottedCircle</string>
       <string>bullseye</string>
       <string>whiteBullet</string>
@@ -1343,7 +1347,6 @@
       <string>twoTurned</string>
       <string>unitSeparator-control</string>
       <string>verticalTabulation-control</string>
-      <string>warningSign.001</string>
       <string>lowringmod</string>
       <string>lowtildemod</string>
       <string>at_underscore.liga</string>
@@ -1429,7 +1432,6 @@
       <string>asciitilde_asciitilde.liga</string>
       <string>asciitilde_asciitilde_greater.liga</string>
       <string>asciicircum_equal.liga</string>
-      <string>equal_equal_equal.liga.old</string>
       <string>flat-musical</string>
       <string>sharp-musical</string>
       <string>numeral-greek</string>
@@ -2481,6 +2483,8 @@
       <string>uni21A9</string>
       <key>leftLongArrow</key>
       <string>uni27F5</string>
+      <key>leftMultimap</key>
+      <string>uni27DC</string>
       <key>leftOneEighthBlock</key>
       <string>uni258F</string>
       <key>leftOneQuarterBlock</key>
@@ -2553,6 +2557,8 @@
       <string>uni2597</string>
       <key>lowerRightDiagonalHalfBlackSquare</key>
       <string>uni25EA</string>
+      <key>lowerRightQuadrantWhiteCircle</key>
+      <string>uni25F6</string>
       <key>lowerSevenEighthsBlock</key>
       <string>uni2587</string>
       <key>lowerThreeEighthsBlock</key>
@@ -3051,8 +3057,6 @@
       <string>verticalTabulationcontrol</string>
       <key>warningSign</key>
       <string>uni26A0</string>
-      <key>warningSign.001</key>
-      <string>uni26A0.001</string>
       <key>whiteBullet</key>
       <string>openbullet</string>
       <key>whiteDiamond</key>
@@ -3113,7 +3117,8 @@
       <string>V.half</string>
       <string>X.half</string>
       <string>_similiar_tilda</string>
-      <string>equal_equal_equal.liga.old</string>
+      <string>a.alt</string>
+      <string>bracketleft_bar_bar_bracketright.liga</string>
       <string>four.half</string>
       <string>one.half</string>
       <string>three.half</string>

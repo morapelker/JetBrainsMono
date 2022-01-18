@@ -2,10 +2,10 @@
 <glyph name="Wdieresis" format="2">
   <advance width="600"/>
   <unicode hex="1E84"/>
-  <anchor x="256" y="0" name="bottom"/>
-  <anchor x="407" y="958" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="958" name="top"/>
   <outline>
     <component base="W"/>
-    <component base="dieresiscomb.case" xOffset="599"/>
+    <component base="dieresiscomb.case" xOffset="600"/>
   </outline>
 </glyph>

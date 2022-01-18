@@ -2,11 +2,11 @@
 <glyph name="Acircumflex" format="2">
   <advance width="600"/>
   <unicode hex="00C2"/>
-  <anchor x="256" y="0" name="bottom"/>
-  <anchor x="430" y="0" name="ogonek"/>
-  <anchor x="406" y="950" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="465" y="0" name="ogonek"/>
+  <anchor x="300" y="950" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="circumflexcomb.case" xOffset="599"/>
+    <component base="circumflexcomb.case" xOffset="600"/>
   </outline>
 </glyph>

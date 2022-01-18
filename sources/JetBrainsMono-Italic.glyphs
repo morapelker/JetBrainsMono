@@ -1790,7 +1790,7 @@ horizontalStems = (
 );
 id = "9ADF6715-3D0F-493D-8567-18A6FBCFC567";
 italicAngle = 9;
-name = ExtraBold;
+name = ItalicExtraBold;
 userData = {
 de.kutilek.MasterGrid.type = units;
 de.kutilek.MasterGrid.value = (
@@ -134569,7 +134569,7 @@ instanceInterpolations = {
 "9ADF6715-3D0F-493D-8567-18A6FBCFC567" = 1;
 };
 isItalic = 1;
-linkStyle = ExtraBold;
+linkStyle = ItalicExtraBold;
 name = "ExtraBold Italic";
 weightClass = ExtraBold;
 }

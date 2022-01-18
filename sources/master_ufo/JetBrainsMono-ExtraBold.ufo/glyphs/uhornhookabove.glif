@@ -2,8 +2,8 @@
 <glyph name="uhornhookabove" format="2">
   <advance width="600"/>
   <unicode hex="1EED"/>
-  <anchor x="236" y="0" name="bottom"/>
-  <anchor x="373" y="834" name="top"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="285" y="834" name="top"/>
   <outline>
     <component base="uhorn"/>
     <component base="hookabovecomb" xOffset="580"/>

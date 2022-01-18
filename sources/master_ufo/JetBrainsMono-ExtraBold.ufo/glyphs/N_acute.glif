@@ -2,11 +2,11 @@
 <glyph name="Nacute" format="2">
   <advance width="600"/>
   <unicode hex="0143"/>
-  <anchor x="256" y="0" name="bottom"/>
-  <anchor x="451" y="950" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="345" y="950" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="acutecomb.case" xOffset="612"/>
+    <component base="acutecomb.case" xOffset="610"/>
   </outline>
   <lib>
     <dict>

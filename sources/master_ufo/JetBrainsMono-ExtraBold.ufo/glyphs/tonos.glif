@@ -2,13 +2,13 @@
 <glyph name="tonos" format="2">
   <advance width="600"/>
   <unicode hex="0384"/>
-  <anchor x="313" y="550" name="_top"/>
+  <anchor x="270" y="550" name="_top"/>
   <outline>
     <contour>
-      <point x="240" y="645" type="line"/>
-      <point x="389" y="645" type="line"/>
-      <point x="528" y="785" type="line"/>
-      <point x="367" y="785" type="line"/>
+      <point x="182" y="645" type="line"/>
+      <point x="331" y="645" type="line"/>
+      <point x="448" y="785" type="line"/>
+      <point x="287" y="785" type="line"/>
     </contour>
   </outline>
 </glyph>

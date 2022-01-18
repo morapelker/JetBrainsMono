@@ -2,12 +2,12 @@
 <glyph name="io-cy" format="2">
   <advance width="600"/>
   <unicode hex="0451"/>
-  <anchor x="256" y="0" name="bottom"/>
-  <anchor x="305" y="0" name="ogonek"/>
-  <anchor x="382" y="793" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="345" y="0" name="ogonek"/>
+  <anchor x="300" y="793" name="top"/>
   <outline>
-    <component base="dieresiscomb" xOffset="600"/>
     <component base="e"/>
+    <component base="dieresiscomb" xOffset="600"/>
   </outline>
   <lib>
     <dict>
@@ -17,7 +17,7 @@
           <key>alignment</key>
           <integer>-1</integer>
           <key>index</key>
-          <integer>1</integer>
+          <integer>0</integer>
           <key>name</key>
           <string>e</string>
         </dict>

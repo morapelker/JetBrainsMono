@@ -13,12 +13,12 @@
     </axis>
   </axes>
   <sources>
-    <source filename="JetBrainsMono-ThinItalic.ufo" name="JetBrains Mono Thin Italic" familyname="JetBrains Mono" stylename="Thin Italic">
+    <source filename="JetBrainsMono-Thin.ufo" name="JetBrains Mono Thin" familyname="JetBrains Mono" stylename="Thin">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="JetBrainsMono-Italic.ufo" name="JetBrains Mono Italic" familyname="JetBrains Mono" stylename="Italic">
+    <source filename="JetBrainsMono-Regular.ufo" name="JetBrains Mono Regular" familyname="JetBrains Mono" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -32,273 +32,12 @@
         <dimension name="Weight" xvalue="800"/>
       </location>
     </source>
-  </sources>
-  <instances>
-    <instance name="JetBrains Mono Thin Italic" familyname="JetBrains Mono" stylename="Thin Italic" filename="../instance_ufo/JetBrainsMono-ThinItalic.ufo" stylemapfamilyname="JetBrains Mono Thin" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>9</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </array>
-            <array>
-              <string>TTFAutohint options</string>
-              <string>--increase-x-height=0</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="JetBrains Mono ExtraLight Italic" familyname="JetBrains Mono" stylename="ExtraLight Italic" filename="../instance_ufo/JetBrainsMono-ExtraLightItalic.ufo" stylemapfamilyname="JetBrains Mono ExtraLight" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="220"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>9</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </array>
-            <array>
-              <string>TTFAutohint options</string>
-              <string>--increase-x-height=0</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="JetBrains Mono Light Italic" familyname="JetBrains Mono" stylename="Light Italic" filename="../instance_ufo/JetBrainsMono-LightItalic.ufo" stylemapfamilyname="JetBrains Mono Light" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="320"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>9</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </array>
-            <array>
-              <string>TTFAutohint options</string>
-              <string>--increase-x-height=0</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="JetBrains Mono Italic" familyname="JetBrains Mono" stylename="Italic" filename="../instance_ufo/JetBrainsMono-Italic.ufo" stylemapfamilyname="JetBrains Mono" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>9</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </array>
-            <array>
-              <string>TTFAutohint options</string>
-              <string>--increase-x-height=0</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="JetBrains Mono Medium Italic" familyname="JetBrains Mono" stylename="Medium Italic" filename="../instance_ufo/JetBrainsMono-MediumItalic.ufo" stylemapfamilyname="JetBrains Mono Medium" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="460"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>9</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </array>
-            <array>
-              <string>TTFAutohint options</string>
-              <string>--increase-x-height=0</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="JetBrains Mono SemiBold Italic" familyname="JetBrains Mono" stylename="SemiBold Italic" filename="../instance_ufo/JetBrainsMono-SemiBoldItalic.ufo" stylemapfamilyname="JetBrains Mono SemiBold" stylemapstylename="italic">
+    <source filename="JetBrainsMono-ExtraBold.ufo" name="JetBrains Mono ExtraBold {520}" layer="{520}">
       <location>
         <dimension name="Weight" xvalue="520"/>
       </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>9</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </array>
-            <array>
-              <string>TTFAutohint options</string>
-              <string>--increase-x-height=0</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="JetBrains Mono Bold Italic" familyname="JetBrains Mono" stylename="Bold Italic" filename="../instance_ufo/JetBrainsMono-BoldItalic.ufo" stylemapfamilyname="JetBrains Mono" stylemapstylename="bold italic">
-      <location>
-        <dimension name="Weight" xvalue="634"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>9</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </array>
-            <array>
-              <string>TTFAutohint options</string>
-              <string>--increase-x-height=0</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-    <instance name="JetBrains Mono ExtraBold Italic" familyname="JetBrains Mono" stylename="ExtraBold Italic" filename="../instance_ufo/JetBrainsMono-ExtraBoldItalic.ufo" stylemapfamilyname="JetBrains Mono ExtraBold" stylemapstylename="italic">
-      <location>
-        <dimension name="Weight" xvalue="800"/>
-      </location>
-      <kerning/>
-      <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>panose</string>
-              <array>
-                <integer>2</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>9</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </array>
-            <array>
-              <string>TTFAutohint options</string>
-              <string>--increase-x-height=0</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
-    </instance>
-  </instances>
+    </source>
+  </sources>
   <lib>
     <dict>
       <key>GSDimensionPlugin.Dimensions</key>
@@ -306,7 +45,7 @@
         <key>9ADF6715-3D0F-493D-8567-18A6FBCFC567</key>
         <dict>
           <key>HH</key>
-          <integer>140</integer>
+          <string>135</string>
           <key>HV</key>
           <integer>150</integer>
           <key>OH</key>
@@ -320,14 +59,14 @@
           <key>oV</key>
           <integer>150</integer>
           <key>tH</key>
-          <integer>135</integer>
+          <string>135</string>
         </dict>
         <key>CCC0BD40-BA8C-414E-B576-CF0B94E6C996</key>
         <dict>
           <key>HH</key>
-          <integer>82</integer>
+          <string>82</string>
           <key>HV</key>
-          <integer>92</integer>
+          <string>90</string>
           <key>OH</key>
           <integer>80</integer>
           <key>OV</key>
@@ -386,7 +125,8 @@
         <string>V.half</string>
         <string>X.half</string>
         <string>_similiar_tilda</string>
-        <string>equal_equal_equal.liga.old</string>
+        <string>a.alt</string>
+        <string>bracketleft_bar_bar_bracketright.liga</string>
         <string>four.half</string>
         <string>one.half</string>
         <string>three.half</string>

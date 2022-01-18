@@ -2,11 +2,11 @@
 <glyph name="Gacute" format="2">
   <advance width="600"/>
   <unicode hex="01F4"/>
-  <anchor x="260" y="0" name="bottom"/>
-  <anchor x="451" y="950" name="top"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="345" y="950" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="acutecomb.case" xOffset="612"/>
+    <component base="acutecomb.case" xOffset="610"/>
   </outline>
   <lib>
     <dict>

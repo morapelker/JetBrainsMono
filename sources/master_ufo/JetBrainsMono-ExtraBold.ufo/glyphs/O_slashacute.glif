@@ -2,12 +2,12 @@
 <glyph name="Oslashacute" format="2">
   <advance width="600"/>
   <unicode hex="01FE"/>
-  <anchor x="256" y="0" name="bottom"/>
-  <anchor x="392" y="730" name="horn"/>
-  <anchor x="451" y="950" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="320" y="730" name="horn"/>
+  <anchor x="345" y="950" name="top"/>
   <outline>
     <component base="Oslash"/>
-    <component base="acutecomb.case" xOffset="612"/>
+    <component base="acutecomb.case" xOffset="610"/>
   </outline>
   <lib>
     <dict>

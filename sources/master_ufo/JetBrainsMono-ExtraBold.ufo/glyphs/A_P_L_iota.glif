@@ -2,7 +2,7 @@
 <glyph name="APLiota" format="2">
   <advance width="600"/>
   <unicode hex="2373"/>
-  <anchor x="344" y="550" name="top"/>
+  <anchor x="300" y="550" name="top"/>
   <outline>
     <component base="iota"/>
   </outline>

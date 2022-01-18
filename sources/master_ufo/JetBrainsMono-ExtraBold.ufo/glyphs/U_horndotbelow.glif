@@ -2,11 +2,11 @@
 <glyph name="Uhorndotbelow" format="2">
   <advance width="600"/>
   <unicode hex="1EF0"/>
-  <anchor x="219" y="-233" name="bottom"/>
-  <anchor x="457" y="730" name="horn"/>
-  <anchor x="305" y="0" name="ogonek"/>
-  <anchor x="372" y="730" name="top"/>
-  <anchor x="652" y="730" name="topright"/>
+  <anchor x="300" y="-233" name="bottom"/>
+  <anchor x="385" y="730" name="horn"/>
+  <anchor x="345" y="0" name="ogonek"/>
+  <anchor x="300" y="730" name="top"/>
+  <anchor x="580" y="730" name="topright"/>
   <outline>
     <component base="Uhorn"/>
     <component base="dotbelowcomb.case" xOffset="600"/>

@@ -31,6 +31,6 @@
       <point x="560" y="182"/>
       <point x="448" y="70"/>
     </contour>
-    <component base="minus" yxScale="-0.15838" xOffset="47"/>
+    <component base="minus"/>
   </outline>
 </glyph>

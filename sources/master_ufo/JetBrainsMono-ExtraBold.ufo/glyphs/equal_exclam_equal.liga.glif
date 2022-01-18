@@ -3,26 +3,26 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="-33" y="385" type="line"/>
-      <point x="537" y="385" type="line"/>
-      <point x="559" y="525" type="line"/>
-      <point x="-11" y="525" type="line"/>
+      <point x="-50" y="385" type="line"/>
+      <point x="520" y="385" type="line"/>
+      <point x="520" y="525" type="line"/>
+      <point x="-50" y="525" type="line"/>
     </contour>
     <contour>
-      <point x="-1143" y="135" type="line"/>
-      <point x="-573" y="135" type="line"/>
+      <point x="-1120" y="135" type="line"/>
+      <point x="-550" y="135" type="line"/>
       <point x="-550" y="275" type="line"/>
       <point x="-1120" y="275" type="line"/>
     </contour>
     <contour>
-      <point x="-1103" y="385" type="line"/>
-      <point x="-533" y="385" type="line"/>
-      <point x="-511" y="525" type="line"/>
-      <point x="-1081" y="525" type="line"/>
+      <point x="-1120" y="385" type="line"/>
+      <point x="-550" y="385" type="line"/>
+      <point x="-550" y="525" type="line"/>
+      <point x="-1120" y="525" type="line"/>
     </contour>
     <contour>
-      <point x="-73" y="135" type="line"/>
-      <point x="497" y="135" type="line"/>
+      <point x="-50" y="135" type="line"/>
+      <point x="520" y="135" type="line"/>
       <point x="520" y="275" type="line"/>
       <point x="-50" y="275" type="line"/>
     </contour>

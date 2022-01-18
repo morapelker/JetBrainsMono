@@ -4,10 +4,10 @@
   <unicode hex="2285"/>
   <outline>
     <contour>
-      <point x="61" y="-60" type="line"/>
-      <point x="152" y="-60" type="line"/>
-      <point x="565" y="780" type="line"/>
-      <point x="474" y="780" type="line"/>
+      <point x="115" y="-60" type="line"/>
+      <point x="206" y="-60" type="line"/>
+      <point x="485" y="780" type="line"/>
+      <point x="394" y="780" type="line"/>
     </contour>
     <component base="superset"/>
   </outline>

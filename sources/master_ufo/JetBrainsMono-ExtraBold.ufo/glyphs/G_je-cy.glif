@@ -2,11 +2,11 @@
 <glyph name="Gje-cy" format="2">
   <advance width="600"/>
   <unicode hex="0403"/>
-  <anchor x="556" y="0" name="bottomright"/>
-  <anchor x="471" y="950" name="top"/>
+  <anchor x="580" y="0" name="bottomright"/>
+  <anchor x="365" y="950" name="top"/>
   <outline>
     <component base="Ge-cy"/>
-    <component base="acutecomb.case" xOffset="632"/>
+    <component base="acutecomb.case" xOffset="630"/>
   </outline>
   <lib>
     <dict>

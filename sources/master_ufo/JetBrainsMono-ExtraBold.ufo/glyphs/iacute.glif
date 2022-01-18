@@ -2,11 +2,11 @@
 <glyph name="iacute" format="2">
   <advance width="600"/>
   <unicode hex="00ED"/>
-  <anchor x="276" y="0" name="bottom"/>
-  <anchor x="290" y="0" name="ogonek"/>
-  <anchor x="445" y="785" name="top"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="330" y="0" name="ogonek"/>
+  <anchor x="365" y="785" name="top"/>
   <outline>
     <component base="idotless"/>
-    <component base="acutecomb" xOffset="632"/>
+    <component base="acutecomb" xOffset="630"/>
   </outline>
 </glyph>

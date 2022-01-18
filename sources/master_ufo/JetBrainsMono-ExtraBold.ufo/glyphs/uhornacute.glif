@@ -2,11 +2,11 @@
 <glyph name="uhornacute" format="2">
   <advance width="600"/>
   <unicode hex="1EE9"/>
-  <anchor x="236" y="0" name="bottom"/>
-  <anchor x="405" y="785" name="top"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="325" y="785" name="top"/>
   <outline>
     <component base="uhorn"/>
-    <component base="acutecomb" xOffset="592"/>
+    <component base="acutecomb" xOffset="590"/>
   </outline>
   <lib>
     <dict>

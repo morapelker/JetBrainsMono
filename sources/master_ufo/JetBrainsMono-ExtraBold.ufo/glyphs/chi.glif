@@ -2,8 +2,8 @@
 <glyph name="chi" format="2">
   <advance width="600"/>
   <unicode hex="03C7"/>
-  <anchor x="256" y="-180" name="bottom"/>
-  <anchor x="372" y="550" name="top"/>
+  <anchor x="300" y="-180" name="bottom"/>
+  <anchor x="300" y="550" name="top"/>
   <outline>
     <component base="X" yOffset="-180"/>
   </outline>

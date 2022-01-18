@@ -2,9 +2,9 @@
 <glyph name="ie-cy" format="2">
   <advance width="600"/>
   <unicode hex="0435"/>
-  <anchor x="256" y="0" name="bottom"/>
-  <anchor x="305" y="0" name="ogonek"/>
-  <anchor x="343" y="550" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="345" y="0" name="ogonek"/>
+  <anchor x="300" y="550" name="top"/>
   <outline>
     <component base="e"/>
   </outline>

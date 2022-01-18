@@ -2,10 +2,10 @@
 <glyph name="lslash" format="2">
   <advance width="600"/>
   <unicode hex="0142"/>
-  <anchor x="280" y="0" name="bottom"/>
-  <anchor x="314" y="365" name="center"/>
-  <anchor x="342" y="730" name="top"/>
-  <anchor x="652" y="730" name="topright"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="300" y="365" name="center"/>
+  <anchor x="270" y="730" name="top"/>
+  <anchor x="580" y="730" name="topright"/>
   <outline>
     <contour>
       <point x="100" y="230" type="line"/>

@@ -3,18 +3,18 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="-915" y="135" type="line"/>
-      <point x="467" y="135" type="line"/>
-      <point x="489" y="274" type="line"/>
-      <point x="-893" y="274" type="line"/>
+      <point x="-892" y="135" type="line"/>
+      <point x="490" y="135" type="line"/>
+      <point x="490" y="274" type="line"/>
+      <point x="-892" y="274" type="line"/>
     </contour>
     <contour>
-      <point x="-795" y="385" type="line"/>
-      <point x="507" y="385" type="line"/>
-      <point x="529" y="524" type="line"/>
-      <point x="-773" y="524" type="line"/>
+      <point x="-812" y="385" type="line"/>
+      <point x="490" y="385" type="line"/>
+      <point x="490" y="524" type="line"/>
+      <point x="-812" y="524" type="line"/>
     </contour>
-    <component base="slash" yxScale="0.15838" xOffset="-1214"/>
+    <component base="slash" xOffset="-1170"/>
   </outline>
   <lib>
     <dict>

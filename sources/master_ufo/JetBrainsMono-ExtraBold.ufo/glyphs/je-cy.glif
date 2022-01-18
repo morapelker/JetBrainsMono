@@ -2,7 +2,8 @@
 <glyph name="je-cy" format="2">
   <advance width="600"/>
   <unicode hex="0458"/>
-  <anchor x="476" y="793" name="top"/>
+  <anchor x="300" y="-270" name="bottom"/>
+  <anchor x="395" y="793" name="top"/>
   <outline>
     <component base="jdotless"/>
     <component base="dotaccentcomb" xOffset="695"/>

@@ -13,9 +13,9 @@
     <key>familyName</key>
     <string>JetBrains Mono</string>
     <key>italicAngle</key>
-    <integer>-9</integer>
+    <integer>0</integer>
     <key>openTypeHeadCreated</key>
-    <string>2021/09/24 14:07:13</string>
+    <string>2021/09/24 14:07:07</string>
     <key>openTypeHheaAscender</key>
     <integer>1020</integer>
     <key>openTypeHheaDescender</key>
@@ -75,6 +75,8 @@
       <integer>560</integer>
       <integer>730</integer>
       <integer>740</integer>
+      <integer>730</integer>
+      <integer>740</integer>
       <integer>830</integer>
       <integer>840</integer>
     </array>
@@ -103,7 +105,7 @@
     <key>styleMapFamilyName</key>
     <string>JetBrains Mono ExtraBold</string>
     <key>styleMapStyleName</key>
-    <string>italic</string>
+    <string>regular</string>
     <key>styleName</key>
     <string>ExtraBold</string>
     <key>trademark</key>

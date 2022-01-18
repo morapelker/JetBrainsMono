@@ -2,9 +2,9 @@
 <glyph name="imacron" format="2">
   <advance width="600"/>
   <unicode hex="012B"/>
-  <anchor x="276" y="0" name="bottom"/>
-  <anchor x="290" y="0" name="ogonek"/>
-  <anchor x="397" y="765" name="top"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="330" y="0" name="ogonek"/>
+  <anchor x="320" y="765" name="top"/>
   <outline>
     <component base="idotless"/>
     <component base="macroncomb" xOffset="620"/>

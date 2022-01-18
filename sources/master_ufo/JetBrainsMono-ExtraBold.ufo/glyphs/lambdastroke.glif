@@ -4,10 +4,10 @@
   <unicode hex="019B"/>
   <outline>
     <contour>
-      <point x="115" y="445" type="line"/>
-      <point x="525" y="635" type="line"/>
-      <point x="542" y="740" type="line"/>
-      <point x="132" y="550" type="line"/>
+      <point x="90" y="445" type="line"/>
+      <point x="470" y="635" type="line"/>
+      <point x="470" y="740" type="line"/>
+      <point x="90" y="550" type="line"/>
     </contour>
     <component base="lambda"/>
   </outline>

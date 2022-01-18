@@ -4,19 +4,19 @@
   <outline>
     <contour>
       <point x="90" y="0" type="line"/>
-      <point x="510" y="0" type="line"/>
-      <point x="510" y="730" type="line"/>
       <point x="90" y="730" type="line"/>
+      <point x="510" y="730" type="line"/>
+      <point x="510" y="0" type="line"/>
     </contour>
     <contour>
       <point x="160" y="50" type="line"/>
-      <point x="460" y="621" type="line"/>
       <point x="460" y="50" type="line"/>
+      <point x="460" y="621" type="line"/>
     </contour>
     <contour>
       <point x="140" y="109" type="line"/>
-      <point x="140" y="680" type="line"/>
       <point x="440" y="680" type="line"/>
+      <point x="140" y="680" type="line"/>
     </contour>
   </outline>
 </glyph>

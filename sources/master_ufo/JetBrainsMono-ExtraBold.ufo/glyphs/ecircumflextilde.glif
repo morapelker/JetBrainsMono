@@ -2,11 +2,11 @@
 <glyph name="ecircumflextilde" format="2">
   <advance width="600"/>
   <unicode hex="1EC5"/>
-  <anchor x="256" y="0" name="bottom"/>
-  <anchor x="305" y="0" name="ogonek"/>
-  <anchor x="408" y="970" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="345" y="0" name="ogonek"/>
+  <anchor x="300" y="970" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb_tildecomb" xOffset="599"/>
+    <component base="circumflexcomb_tildecomb" xOffset="600"/>
   </outline>
 </glyph>

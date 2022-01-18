@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccentcomb.alt" format="2">
-  <anchor x="-346" y="0" name="_bottom"/>
-  <anchor x="-384" y="-240" name="bottom"/>
+  <anchor x="-303" y="0" name="_bottom"/>
+  <anchor x="-303" y="-240" name="bottom"/>
   <outline>
     <component base="commaaccentcomb"/>
   </outline>

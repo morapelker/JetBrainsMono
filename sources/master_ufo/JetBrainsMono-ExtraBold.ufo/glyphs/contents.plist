@@ -622,6 +622,8 @@
     <string>a.glif</string>
     <key>a-cy</key>
     <string>a-cy.glif</string>
+    <key>a.alt</key>
+    <string>a.alt.glif</string>
     <key>aacute</key>
     <string>aacute.glif</string>
     <key>abreve</key>
@@ -1068,6 +1070,8 @@
     <string>bracketleft.glif</string>
     <key>bracketleft_bar.liga</key>
     <string>bracketleft_bar.liga.glif</string>
+    <key>bracketleft_bar_bar_bracketright.liga</key>
+    <string>bracketleft_bar_bar_bracketright.liga.glif</string>
     <key>bracketleft_less.liga</key>
     <string>bracketleft_less.liga.glif</string>
     <key>bracketleftwithquill</key>
@@ -1428,8 +1432,6 @@
     <string>equal_equal.liga.glif</string>
     <key>equal_equal_equal.liga</key>
     <string>equal_equal_equal.liga.glif</string>
-    <key>equal_equal_equal.liga.old</key>
-    <string>equal_equal_equal.liga.old.glif</string>
     <key>equal_equal_greater.liga</key>
     <string>equal_equal_greater.liga.glif</string>
     <key>equal_exclam_equal.liga</key>
@@ -1776,6 +1778,8 @@
     <string>leftH_ookA_rrow.glif</string>
     <key>leftLongArrow</key>
     <string>leftL_ongA_rrow.glif</string>
+    <key>leftMultimap</key>
+    <string>leftM_ultimap.glif</string>
     <key>leftOneEighthBlock</key>
     <string>leftO_neE_ighthB_lock.glif</string>
     <key>leftOneQuarterBlock</key>
@@ -1932,6 +1936,8 @@
     <string>lowerR_ightB_lock.glif</string>
     <key>lowerRightDiagonalHalfBlackSquare</key>
     <string>lowerR_ightD_iagonalH_alfB_lackS_quare.glif</string>
+    <key>lowerRightQuadrantWhiteCircle</key>
+    <string>lowerR_ightQ_uadrantW_hiteC_ircle.glif</string>
     <key>lowerSevenEighthsBlock</key>
     <string>lowerS_evenE_ighthsB_lock.glif</string>
     <key>lowerThreeEighthsBlock</key>
@@ -2798,8 +2804,6 @@
     <string>wacute.glif</string>
     <key>warningSign</key>
     <string>warningS_ign.glif</string>
-    <key>warningSign.001</key>
-    <string>warningS_ign.001.glif</string>
     <key>wcircumflex</key>
     <string>wcircumflex.glif</string>
     <key>wdieresis</key>

@@ -3,18 +3,18 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="-402" y="45" type="line"/>
-      <point x="-252" y="45" type="line"/>
-      <point x="-218" y="260" type="line"/>
-      <point x="-8" y="260" type="line"/>
-      <point x="14" y="400" type="line"/>
-      <point x="-196" y="400" type="line"/>
-      <point x="-162" y="615" type="line"/>
-      <point x="-312" y="615" type="line"/>
-      <point x="-346" y="400" type="line"/>
-      <point x="-556" y="400" type="line"/>
-      <point x="-578" y="260" type="line"/>
-      <point x="-368" y="260" type="line"/>
+      <point x="-365" y="45" type="line"/>
+      <point x="-215" y="45" type="line"/>
+      <point x="-215" y="260" type="line"/>
+      <point x="-5" y="260" type="line"/>
+      <point x="-5" y="400" type="line"/>
+      <point x="-215" y="400" type="line"/>
+      <point x="-215" y="615" type="line"/>
+      <point x="-365" y="615" type="line"/>
+      <point x="-365" y="400" type="line"/>
+      <point x="-575" y="400" type="line"/>
+      <point x="-575" y="260" type="line"/>
+      <point x="-365" y="260" type="line"/>
     </contour>
     <component base="less" xOffset="-1185"/>
     <component base="greater" xOffset="-15"/>

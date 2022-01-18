@@ -3,9 +3,9 @@
   <advance width="600"/>
   <unicode hex="224B"/>
   <outline>
-    <component base="_similiar_tilda" xOffset="-41" yOffset="-260"/>
-    <component base="_similiar_tilda" xOffset="42" yOffset="260"/>
+    <component base="_similiar_tilda" yOffset="-260"/>
     <component base="_similiar_tilda"/>
+    <component base="_similiar_tilda" yOffset="260"/>
   </outline>
   <lib>
     <dict>

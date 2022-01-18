@@ -2,10 +2,10 @@
 <glyph name="bell-control" format="2">
   <advance width="600"/>
   <unicode hex="2407"/>
-  <anchor x="887" y="730" name="topright"/>
+  <anchor x="780" y="730" name="topright"/>
   <outline>
-    <component base="B.half" xOffset="35" yOffset="395"/>
-    <component base="L.half" xOffset="235"/>
+    <component base="B.half" yOffset="395"/>
+    <component base="L.half" xOffset="200"/>
   </outline>
   <lib>
     <dict>

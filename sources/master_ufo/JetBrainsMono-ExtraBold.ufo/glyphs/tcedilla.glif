@@ -3,10 +3,10 @@
   <advance width="600"/>
   <unicode hex="0163"/>
   <anchor x="360" y="0" name="_bottom"/>
-  <anchor x="316" y="0" name="bottom"/>
+  <anchor x="360" y="0" name="bottom"/>
   <anchor x="300" y="275" name="center"/>
-  <anchor x="375" y="700" name="top"/>
-  <anchor x="624" y="550" name="topright"/>
+  <anchor x="300" y="705" name="top"/>
+  <anchor x="580" y="550" name="topright"/>
   <outline>
     <contour>
       <point x="250" y="-225" type="line"/>

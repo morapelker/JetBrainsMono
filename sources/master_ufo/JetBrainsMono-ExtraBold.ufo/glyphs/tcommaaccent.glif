@@ -2,10 +2,10 @@
 <glyph name="tcommaaccent" format="2">
   <advance width="600"/>
   <unicode hex="021B"/>
-  <anchor x="276" y="-240" name="bottom"/>
+  <anchor x="357" y="-240" name="bottom"/>
   <anchor x="300" y="275" name="center"/>
-  <anchor x="375" y="700" name="top"/>
-  <anchor x="624" y="550" name="topright"/>
+  <anchor x="300" y="705" name="top"/>
+  <anchor x="580" y="550" name="topright"/>
   <outline>
     <component base="t"/>
     <component base="commaaccentcomb" xOffset="660"/>

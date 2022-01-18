@@ -2,10 +2,9 @@
 <glyph name="alpha" format="2">
   <advance width="600"/>
   <unicode hex="03B1"/>
-  <anchor x="261" y="0" name="bottom"/>
-  <anchor x="390" y="0" name="ogonek"/>
-  <anchor x="348" y="550" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="550" name="top"/>
   <outline>
-    <component base="a"/>
+    <component base="a.alt"/>
   </outline>
 </glyph>

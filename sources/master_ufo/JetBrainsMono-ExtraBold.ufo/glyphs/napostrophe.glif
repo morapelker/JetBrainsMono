@@ -2,11 +2,11 @@
 <glyph name="napostrophe" format="2">
   <advance width="600"/>
   <unicode hex="0149"/>
-  <anchor x="146" y="645" name="bottom"/>
-  <anchor x="344" y="550" name="top"/>
+  <anchor x="97" y="645" name="bottom"/>
+  <anchor x="305" y="550" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="commaaccentcomb" xOffset="530" yOffset="885"/>
+    <component base="commaaccentcomb" xOffset="400" yOffset="885"/>
   </outline>
   <lib>
     <dict>

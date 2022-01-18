@@ -2,12 +2,27 @@
 <glyph name="Acircumflexdotbelow" format="2">
   <advance width="600"/>
   <unicode hex="1EAC"/>
-  <anchor x="219" y="-233" name="bottom"/>
-  <anchor x="430" y="0" name="ogonek"/>
-  <anchor x="406" y="950" name="top"/>
+  <anchor x="300" y="-233" name="bottom"/>
+  <anchor x="465" y="0" name="ogonek"/>
+  <anchor x="300" y="950" name="top"/>
   <outline>
+    <component base="circumflexcomb.case" xOffset="600"/>
     <component base="A"/>
-    <component base="dotbelowcomb.case" xOffset="600"/>
-    <component base="circumflexcomb.case" xOffset="599"/>
+    <component base="dotbelowcomb" xOffset="600"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,26 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ogonekcomb" format="2">
   <unicode hex="0328"/>
-  <anchor x="-344" y="0" name="_ogonek"/>
+  <anchor x="-300" y="0" name="_ogonek"/>
   <outline>
     <contour>
-      <point x="-384" y="-225" type="curve" smooth="yes"/>
-      <point x="-276" y="-225" type="line"/>
-      <point x="-259" y="-120" type="line"/>
-      <point x="-328" y="-120" type="line" smooth="yes"/>
-      <point x="-357" y="-120"/>
-      <point x="-371" y="-103"/>
-      <point x="-368" y="-83" type="curve" smooth="yes"/>
-      <point x="-365" y="-66"/>
-      <point x="-347" y="-42"/>
-      <point x="-317" y="-18" type="curve" smooth="yes"/>
-      <point x="-280" y="11" type="line"/>
-      <point x="-366" y="11" type="line"/>
-      <point x="-439" y="-19"/>
-      <point x="-490" y="-68"/>
-      <point x="-497" y="-115" type="curve" smooth="yes"/>
-      <point x="-508" y="-180"/>
-      <point x="-465" y="-225"/>
+      <point x="-304" y="-225" type="curve" smooth="yes"/>
+      <point x="-196" y="-225" type="line"/>
+      <point x="-196" y="-120" type="line"/>
+      <point x="-265" y="-120" type="line" smooth="yes"/>
+      <point x="-294" y="-120"/>
+      <point x="-311" y="-103"/>
+      <point x="-311" y="-83" type="curve" smooth="yes"/>
+      <point x="-311" y="-66"/>
+      <point x="-296" y="-42"/>
+      <point x="-270" y="-18" type="curve" smooth="yes"/>
+      <point x="-238" y="11" type="line"/>
+      <point x="-324" y="11" type="line"/>
+      <point x="-392" y="-19"/>
+      <point x="-435" y="-68"/>
+      <point x="-435" y="-115" type="curve" smooth="yes"/>
+      <point x="-435" y="-180"/>
+      <point x="-385" y="-225"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
 </glyph>

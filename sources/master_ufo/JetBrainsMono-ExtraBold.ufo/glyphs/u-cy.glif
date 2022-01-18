@@ -2,8 +2,8 @@
 <glyph name="u-cy" format="2">
   <advance width="600"/>
   <unicode hex="0443"/>
-  <anchor x="256" y="0" name="bottom"/>
-  <anchor x="343" y="550" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="550" name="top"/>
   <outline>
     <component base="y"/>
   </outline>

@@ -4,13 +4,12 @@
   <unicode hex="2249"/>
   <outline>
     <contour>
-      <point x="61" y="-60" type="line"/>
-      <point x="152" y="-60" type="line"/>
-      <point x="565" y="780" type="line"/>
-      <point x="474" y="780" type="line"/>
+      <point x="115" y="-60" type="line"/>
+      <point x="206" y="-60" type="line"/>
+      <point x="485" y="780" type="line"/>
+      <point x="394" y="780" type="line"/>
     </contour>
-    <component base="asciitilde" xOffset="18" yOffset="110"/>
-    <component base="asciitilde" xOffset="-24" yOffset="-155"/>
+    <component base="approxequal"/>
   </outline>
   <lib>
     <dict>
@@ -22,15 +21,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>asciitilde</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>asciitilde</string>
+          <string>approxequal</string>
         </dict>
       </array>
     </dict>

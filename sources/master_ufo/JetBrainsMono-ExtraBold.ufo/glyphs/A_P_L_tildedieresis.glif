@@ -3,8 +3,8 @@
   <advance width="600"/>
   <unicode hex="2368"/>
   <outline>
-    <component base="dieresiscomb" xOffset="585" yOffset="-90"/>
     <component base="asciitilde"/>
+    <component base="dieresiscomb" xOffset="600" yOffset="-90"/>
   </outline>
   <lib>
     <dict>
@@ -14,7 +14,7 @@
           <key>alignment</key>
           <integer>-1</integer>
           <key>index</key>
-          <integer>0</integer>
+          <integer>1</integer>
           <key>name</key>
           <string>dieresiscomb</string>
         </dict>

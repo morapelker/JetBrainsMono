@@ -1,12 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb.alt" format="2">
-  <anchor x="75" y="730" name="_topright"/>
+  <anchor x="-350" y="730" name="_top"/>
+  <anchor x="-195" y="550" name="_topright"/>
   <outline>
     <contour>
-      <point x="-132" y="550" type="line"/>
-      <point x="-2" y="550" type="line"/>
-      <point x="47" y="730" type="line"/>
-      <point x="-93" y="730" type="line"/>
+      <point x="-175" y="550" type="line"/>
+      <point x="-45" y="550" type="line"/>
+      <point x="-25" y="730" type="line"/>
+      <point x="-165" y="730" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
 </glyph>

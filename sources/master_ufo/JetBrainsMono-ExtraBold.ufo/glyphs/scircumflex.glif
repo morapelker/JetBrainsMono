@@ -2,11 +2,11 @@
 <glyph name="scircumflex" format="2">
   <advance width="600"/>
   <unicode hex="015D"/>
-  <anchor x="255" y="0" name="bottom"/>
-  <anchor x="382" y="785" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="785" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="circumflexcomb" xOffset="601"/>
+    <component base="circumflexcomb" xOffset="600"/>
   </outline>
   <lib>
     <dict>

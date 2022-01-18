@@ -2,10 +2,10 @@
 <glyph name="lineFeed-control" format="2">
   <advance width="600"/>
   <unicode hex="240A"/>
-  <anchor x="687" y="1125" name="topright"/>
+  <anchor x="580" y="1125" name="topright"/>
   <outline>
-    <component base="L.half" xOffset="35" yOffset="395"/>
-    <component base="F.half" xOffset="235"/>
+    <component base="L.half" yOffset="395"/>
+    <component base="F.half" xOffset="200"/>
   </outline>
   <lib>
     <dict>
