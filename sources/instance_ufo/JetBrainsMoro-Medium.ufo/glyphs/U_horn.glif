@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="600.0"/>
+  <unicode hex="01AF"/>
+  <anchor x="300.0" y="730.0" name="top"/>
+  <anchor x="300.0" y="0.0" name="bottom"/>
+  <anchor x="385.0" y="730.0" name="horn"/>
+  <anchor x="349.25" y="0.0" name="ogonek"/>
+  <anchor x="580.0" y="730.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="436.65" y="659.75" type="line"/>
+      <point x="492.4" y="659.75" type="line" smooth="yes"/>
+      <point x="559.85" y="659.75"/>
+      <point x="603.4" y="699.3"/>
+      <point x="603.4" y="760.75" type="curve" smooth="yes"/>
+      <point x="603.4" y="840.0" type="line"/>
+      <point x="521.65" y="840.0" type="line"/>
+      <point x="521.65" y="765.0" type="line" smooth="yes"/>
+      <point x="521.65" y="743.85"/>
+      <point x="507.8" y="730.0"/>
+      <point x="486.65" y="730.0" type="curve" smooth="yes"/>
+      <point x="436.65" y="730.0" type="line"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

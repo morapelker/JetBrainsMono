@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="powerOnSymbol" format="2">
+  <advance width="600.0"/>
+  <unicode hex="23FD"/>
+  <outline>
+    <contour>
+      <point x="300.0" y="-5.0" type="curve" smooth="yes"/>
+      <point x="330.0" y="-5.0"/>
+      <point x="355.0" y="22.0"/>
+      <point x="355.0" y="55.0" type="curve" smooth="yes"/>
+      <point x="355.0" y="555.0" type="line" smooth="yes"/>
+      <point x="355.0" y="588.0"/>
+      <point x="330.0" y="615.0"/>
+      <point x="300.0" y="615.0" type="curve" smooth="yes"/>
+      <point x="270.0" y="615.0"/>
+      <point x="245.0" y="588.0"/>
+      <point x="245.0" y="555.0" type="curve" smooth="yes"/>
+      <point x="245.0" y="55.0" type="line" smooth="yes"/>
+      <point x="245.0" y="22.0"/>
+      <point x="270.0" y="-5.0"/>
+    </contour>
+  </outline>
+</glyph>

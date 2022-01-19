@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraightstroke-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="04B0"/>
+  <anchor x="256.0" y="0.0" name="bottom"/>
+  <anchor x="372.0" y="730.0" name="top"/>
+  <anchor x="92.0" y="730.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="110.65" y="193.8" type="line"/>
+      <point x="462.15" y="193.8" type="line"/>
+      <point x="474.45" y="271.05" type="line"/>
+      <point x="122.95" y="271.05" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

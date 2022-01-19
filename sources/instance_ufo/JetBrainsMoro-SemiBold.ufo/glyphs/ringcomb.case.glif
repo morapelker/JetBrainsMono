@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.case" format="2">
+  <anchor x="-300.0" y="730.0" name="_top"/>
+  <anchor x="-300.0" y="997.9" name="top"/>
+  <outline>
+    <contour>
+      <point x="-300.0" y="762.1" type="curve" smooth="yes"/>
+      <point x="-224.4" y="762.1"/>
+      <point x="-174.0" y="809.6"/>
+      <point x="-174.0" y="880.0" type="curve" smooth="yes"/>
+      <point x="-174.0" y="950.4"/>
+      <point x="-224.4" y="997.9"/>
+      <point x="-300.0" y="997.9" type="curve" smooth="yes"/>
+      <point x="-375.6" y="997.9"/>
+      <point x="-426.0" y="950.4"/>
+      <point x="-426.0" y="880.0" type="curve" smooth="yes"/>
+      <point x="-426.0" y="809.6"/>
+      <point x="-375.6" y="762.1"/>
+    </contour>
+    <contour>
+      <point x="-300.0" y="820.2" type="curve" smooth="yes"/>
+      <point x="-336.0" y="820.2"/>
+      <point x="-360.0" y="843.9"/>
+      <point x="-360.0" y="880.0" type="curve" smooth="yes"/>
+      <point x="-360.0" y="916.1"/>
+      <point x="-336.0" y="940.5"/>
+      <point x="-300.0" y="940.5" type="curve" smooth="yes"/>
+      <point x="-264.0" y="940.5"/>
+      <point x="-240.0" y="916.1"/>
+      <point x="-240.0" y="880.0" type="curve" smooth="yes"/>
+      <point x="-240.0" y="843.9"/>
+      <point x="-264.0" y="820.2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.half" format="2">
+  <advance width="400.0"/>
+  <outline>
+    <contour>
+      <point x="120.0" y="0.0" type="line"/>
+      <point x="192.0" y="0.0" type="line"/>
+      <point x="234.8" y="269.0" type="line"/>
+      <point x="383.8" y="269.0" type="line"/>
+      <point x="394.0" y="335.0" type="line"/>
+      <point x="24.0" y="335.0" type="line"/>
+      <point x="13.8" y="269.0" type="line"/>
+      <point x="162.8" y="269.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

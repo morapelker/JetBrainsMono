@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLrho" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2374"/>
+  <outline>
+    <contour>
+      <point x="30.6" y="-180.0" type="line"/>
+      <point x="96.6" y="-180.0" type="line"/>
+      <point x="124.4" y="-8.0" type="line"/>
+      <point x="138.8" y="87.0" type="line"/>
+      <point x="157.6" y="87.0" type="line"/>
+      <point x="140.8" y="134.4" type="line"/>
+      <point x="127.2" y="47.2"/>
+      <point x="180.4" y="-10.0"/>
+      <point x="274.6" y="-10.0" type="curve" smooth="yes"/>
+      <point x="384.4" y="-10.0"/>
+      <point x="468.0" y="69.2"/>
+      <point x="487.4" y="192.0" type="curve" smooth="yes"/>
+      <point x="513.6" y="359.0" type="line" smooth="yes"/>
+      <point x="533.0" y="482.4"/>
+      <point x="469.8" y="560.0"/>
+      <point x="348.0" y="560.0" type="curve" smooth="yes"/>
+      <point x="224.4" y="560.0"/>
+      <point x="135.6" y="483.2"/>
+      <point x="116.2" y="359.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="266.0" y="47.0" type="curve" smooth="yes"/>
+      <point x="182.4" y="47.0"/>
+      <point x="141.6" y="101.4"/>
+      <point x="156.4" y="194.0" type="curve" smooth="yes"/>
+      <point x="181.8" y="356.6" type="line" smooth="yes"/>
+      <point x="196.4" y="448.8"/>
+      <point x="253.8" y="503.0"/>
+      <point x="338.2" y="503.0" type="curve" smooth="yes"/>
+      <point x="422.0" y="503.0"/>
+      <point x="462.4" y="449.4"/>
+      <point x="447.2" y="356.6" type="curve" smooth="yes"/>
+      <point x="421.8" y="194.0" type="line" smooth="yes"/>
+      <point x="406.6" y="100.6"/>
+      <point x="349.8" y="47.0"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lambda" format="2">
+  <advance width="600"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="312" y="550" type="line" smooth="yes"/>
+      <point x="346" y="630"/>
+      <point x="367" y="690"/>
+      <point x="367" y="690" type="curve"/>
+      <point x="367" y="690"/>
+      <point x="370" y="630"/>
+      <point x="379" y="550" type="curve" smooth="yes"/>
+      <point x="439" y="0" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="403" y="730" type="line"/>
+      <point x="341" y="730" type="line"/>
+    </contour>
+  </outline>
+</glyph>

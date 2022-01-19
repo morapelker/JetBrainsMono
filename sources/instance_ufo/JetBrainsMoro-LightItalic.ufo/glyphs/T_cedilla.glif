@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcedilla" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0162"/>
+  <anchor x="256.0" y="0.0" name="bottom"/>
+  <anchor x="314.0" y="365.0" name="center"/>
+  <anchor x="372.0" y="730.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="170.93333333333334" y="-200.86666666666667" type="line"/>
+      <point x="254.6" y="-200.86666666666667" type="line" smooth="yes"/>
+      <point x="323.4" y="-200.86666666666667"/>
+      <point x="375.0" y="-164.66666666666666"/>
+      <point x="382.0" y="-119.46666666666667" type="curve" smooth="yes"/>
+      <point x="390.26666666666665" y="-66.13333333333334"/>
+      <point x="328.3333333333333" y="-39.93333333333333"/>
+      <point x="277.6666666666667" y="-34.733333333333334" type="curve"/>
+      <point x="295.93333333333334" y="0.0" type="line"/>
+      <point x="256.2" y="26.0" type="line"/>
+      <point x="206.46666666666667" y="-67.66666666666667" type="line"/>
+      <point x="274.53333333333336" y="-67.66666666666667"/>
+      <point x="311.6666666666667" y="-88.2"/>
+      <point x="307.4" y="-113.6" type="curve" smooth="yes"/>
+      <point x="304.4" y="-132.66666666666666"/>
+      <point x="281.6" y="-151.2"/>
+      <point x="251.8" y="-151.2" type="curve" smooth="yes"/>
+      <point x="179.13333333333333" y="-151.2" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

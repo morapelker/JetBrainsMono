@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.half" format="2">
+  <advance width="400.0"/>
+  <anchor x="652.0" y="730.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="44.0" y="0.0" type="line"/>
+      <point x="320.0" y="0.0" type="line"/>
+      <point x="327.6" y="48.0" type="line"/>
+      <point x="105.6" y="48.0" type="line"/>
+      <point x="151.0" y="335.0" type="line"/>
+      <point x="97.0" y="335.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

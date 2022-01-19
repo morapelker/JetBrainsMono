@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Psi" format="2">
+  <advance width="600.0"/>
+  <unicode hex="03A8"/>
+  <outline>
+    <contour>
+      <point x="208.6" y="0.0" type="line"/>
+      <point x="303.4" y="0.0" type="line"/>
+      <point x="330.4" y="170.0" type="line"/>
+      <point x="454.6" y="170.9"/>
+      <point x="549.5" y="254.4"/>
+      <point x="569.8" y="381.3" type="curve" smooth="yes"/>
+      <point x="625.2" y="730.0" type="line"/>
+      <point x="528.3" y="730.0" type="line"/>
+      <point x="472.9" y="381.3" type="line" smooth="yes"/>
+      <point x="460.8" y="305.3"/>
+      <point x="410.8" y="258.0"/>
+      <point x="342.4" y="258.0" type="curve"/>
+      <point x="417.6" y="730.0" type="line"/>
+      <point x="326.4" y="730.0" type="line"/>
+      <point x="251.2" y="258.0" type="line"/>
+      <point x="182.8" y="258.0"/>
+      <point x="148.2" y="305.3"/>
+      <point x="160.3" y="381.3" type="curve" smooth="yes"/>
+      <point x="215.7" y="730.0" type="line"/>
+      <point x="118.8" y="730.0" type="line"/>
+      <point x="63.4" y="381.3" type="line" smooth="yes"/>
+      <point x="43.1" y="254.4"/>
+      <point x="111.4" y="170.9"/>
+      <point x="235.6" y="170.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

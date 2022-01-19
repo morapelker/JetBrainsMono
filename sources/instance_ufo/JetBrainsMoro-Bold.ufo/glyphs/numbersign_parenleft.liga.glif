@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_parenleft.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-522.85" y="0.0" type="line"/>
+      <point x="-435.3" y="0.0" type="line"/>
+      <point x="-401.565" y="189.525" type="line"/>
+      <point x="-259.115" y="189.525" type="line"/>
+      <point x="-292.85" y="0.0" type="line"/>
+      <point x="-205.3" y="0.0" type="line"/>
+      <point x="-171.565" y="189.525" type="line"/>
+      <point x="252.55" y="189.525" type="line"/>
+      <point x="252.55" y="275.0" type="line"/>
+      <point x="-157.055" y="275.0" type="line"/>
+      <point x="-125.98" y="455.0" type="line"/>
+      <point x="252.55" y="455.0" type="line"/>
+      <point x="252.55" y="540.475" type="line"/>
+      <point x="-111.47" y="540.475" type="line"/>
+      <point x="-77.15" y="730.0" type="line"/>
+      <point x="-164.7" y="730.0" type="line"/>
+      <point x="-199.02" y="540.475" type="line"/>
+      <point x="-341.47" y="540.475" type="line"/>
+      <point x="-307.15" y="730.0" type="line"/>
+      <point x="-394.7" y="730.0" type="line"/>
+      <point x="-429.02" y="540.475" type="line"/>
+      <point x="-530.0" y="540.475" type="line"/>
+      <point x="-530.0" y="455.0" type="line"/>
+      <point x="-443.53" y="455.0" type="line"/>
+      <point x="-474.605" y="275.0" type="line"/>
+      <point x="-565.0" y="275.0" type="line"/>
+      <point x="-565.0" y="189.525" type="line"/>
+      <point x="-489.115" y="189.525" type="line"/>
+    </contour>
+    <contour>
+      <point x="-387.055" y="275.0" type="line"/>
+      <point x="-355.98" y="455.0" type="line"/>
+      <point x="-213.53" y="455.0" type="line"/>
+      <point x="-244.605" y="275.0" type="line"/>
+    </contour>
+    <component base="parenleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>parenleft</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V.half" format="2">
+  <advance width="400.0"/>
+  <outline>
+    <contour>
+      <point x="178.85" y="129.0" type="curve" smooth="yes"/>
+      <point x="89.85" y="335.0" type="line"/>
+      <point x="9.15" y="335.0" type="line"/>
+      <point x="157.15" y="0.0" type="line"/>
+      <point x="242.85" y="0.0" type="line"/>
+      <point x="390.85" y="335.0" type="line"/>
+      <point x="308.32" y="335.0" type="line"/>
+      <point x="221.905" y="129.0" type="line" smooth="yes"/>
+      <point x="211.905" y="104.0"/>
+      <point x="204.0" y="78.85"/>
+      <point x="201.0" y="60.85" type="curve"/>
+      <point x="198.0" y="78.85"/>
+      <point x="189.85" y="103.415"/>
+    </contour>
+  </outline>
+</glyph>

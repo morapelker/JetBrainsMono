@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_equal_greater.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-887.8666666666667" y="35.0" type="line"/>
+      <point x="-794.4" y="35.0" type="line"/>
+      <point x="-908.6" y="176.66666666666666" type="line"/>
+      <point x="307.8" y="176.66666666666666" type="line"/>
+      <point x="194.13333333333333" y="35.0" type="line"/>
+      <point x="286.8666666666667" y="35.0" type="line"/>
+      <point x="522.3333333333334" y="330.26666666666665" type="line"/>
+      <point x="287.8666666666667" y="625.0" type="line"/>
+      <point x="194.13333333333333" y="625.0" type="line"/>
+      <point x="307.53333333333336" y="483.6" type="line"/>
+      <point x="-907.8" y="483.6" type="line"/>
+      <point x="-794.1333333333333" y="625.0" type="line"/>
+      <point x="-886.8666666666667" y="625.0" type="line"/>
+      <point x="-1122.3333333333333" y="330.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-964.6666666666666" y="247.33333333333334" type="line"/>
+      <point x="-1030.3333333333333" y="330.73333333333335" type="line"/>
+      <point x="-964.8666666666667" y="412.93333333333334" type="line"/>
+      <point x="363.6" y="412.93333333333334" type="line"/>
+      <point x="431.73333333333335" y="329.26666666666665" type="line"/>
+      <point x="364.6" y="247.33333333333334" type="line"/>
+    </contour>
+  </outline>
+</glyph>

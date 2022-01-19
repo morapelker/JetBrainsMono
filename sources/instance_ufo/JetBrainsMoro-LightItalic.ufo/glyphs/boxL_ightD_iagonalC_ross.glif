@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightDiagonalCross" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2573"/>
+  <outline>
+    <contour>
+      <point x="-20.0" y="-160.0" type="line"/>
+      <point x="60.0" y="-160.0" type="line"/>
+      <point x="300.0" y="265.0" type="line"/>
+      <point x="540.0" y="-160.0" type="line"/>
+      <point x="620.0" y="-160.0" type="line"/>
+      <point x="620.0" y="-120.0" type="line"/>
+      <point x="351.0" y="360.0" type="line"/>
+      <point x="620.0" y="840.0" type="line"/>
+      <point x="620.0" y="880.0" type="line"/>
+      <point x="540.0" y="880.0" type="line"/>
+      <point x="300.0" y="455.0" type="line"/>
+      <point x="60.0" y="880.0" type="line"/>
+      <point x="-20.0" y="880.0" type="line"/>
+      <point x="-20.0" y="840.0" type="line"/>
+      <point x="249.0" y="360.0" type="line"/>
+      <point x="-20.0" y="-120.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

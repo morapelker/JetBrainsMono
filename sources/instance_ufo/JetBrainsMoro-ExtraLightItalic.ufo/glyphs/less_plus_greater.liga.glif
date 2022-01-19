@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_plus_greater.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-367.8" y="54.0" type="line"/>
+      <point x="-302.6" y="54.0" type="line"/>
+      <point x="-263.6" y="302.0" type="line"/>
+      <point x="-23.2" y="302.0" type="line"/>
+      <point x="-13.799999999999999" y="361.0" type="line"/>
+      <point x="-254.2" y="361.0" type="line"/>
+      <point x="-215.0" y="609.0" type="line"/>
+      <point x="-280.2" y="609.0" type="line"/>
+      <point x="-319.4" y="361.0" type="line"/>
+      <point x="-559.8" y="361.0" type="line"/>
+      <point x="-569.2" y="302.0" type="line"/>
+      <point x="-328.8" y="302.0" type="line"/>
+    </contour>
+    <component base="less" xOffset="-1185.0"/>
+    <component base="greater" xOffset="-15.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>less</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>greater</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

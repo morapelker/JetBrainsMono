@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="squarecap" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2293"/>
+  <outline>
+    <contour>
+      <point x="31.666666666666668" y="80.0" type="line"/>
+      <point x="111.0" y="80.0" type="line"/>
+      <point x="182.26666666666668" y="533.5333333333333" type="line"/>
+      <point x="498.26666666666665" y="533.5333333333333" type="line"/>
+      <point x="427.0" y="80.0" type="line"/>
+      <point x="506.3333333333333" y="80.0" type="line"/>
+      <point x="589.0" y="605.6666666666666" type="line"/>
+      <point x="114.33333333333333" y="605.6666666666666" type="line"/>
+    </contour>
+  </outline>
+</glyph>

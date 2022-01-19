@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question_question_question.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <component base="question" xOffset="-1148.3"/>
+    <component base="question" xOffset="-600.0"/>
+    <component base="question" xOffset="-51.7"/>
+  </outline>
+</glyph>

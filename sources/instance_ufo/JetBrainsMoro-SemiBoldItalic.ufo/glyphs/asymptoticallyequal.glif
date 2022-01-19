@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asymptoticallyequal" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2243"/>
+  <outline>
+    <contour>
+      <point x="44.0" y="159.5" type="line"/>
+      <point x="519.0" y="159.5" type="line"/>
+      <point x="534.7" y="257.5" type="line"/>
+      <point x="59.7" y="257.5" type="line"/>
+    </contour>
+    <component base="asciitilde" xOffset="19.0" yOffset="114.0"/>
+  </outline>
+</glyph>

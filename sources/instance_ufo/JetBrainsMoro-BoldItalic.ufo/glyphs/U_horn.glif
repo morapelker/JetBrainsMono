@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="600.0"/>
+  <unicode hex="01AF"/>
+  <anchor x="372.0" y="730.0" name="top"/>
+  <anchor x="256.0" y="0.0" name="bottom"/>
+  <anchor x="457.0" y="730.0" name="horn"/>
+  <anchor x="305.0" y="0.0" name="ogonek"/>
+  <anchor x="652.0" y="730.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="499.51" y="644.525" type="line"/>
+      <point x="557.435" y="644.525" type="line" smooth="yes"/>
+      <point x="634.89" y="644.525"/>
+      <point x="693.005" y="691.47"/>
+      <point x="704.345" y="762.925" type="curve" smooth="yes"/>
+      <point x="716.76" y="840.0" type="line"/>
+      <point x="615.435" y="840.0" type="line"/>
+      <point x="603.435" y="765.0" type="line" smooth="yes"/>
+      <point x="600.435" y="743.415"/>
+      <point x="585.02" y="730.0"/>
+      <point x="563.435" y="730.0" type="curve" smooth="yes"/>
+      <point x="513.435" y="730.0" type="line"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+</glyph>

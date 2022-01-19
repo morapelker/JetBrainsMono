@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.half" format="2">
+  <advance width="400.0"/>
+  <outline>
+    <contour>
+      <point x="68.4" y="0.0" type="line"/>
+      <point x="348.4" y="0.0" type="line"/>
+      <point x="348.4" y="48.0" type="line"/>
+      <point x="146.0" y="48.0" type="line"/>
+      <point x="255.2" y="100.8" type="line" smooth="yes"/>
+      <point x="308.6" y="126.8"/>
+      <point x="336.4" y="166.2"/>
+      <point x="336.4" y="217.4" type="curve" smooth="yes"/>
+      <point x="336.4" y="291.2"/>
+      <point x="282.2" y="340.0"/>
+      <point x="198.6" y="340.0" type="curve" smooth="yes"/>
+      <point x="115.0" y="340.0"/>
+      <point x="58.0" y="286.4"/>
+      <point x="56.4" y="206.0" type="curve"/>
+      <point x="109.8" y="206.0" type="line"/>
+      <point x="109.8" y="258.2"/>
+      <point x="145.6" y="292.4"/>
+      <point x="198.6" y="292.4" type="curve" smooth="yes"/>
+      <point x="250.0" y="292.4"/>
+      <point x="283.0" y="261.4"/>
+      <point x="283.0" y="214.8" type="curve" smooth="yes"/>
+      <point x="283.0" y="184.6"/>
+      <point x="263.8" y="161.4"/>
+      <point x="229.6" y="142.8" type="curve" smooth="yes"/>
+      <point x="68.4" y="55.4" type="line"/>
+    </contour>
+  </outline>
+</glyph>

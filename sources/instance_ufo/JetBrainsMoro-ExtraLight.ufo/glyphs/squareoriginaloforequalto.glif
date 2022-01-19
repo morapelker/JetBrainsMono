@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="squareoriginaloforequalto" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2292"/>
+  <outline>
+    <contour>
+      <point x="39.0" y="206.0" type="line"/>
+      <point x="553.0" y="206.0" type="line"/>
+      <point x="553.0" y="674.0" type="line"/>
+      <point x="39.0" y="674.0" type="line"/>
+      <point x="39.0" y="614.2" type="line"/>
+      <point x="487.0" y="614.2" type="line"/>
+      <point x="487.0" y="265.8" type="line"/>
+      <point x="39.0" y="265.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="39.0" y="0.0" type="line"/>
+      <point x="553.0" y="0.0" type="line"/>
+      <point x="553.0" y="59.8" type="line"/>
+      <point x="39.0" y="59.8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

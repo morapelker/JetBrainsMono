@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scedilla" format="2">
+  <advance width="600.0"/>
+  <unicode hex="015E"/>
+  <anchor x="256.0" y="0.0" name="_bottom"/>
+  <anchor x="256.0" y="0.0" name="bottom"/>
+  <anchor x="372.0" y="730.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="137.26666666666665" y="-200.86666666666667" type="line"/>
+      <point x="220.93333333333334" y="-200.86666666666667" type="line" smooth="yes"/>
+      <point x="289.73333333333335" y="-200.86666666666667"/>
+      <point x="341.6" y="-164.66666666666666"/>
+      <point x="348.3333333333333" y="-119.46666666666667" type="curve" smooth="yes"/>
+      <point x="356.6" y="-66.13333333333334"/>
+      <point x="294.6666666666667" y="-39.93333333333333"/>
+      <point x="244.26666666666668" y="-34.733333333333334" type="curve"/>
+      <point x="275.53333333333336" y="26.0" type="line"/>
+      <point x="222.53333333333333" y="26.0" type="line"/>
+      <point x="172.8" y="-67.66666666666667" type="line"/>
+      <point x="240.86666666666667" y="-67.66666666666667"/>
+      <point x="278.0" y="-88.2"/>
+      <point x="273.73333333333335" y="-113.6" type="curve" smooth="yes"/>
+      <point x="270.73333333333335" y="-132.66666666666666"/>
+      <point x="247.93333333333334" y="-151.2"/>
+      <point x="218.13333333333333" y="-151.2" type="curve" smooth="yes"/>
+      <point x="145.46666666666667" y="-151.2" type="line"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>S</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

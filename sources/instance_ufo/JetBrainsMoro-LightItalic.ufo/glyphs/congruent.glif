@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="congruent" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2245"/>
+  <outline>
+    <contour>
+      <point x="44.93333333333334" y="86.13333333333333" type="line"/>
+      <point x="494.26666666666665" y="86.13333333333333" type="line"/>
+      <point x="504.93333333333334" y="153.6" type="line"/>
+      <point x="55.6" y="153.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="78.13333333333333" y="296.26666666666665" type="line"/>
+      <point x="527.4666666666667" y="296.26666666666665" type="line"/>
+      <point x="538.1333333333333" y="363.73333333333335" type="line"/>
+      <point x="88.8" y="363.73333333333335" type="line"/>
+    </contour>
+    <component base="asciitilde" xOffset="33.4" yOffset="207.0"/>
+  </outline>
+</glyph>

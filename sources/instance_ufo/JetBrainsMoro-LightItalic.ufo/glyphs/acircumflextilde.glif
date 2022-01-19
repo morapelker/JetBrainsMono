@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflextilde" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1EAB"/>
+  <anchor x="261.0" y="0.0" name="bottom"/>
+  <anchor x="417.3333333333333" y="0.0" name="ogonek"/>
+  <anchor x="406.73333333333335" y="927.2" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflexcomb_tildecomb" xOffset="604.0"/>
+  </outline>
+</glyph>

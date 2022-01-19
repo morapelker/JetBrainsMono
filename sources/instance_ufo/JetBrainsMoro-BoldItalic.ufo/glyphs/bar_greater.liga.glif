@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar_greater.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-390.775" y="-85.0" type="line"/>
+      <point x="-265.675" y="-85.0" type="line"/>
+      <point x="372.87" y="267.13" type="line"/>
+      <point x="392.965" y="392.87" type="line"/>
+      <point x="-133.675" y="750.0" type="line"/>
+      <point x="-258.775" y="750.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-241.24" y="62.269999999999996" type="line"/>
+      <point x="-153.355" y="617.24" type="line"/>
+      <point x="213.13" y="370.735" type="line" smooth="yes"/>
+      <point x="237.205" y="354.49"/>
+      <point x="262.62" y="342.585"/>
+      <point x="274.62" y="337.925" type="curve"/>
+      <point x="261.79" y="333.095"/>
+      <point x="231.96" y="320.435"/>
+      <point x="202.3" y="304.19" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

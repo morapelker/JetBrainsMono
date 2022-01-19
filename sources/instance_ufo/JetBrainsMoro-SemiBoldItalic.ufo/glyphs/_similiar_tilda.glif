@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_similiar_tilda" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="53.9" y="255.0" type="line"/>
+      <point x="149.4" y="255.0" type="line"/>
+      <point x="154.4" y="285.0" type="line" smooth="yes"/>
+      <point x="158.4" y="312.1"/>
+      <point x="178.2" y="328.5"/>
+      <point x="206.0" y="328.5" type="curve" smooth="yes"/>
+      <point x="267.4" y="328.5"/>
+      <point x="294.6" y="245.5"/>
+      <point x="399.8" y="245.5" type="curve" smooth="yes"/>
+      <point x="484.3" y="245.5"/>
+      <point x="545.9" y="299.9"/>
+      <point x="559.5" y="386.5" type="curve" smooth="yes"/>
+      <point x="562.8" y="406.0" type="line"/>
+      <point x="467.3" y="406.0" type="line"/>
+      <point x="462.6" y="376.0" type="line" smooth="yes"/>
+      <point x="458.6" y="348.9"/>
+      <point x="438.5" y="332.5"/>
+      <point x="410.7" y="332.5" type="curve" smooth="yes"/>
+      <point x="348.6" y="332.5"/>
+      <point x="321.7" y="415.5"/>
+      <point x="217.2" y="415.5" type="curve" smooth="yes"/>
+      <point x="132.7" y="415.5"/>
+      <point x="70.4" y="361.1"/>
+      <point x="56.8" y="274.5" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

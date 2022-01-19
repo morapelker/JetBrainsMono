@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="-257.0" y="550.0" name="_top"/>
+  <anchor x="-257.0" y="785.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-267.4" y="645.0" type="line"/>
+      <point x="-354.65" y="785.0" type="line"/>
+      <point x="-451.3" y="785.0" type="line"/>
+      <point x="-358.3" y="645.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-85.7" y="645.0" type="line"/>
+      <point x="-172.95" y="785.0" type="line"/>
+      <point x="-269.6" y="785.0" type="line"/>
+      <point x="-176.6" y="645.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

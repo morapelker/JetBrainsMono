@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="curlyor" format="2">
+  <advance width="600.0"/>
+  <unicode hex="22CE"/>
+  <outline>
+    <contour>
+      <point x="572.0" y="452.3" type="curve"/>
+      <point x="572.0" y="554.3" type="line"/>
+      <point x="408.0" y="536.9"/>
+      <point x="302.0" y="396.5"/>
+      <point x="296.6" y="187.3" type="curve"/>
+      <point x="298.6" y="187.3" type="line"/>
+      <point x="295.2" y="396.2"/>
+      <point x="190.3" y="536.6"/>
+      <point x="27.0" y="554.3" type="curve"/>
+      <point x="27.0" y="452.3" type="line"/>
+      <point x="157.1" y="435.3"/>
+      <point x="238.0" y="294.3"/>
+      <point x="238.0" y="86.1" type="curve"/>
+      <point x="238.0" y="0.0" type="line"/>
+      <point x="356.0" y="0.0" type="line"/>
+      <point x="356.0" y="86.1" type="line"/>
+      <point x="356.0" y="295.2"/>
+      <point x="438.9" y="435.9"/>
+    </contour>
+  </outline>
+</glyph>

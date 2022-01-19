@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nje-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="040A"/>
+  <outline>
+    <contour>
+      <point x="45.395" y="0.0" type="line"/>
+      <point x="148.795" y="0.0" type="line"/>
+      <point x="148.795" y="349.15" type="line"/>
+      <point x="277.075" y="349.15" type="line"/>
+      <point x="277.075" y="0.0" type="line"/>
+      <point x="408.3" y="0.0" type="line" smooth="yes"/>
+      <point x="518.0" y="0.0"/>
+      <point x="585.85" y="65.85"/>
+      <point x="585.85" y="172.55" type="curve" smooth="yes"/>
+      <point x="585.85" y="271.49" type="line" smooth="yes"/>
+      <point x="585.85" y="378.775"/>
+      <point x="518.0" y="444.625"/>
+      <point x="408.3" y="444.625" type="curve" smooth="yes"/>
+      <point x="380.475" y="444.625" type="line"/>
+      <point x="380.475" y="730.0" type="line"/>
+      <point x="277.075" y="730.0" type="line"/>
+      <point x="277.075" y="444.625" type="line"/>
+      <point x="148.795" y="444.625" type="line"/>
+      <point x="148.795" y="730.0" type="line"/>
+      <point x="45.395" y="730.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="380.475" y="95.475" type="line"/>
+      <point x="380.475" y="349.15" type="line"/>
+      <point x="408.3" y="349.15" type="line" smooth="yes"/>
+      <point x="454.79" y="349.15"/>
+      <point x="482.45" y="320.32"/>
+      <point x="482.45" y="270.32" type="curve" smooth="yes"/>
+      <point x="482.45" y="173.135" type="line" smooth="yes"/>
+      <point x="482.45" y="124.305"/>
+      <point x="455.375" y="95.475"/>
+      <point x="408.3" y="95.475" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

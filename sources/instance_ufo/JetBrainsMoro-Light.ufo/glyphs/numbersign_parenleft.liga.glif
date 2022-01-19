@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_parenleft.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-514.6" y="0.0" type="line"/>
+      <point x="-451.26666666666665" y="0.0" type="line"/>
+      <point x="-410.93333333333334" y="215.33333333333334" type="line"/>
+      <point x="-244.0" y="215.33333333333334" type="line"/>
+      <point x="-284.3333333333333" y="0.0" type="line"/>
+      <point x="-221.0" y="0.0" type="line"/>
+      <point x="-180.66666666666666" y="215.33333333333334" type="line"/>
+      <point x="236.33333333333334" y="215.33333333333334" type="line"/>
+      <point x="236.33333333333334" y="273.6666666666667" type="line"/>
+      <point x="-170.46666666666667" y="273.6666666666667" type="line"/>
+      <point x="-135.93333333333334" y="456.3333333333333" type="line"/>
+      <point x="236.33333333333334" y="456.3333333333333" type="line"/>
+      <point x="236.33333333333334" y="514.6666666666666" type="line"/>
+      <point x="-125.73333333333333" y="514.6666666666666" type="line"/>
+      <point x="-85.4" y="730.0" type="line"/>
+      <point x="-148.73333333333332" y="730.0" type="line"/>
+      <point x="-189.06666666666666" y="514.6666666666666" type="line"/>
+      <point x="-356.0" y="514.6666666666666" type="line"/>
+      <point x="-315.6666666666667" y="730.0" type="line"/>
+      <point x="-379.0" y="730.0" type="line"/>
+      <point x="-419.3333333333333" y="514.6666666666666" type="line"/>
+      <point x="-530.0" y="514.6666666666666" type="line"/>
+      <point x="-530.0" y="456.3333333333333" type="line"/>
+      <point x="-429.53333333333336" y="456.3333333333333" type="line"/>
+      <point x="-464.06666666666666" y="273.6666666666667" type="line"/>
+      <point x="-565.0" y="273.6666666666667" type="line"/>
+      <point x="-565.0" y="215.33333333333334" type="line"/>
+      <point x="-474.26666666666665" y="215.33333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="-400.73333333333335" y="273.6666666666667" type="line"/>
+      <point x="-366.2" y="456.3333333333333" type="line"/>
+      <point x="-199.26666666666668" y="456.3333333333333" type="line"/>
+      <point x="-233.8" y="273.6666666666667" type="line"/>
+    </contour>
+    <component base="parenleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>parenleft</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

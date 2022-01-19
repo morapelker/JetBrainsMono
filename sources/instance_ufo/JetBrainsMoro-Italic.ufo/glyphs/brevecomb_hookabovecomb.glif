@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookabovecomb" format="2">
+  <anchor x="-256" y="550" name="_top"/>
+  <anchor x="-197" y="930" name="top"/>
+  <outline>
+    <contour>
+      <point x="-243" y="640" type="curve" smooth="yes"/>
+      <point x="-144" y="640"/>
+      <point x="-64" y="692"/>
+      <point x="-52" y="770" type="curve"/>
+      <point x="-122" y="770" type="line"/>
+      <point x="-129" y="726"/>
+      <point x="-171" y="701"/>
+      <point x="-233" y="701" type="curve" smooth="yes"/>
+      <point x="-294" y="701"/>
+      <point x="-329" y="726"/>
+      <point x="-322" y="770" type="curve"/>
+      <point x="-392" y="770" type="line"/>
+      <point x="-404" y="692"/>
+      <point x="-342" y="640"/>
+    </contour>
+    <contour>
+      <point x="-277" y="760" type="line"/>
+      <point x="-192" y="760" type="line"/>
+      <point x="-149" y="810" type="line" smooth="yes"/>
+      <point x="-136" y="825"/>
+      <point x="-127" y="841"/>
+      <point x="-124" y="859" type="curve" smooth="yes"/>
+      <point x="-117" y="901"/>
+      <point x="-150" y="930"/>
+      <point x="-207" y="930" type="curve" smooth="yes"/>
+      <point x="-272" y="930" type="line"/>
+      <point x="-281" y="870" type="line"/>
+      <point x="-232" y="870" type="line" smooth="yes"/>
+      <point x="-215" y="870"/>
+      <point x="-207" y="861"/>
+      <point x="-209" y="846" type="curve" smooth="yes"/>
+      <point x="-210" y="838"/>
+      <point x="-215" y="829"/>
+      <point x="-222" y="821" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

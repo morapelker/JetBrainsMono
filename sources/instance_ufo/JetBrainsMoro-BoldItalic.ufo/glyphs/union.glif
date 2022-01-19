@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="union" format="2">
+  <advance width="600.0"/>
+  <unicode hex="222A"/>
+  <outline>
+    <contour>
+      <point x="253.435" y="80.0" type="curve" smooth="yes"/>
+      <point x="284.565" y="80.0" type="line" smooth="yes"/>
+      <point x="425.34" y="80.0"/>
+      <point x="532.36" y="172.85"/>
+      <point x="554.53" y="313.455" type="curve" smooth="yes"/>
+      <point x="603.53" y="623.775" type="line"/>
+      <point x="478.43" y="623.775" type="line"/>
+      <point x="429.43" y="314.04" type="line" smooth="yes"/>
+      <point x="418.185" y="241.325"/>
+      <point x="367.715" y="195.1"/>
+      <point x="301.0" y="195.1" type="curve" smooth="yes"/>
+      <point x="272.7" y="195.1" type="line" smooth="yes"/>
+      <point x="205.985" y="195.1"/>
+      <point x="170.42" y="241.325"/>
+      <point x="181.665" y="314.04" type="curve" smooth="yes"/>
+      <point x="231.07999999999998" y="623.775" type="line"/>
+      <point x="105.98" y="623.775" type="line"/>
+      <point x="56.980000000000004" y="313.455" type="line" smooth="yes"/>
+      <point x="34.81" y="172.85"/>
+      <point x="112.66" y="80.0"/>
+    </contour>
+  </outline>
+</glyph>

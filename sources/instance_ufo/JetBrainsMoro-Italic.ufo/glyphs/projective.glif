@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="projective" format="2">
+  <advance width="600"/>
+  <unicode hex="2305"/>
+  <outline>
+    <contour>
+      <point x="85" y="470" type="line"/>
+      <point x="515" y="470" type="line"/>
+      <point x="515" y="550" type="line"/>
+      <point x="85" y="550" type="line"/>
+    </contour>
+    <component base="control" yOffset="-140"/>
+  </outline>
+</glyph>

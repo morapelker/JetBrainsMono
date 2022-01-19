@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four-gujarati" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0AEA"/>
+  <outline>
+    <contour>
+      <point x="300.0" y="-10.0" type="curve" smooth="yes"/>
+      <point x="439.095" y="-10.0"/>
+      <point x="531.7" y="69.49"/>
+      <point x="531.7" y="180.34" type="curve" smooth="yes"/>
+      <point x="531.7" y="235.83"/>
+      <point x="508.38" y="288.415"/>
+      <point x="466.06" y="338.735" type="curve" smooth="yes"/>
+      <point x="205.74" y="650.0" type="line"/>
+      <point x="64.3" y="650.0" type="line"/>
+      <point x="369.715" y="285.055" type="line" smooth="yes"/>
+      <point x="394.28" y="256.49"/>
+      <point x="406.6" y="228.265"/>
+      <point x="406.6" y="198.285" type="curve" smooth="yes"/>
+      <point x="406.6" y="141.305"/>
+      <point x="364.205" y="99.25"/>
+      <point x="300.0" y="99.25" type="curve" smooth="yes"/>
+      <point x="235.795" y="99.25"/>
+      <point x="193.4" y="141.305"/>
+      <point x="193.4" y="198.285" type="curve" smooth="yes"/>
+      <point x="193.4" y="227.34"/>
+      <point x="204.965" y="256.15"/>
+      <point x="228.7" y="284.47" type="curve" smooth="yes"/>
+      <point x="535.7" y="650.0" type="line"/>
+      <point x="398.015" y="650.0" type="line"/>
+      <point x="139.45" y="343.245" type="line" smooth="yes"/>
+      <point x="94.035" y="289.075"/>
+      <point x="68.3" y="238.415"/>
+      <point x="68.3" y="180.34" type="curve" smooth="yes"/>
+      <point x="68.3" y="69.49"/>
+      <point x="160.905" y="-10.0"/>
+    </contour>
+  </outline>
+</glyph>

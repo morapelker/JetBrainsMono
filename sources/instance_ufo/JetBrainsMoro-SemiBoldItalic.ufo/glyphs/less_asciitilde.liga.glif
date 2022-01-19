@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_asciitilde.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-336.8" y="35.0" type="line"/>
+      <point x="-214.5" y="35.0" type="line"/>
+      <point x="-352.7" y="259.3" type="line"/>
+      <point x="-270.0" y="278.9"/>
+      <point x="-240.0" y="351.8"/>
+      <point x="-184.7" y="351.8" type="curve" smooth="yes"/>
+      <point x="-120.7" y="351.8"/>
+      <point x="-132.6" y="224.8"/>
+      <point x="-9.1" y="224.8" type="curve" smooth="yes"/>
+      <point x="114.4" y="224.8"/>
+      <point x="144.7" y="351.8"/>
+      <point x="208.7" y="351.8" type="curve" smooth="yes"/>
+      <point x="272.7" y="351.8"/>
+      <point x="258.9" y="224.8"/>
+      <point x="382.4" y="224.8" type="curve" smooth="yes"/>
+      <point x="462.5" y="224.8"/>
+      <point x="527.1" y="278.5"/>
+      <point x="539.4" y="357.0" type="curve" smooth="yes"/>
+      <point x="546.0" y="400.0" type="line"/>
+      <point x="450.5" y="400.0" type="line"/>
+      <point x="444.8" y="361.2" type="line" smooth="yes"/>
+      <point x="440.4" y="328.5"/>
+      <point x="420.6" y="310.3"/>
+      <point x="393.0" y="310.3" type="curve" smooth="yes"/>
+      <point x="328.9" y="310.3"/>
+      <point x="344.3" y="437.3"/>
+      <point x="220.8" y="437.3" type="curve" smooth="yes"/>
+      <point x="97.3" y="437.3"/>
+      <point x="68.4" y="310.3"/>
+      <point x="4.3999999999999995" y="310.3" type="curve" smooth="yes"/>
+      <point x="-58.2" y="310.3"/>
+      <point x="-47.7" y="437.3"/>
+      <point x="-171.2" y="437.3" type="curve" smooth="yes"/>
+      <point x="-298.9" y="437.3"/>
+      <point x="-309.8" y="322.2"/>
+      <point x="-396.3" y="340.8" type="curve" smooth="yes"/>
+      <point x="-401.4" y="336.0" type="line"/>
+      <point x="-399.2" y="319.8" type="line"/>
+      <point x="-111.5" y="625.0" type="line"/>
+      <point x="-242.8" y="625.0" type="line"/>
+      <point x="-518.5" y="330.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question_equal.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-152.0" y="205.0" type="line"/>
+      <point x="440.0" y="205.0" type="line"/>
+      <point x="451.6666666666667" y="277.0" type="line"/>
+      <point x="-92.33333333333333" y="277.0" type="line"/>
+      <point x="-100.06666666666666" y="260.2"/>
+      <point x="-119.6" y="245.46666666666667"/>
+      <point x="-146.8" y="235.66666666666666" type="curve"/>
+    </contour>
+    <contour>
+      <point x="44.93333333333333" y="437.0" type="line"/>
+      <point x="476.93333333333334" y="437.0" type="line"/>
+      <point x="488.6" y="509.0" type="line"/>
+      <point x="56.6" y="509.0" type="line"/>
+    </contour>
+    <component base="question" xOffset="-560.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>question</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

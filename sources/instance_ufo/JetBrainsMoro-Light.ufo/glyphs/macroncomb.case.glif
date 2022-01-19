@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb.case" format="2">
+  <anchor x="-300.0" y="730.0" name="_top"/>
+  <anchor x="-300.0" y="910.2" name="top"/>
+  <outline>
+    <contour>
+      <point x="-454.6666666666667" y="843.7333333333333" type="line"/>
+      <point x="-145.33333333333334" y="843.7333333333333" type="line"/>
+      <point x="-145.33333333333334" y="910.2" type="line"/>
+      <point x="-454.6666666666667" y="910.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

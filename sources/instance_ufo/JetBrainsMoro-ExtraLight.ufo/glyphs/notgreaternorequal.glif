@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notgreaternorequal" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2271"/>
+  <outline>
+    <contour>
+      <point x="124.8" y="-110.0" type="line"/>
+      <point x="177.6" y="-110.0" type="line"/>
+      <point x="475.2" y="780.0" type="line"/>
+      <point x="422.4" y="780.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="88.0" y="0.0" type="line"/>
+      <point x="512.0" y="0.0" type="line"/>
+      <point x="512.0" y="59.8" type="line"/>
+      <point x="88.0" y="59.8" type="line"/>
+    </contour>
+    <component base="greater" yOffset="126.0"/>
+  </outline>
+</glyph>

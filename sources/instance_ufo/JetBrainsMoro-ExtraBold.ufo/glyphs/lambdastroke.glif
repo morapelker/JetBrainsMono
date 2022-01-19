@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lambdastroke" format="2">
+  <advance width="600"/>
+  <unicode hex="019B"/>
+  <outline>
+    <contour>
+      <point x="90" y="445" type="line"/>
+      <point x="470" y="635" type="line"/>
+      <point x="470" y="740" type="line"/>
+      <point x="90" y="550" type="line"/>
+    </contour>
+    <component base="lambda"/>
+  </outline>
+</glyph>

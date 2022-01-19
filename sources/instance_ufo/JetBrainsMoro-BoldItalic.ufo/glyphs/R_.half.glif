@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.half" format="2">
+  <advance width="400.0"/>
+  <outline>
+    <contour>
+      <point x="1.0" y="0.0" type="line"/>
+      <point x="78.7" y="0.0" type="line"/>
+      <point x="96.945" y="116.13" type="line"/>
+      <point x="213.15" y="116.13" type="line" smooth="yes"/>
+      <point x="300.585" y="116.13"/>
+      <point x="367.02" y="165.565"/>
+      <point x="367.02" y="240.905" type="curve" smooth="yes"/>
+      <point x="367.02" y="296.83"/>
+      <point x="320.755" y="335.0"/>
+      <point x="247.905" y="335.0" type="curve" smooth="yes"/>
+      <point x="54.0" y="335.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="250.32" y="0.0" type="line"/>
+      <point x="336.85" y="0.0" type="line"/>
+      <point x="242.68" y="141.0" type="line"/>
+      <point x="158.15" y="141.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="106.7" y="176.66" type="line"/>
+      <point x="121.53" y="271.15" type="line"/>
+      <point x="239.735" y="271.15" type="line" smooth="yes"/>
+      <point x="269.32" y="271.15"/>
+      <point x="288.32" y="254.735"/>
+      <point x="288.32" y="230.735" type="curve" smooth="yes"/>
+      <point x="288.32" y="198.905"/>
+      <point x="259.905" y="176.66"/>
+      <point x="223.905" y="176.66" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

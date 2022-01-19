@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleftupperhook" format="2">
+  <advance width="600.0"/>
+  <unicode hex="239B"/>
+  <outline>
+    <contour>
+      <point x="237.45" y="-300.0" type="line"/>
+      <point x="362.55" y="-300.0" type="line"/>
+      <point x="362.55" y="409.05" type="line" smooth="yes"/>
+      <point x="362.55" y="565.635"/>
+      <point x="437.87" y="684.73"/>
+      <point x="555.0" y="713.39" type="curve"/>
+      <point x="555.0" y="840.0" type="line"/>
+      <point x="361.98" y="789.32"/>
+      <point x="237.45" y="620.43"/>
+      <point x="237.45" y="409.05" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

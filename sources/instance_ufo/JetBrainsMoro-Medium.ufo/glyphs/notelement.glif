@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notelement" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2209"/>
+  <outline>
+    <contour>
+      <point x="119.25" y="-60.0" type="line"/>
+      <point x="186.45" y="-60.0" type="line"/>
+      <point x="480.75" y="780.0" type="line"/>
+      <point x="413.55" y="780.0" type="line"/>
+    </contour>
+    <component base="element"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>element</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

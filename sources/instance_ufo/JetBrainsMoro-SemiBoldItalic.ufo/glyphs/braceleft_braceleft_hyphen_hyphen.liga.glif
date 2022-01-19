@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft_braceleft_hyphen_hyphen.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-922.5" y="281.0" type="line"/>
+      <point x="517.0" y="281.0" type="line"/>
+      <point x="532.7" y="379.0" type="line"/>
+      <point x="-906.8" y="379.0" type="line"/>
+    </contour>
+    <component base="braceleft" xOffset="-1740.0" yOffset="-30.0"/>
+    <component base="braceleft" xOffset="-1207.0" yOffset="-30.0"/>
+  </outline>
+</glyph>

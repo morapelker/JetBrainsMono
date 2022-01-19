@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescender-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="04B7"/>
+  <outline>
+    <contour>
+      <point x="393.25" y="-140.0" type="line"/>
+      <point x="480.75" y="-140.0" type="line"/>
+      <point x="517.1" y="89.0" type="line"/>
+      <point x="429.6" y="89.0" type="line"/>
+    </contour>
+    <component base="che-cy" xOffset="-5.75"/>
+  </outline>
+</glyph>

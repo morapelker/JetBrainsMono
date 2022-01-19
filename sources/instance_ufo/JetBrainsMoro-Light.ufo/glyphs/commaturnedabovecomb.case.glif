@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb.case" format="2">
+  <anchor x="-300.0" y="730.0" name="_top"/>
+  <anchor x="-292.8666666666667" y="1020.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-203.73333333333332" y="1020.0" type="line"/>
+      <point x="-270.73333333333335" y="1020.0" type="line"/>
+      <point x="-382.0" y="810.0" type="line"/>
+      <point x="-273.0" y="810.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tripleprime" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2034"/>
+  <outline>
+    <component base="minute" xOffset="203.0"/>
+    <component base="minute" xOffset="-142.0"/>
+    <component base="minute" xOffset="30.2"/>
+  </outline>
+</glyph>

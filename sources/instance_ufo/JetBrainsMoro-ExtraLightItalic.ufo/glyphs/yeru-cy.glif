@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="044B"/>
+  <outline>
+    <contour>
+      <point x="30.0" y="0.0" type="line"/>
+      <point x="147.6" y="0.0" type="line" smooth="yes"/>
+      <point x="265.4" y="0.0"/>
+      <point x="348.4" y="66.0"/>
+      <point x="365.8" y="171.6" type="curve" smooth="yes"/>
+      <point x="382.2" y="277.2"/>
+      <point x="319.2" y="343.2"/>
+      <point x="202.0" y="343.2" type="curve" smooth="yes"/>
+      <point x="148.0" y="343.2" type="line"/>
+      <point x="180.6" y="550.0" type="line"/>
+      <point x="117.0" y="550.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="102.2" y="55.8" type="line"/>
+      <point x="139.4" y="287.4" type="line"/>
+      <point x="193.4" y="287.4" type="line" smooth="yes"/>
+      <point x="274.2" y="287.4"/>
+      <point x="315.0" y="244.6"/>
+      <point x="303.8" y="171.6" type="curve" smooth="yes"/>
+      <point x="291.6" y="98.6"/>
+      <point x="237.0" y="55.8"/>
+      <point x="156.2" y="55.8" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="418.4" y="0.0" type="line"/>
+      <point x="482.0" y="0.0" type="line"/>
+      <point x="569.0" y="550.0" type="line"/>
+      <point x="505.4" y="550.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

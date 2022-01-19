@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yeru-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="042B"/>
+  <outline>
+    <contour>
+      <point x="25.0" y="0.0" type="line"/>
+      <point x="144.66666666666666" y="0.0" type="line" smooth="yes"/>
+      <point x="265.8666666666667" y="0.0"/>
+      <point x="351.6666666666667" y="72.06666666666666"/>
+      <point x="370.4" y="189.26666666666668" type="curve" smooth="yes"/>
+      <point x="377.8666666666667" y="237.33333333333334" type="line" smooth="yes"/>
+      <point x="396.8666666666667" y="353.8"/>
+      <point x="332.8666666666667" y="427.3333333333333"/>
+      <point x="212.4" y="427.3333333333333" type="curve" smooth="yes"/>
+      <point x="167.66666666666666" y="427.3333333333333" type="line"/>
+      <point x="215.93333333333334" y="730.0" type="line"/>
+      <point x="141.0" y="730.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="111.33333333333333" y="69.93333333333334" type="line"/>
+      <point x="156.73333333333332" y="357.4" type="line"/>
+      <point x="201.46666666666667" y="357.4" type="line" smooth="yes"/>
+      <point x="276.8" y="357.4"/>
+      <point x="313.53333333333336" y="312.6666666666667"/>
+      <point x="301.46666666666664" y="237.33333333333334" type="curve" smooth="yes"/>
+      <point x="294.0" y="190.0" type="line" smooth="yes"/>
+      <point x="282.2" y="114.66666666666667"/>
+      <point x="231.4" y="69.93333333333334"/>
+      <point x="156.06666666666666" y="69.93333333333334" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="412.06666666666666" y="0.0" type="line"/>
+      <point x="487.0" y="0.0" type="line"/>
+      <point x="603.0" y="730.0" type="line"/>
+      <point x="528.0666666666667" y="730.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

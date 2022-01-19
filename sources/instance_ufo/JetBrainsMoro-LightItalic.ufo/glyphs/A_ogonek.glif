@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aogonek" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0104"/>
+  <anchor x="256.0" y="0.0" name="bottom"/>
+  <anchor x="453.6666666666667" y="0.0" name="ogonek"/>
+  <anchor x="372.0" y="730.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="429.1333333333333" y="-200.86666666666667" type="curve" smooth="yes"/>
+      <point x="505.8" y="-200.86666666666667" type="line"/>
+      <point x="514.2666666666667" y="-145.66666666666666" type="line"/>
+      <point x="453.2" y="-145.66666666666666" type="line" smooth="yes"/>
+      <point x="419.73333333333335" y="-145.66666666666666"/>
+      <point x="403.0" y="-125.2"/>
+      <point x="407.26666666666665" y="-95.66666666666667" type="curve" smooth="yes"/>
+      <point x="412.0" y="-67.66666666666667"/>
+      <point x="436.6" y="-36.0"/>
+      <point x="485.73333333333335" y="0.7333333333333334" type="curve"/>
+      <point x="498.73333333333335" y="10.0" type="line"/>
+      <point x="433.8666666666667" y="10.0" type="line"/>
+      <point x="367.3333333333333" y="-32.13333333333333"/>
+      <point x="336.4" y="-72.53333333333333"/>
+      <point x="330.4" y="-111.33333333333333" type="curve" smooth="yes"/>
+      <point x="321.6666666666667" y="-164.26666666666668"/>
+      <point x="360.2" y="-200.86666666666667"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+</glyph>

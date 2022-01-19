@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="0493"/>
+  <anchor x="330" y="550" name="top"/>
+  <outline>
+    <contour>
+      <point x="45" y="185" type="line"/>
+      <point x="425" y="185" type="line"/>
+      <point x="425" y="310" type="line"/>
+      <point x="45" y="310" type="line"/>
+    </contour>
+    <component base="ge-cy" xOffset="15"/>
+  </outline>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam_equal_equal.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-645.5" y="-68.0" type="line"/>
+      <point x="-551.5" y="-68.0" type="line"/>
+      <point x="60.5" y="728.0" type="line"/>
+      <point x="-32.8" y="728.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1079.3" y="514.6" type="line"/>
+      <point x="553.7" y="514.6" type="line"/>
+      <point x="568.4" y="606.8" type="line"/>
+      <point x="-1064.6" y="606.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1152.1" y="53.2" type="line"/>
+      <point x="480.9" y="53.2" type="line"/>
+      <point x="495.6" y="145.4" type="line"/>
+      <point x="-1137.4" y="145.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1115.7" y="283.9" type="line"/>
+      <point x="517.3" y="283.9" type="line"/>
+      <point x="532.0" y="376.1" type="line"/>
+      <point x="-1101.0" y="376.1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

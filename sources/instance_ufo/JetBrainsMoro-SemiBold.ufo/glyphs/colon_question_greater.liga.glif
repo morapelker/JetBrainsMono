@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon_question_greater.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-6.0" y="60.2" type="line"/>
+      <point x="433.0" y="273.4" type="line"/>
+      <point x="433.0" y="386.3" type="line"/>
+      <point x="-6.0" y="599.2" type="line"/>
+      <point x="-6.0" y="495.1" type="line"/>
+      <point x="293.8" y="351.7" type="line" smooth="yes"/>
+      <point x="318.6" y="339.4"/>
+      <point x="341.8" y="331.3"/>
+      <point x="358.9" y="328.3" type="curve"/>
+      <point x="342.5" y="325.0"/>
+      <point x="321.5" y="317.5"/>
+      <point x="293.8" y="304.6" type="curve" smooth="yes"/>
+      <point x="-6.0" y="161.9" type="line"/>
+    </contour>
+    <contour>
+      <point x="-906.5" y="-10.0" type="curve" smooth="yes"/>
+      <point x="-886.5" y="-10.0" type="line" smooth="yes"/>
+      <point x="-840.1" y="-10.0"/>
+      <point x="-807.0" y="23.1"/>
+      <point x="-807.0" y="69.5" type="curve" smooth="yes"/>
+      <point x="-807.0" y="115.2"/>
+      <point x="-840.8" y="149.0"/>
+      <point x="-886.5" y="149.0" type="curve" smooth="yes"/>
+      <point x="-906.5" y="149.0" type="line" smooth="yes"/>
+      <point x="-952.2" y="149.0"/>
+      <point x="-986.0" y="115.2"/>
+      <point x="-986.0" y="69.5" type="curve" smooth="yes"/>
+      <point x="-986.0" y="23.1"/>
+      <point x="-952.9" y="-10.0"/>
+    </contour>
+    <contour>
+      <point x="-906.5" y="401.0" type="curve" smooth="yes"/>
+      <point x="-886.5" y="401.0" type="line" smooth="yes"/>
+      <point x="-840.1" y="401.0"/>
+      <point x="-807.0" y="434.1"/>
+      <point x="-807.0" y="480.5" type="curve" smooth="yes"/>
+      <point x="-807.0" y="526.2"/>
+      <point x="-840.8" y="560.0"/>
+      <point x="-886.5" y="560.0" type="curve" smooth="yes"/>
+      <point x="-906.5" y="560.0" type="line" smooth="yes"/>
+      <point x="-952.2" y="560.0"/>
+      <point x="-986.0" y="526.2"/>
+      <point x="-986.0" y="480.5" type="curve" smooth="yes"/>
+      <point x="-986.0" y="434.1"/>
+      <point x="-952.9" y="401.0"/>
+    </contour>
+    <component base="question" xOffset="-706.3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>question</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

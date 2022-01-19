@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb.case" format="2">
+  <anchor x="-300.0" y="730.0" name="_top"/>
+  <anchor x="-300.3" y="1020.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-365.1" y="901.5" type="line"/>
+      <point x="-265.4" y="901.5" type="line"/>
+      <point x="-154.2" y="1020.0" type="line"/>
+      <point x="-260.4" y="1020.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-328.3" y="780.0" type="curve" smooth="yes"/>
+      <point x="-272.7" y="780.0" type="line" smooth="yes"/>
+      <point x="-182.2" y="780.0"/>
+      <point x="-124.5" y="830.6"/>
+      <point x="-124.5" y="911.5" type="curve"/>
+      <point x="-202.0" y="911.5" type="line"/>
+      <point x="-202.0" y="871.2"/>
+      <point x="-228.7" y="846.0"/>
+      <point x="-272.7" y="846.0" type="curve" smooth="yes"/>
+      <point x="-328.3" y="846.0" type="line" smooth="yes"/>
+      <point x="-371.9" y="846.0"/>
+      <point x="-398.3" y="871.2"/>
+      <point x="-398.3" y="911.5" type="curve"/>
+      <point x="-475.8" y="911.5" type="line"/>
+      <point x="-475.8" y="830.6"/>
+      <point x="-418.8" y="780.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

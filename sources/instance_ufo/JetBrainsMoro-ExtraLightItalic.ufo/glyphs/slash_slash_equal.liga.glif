@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash_slash_equal.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-422.2" y="185.0" type="line"/>
+      <point x="455.4" y="185.0" type="line"/>
+      <point x="464.8" y="244.0" type="line"/>
+      <point x="-412.8" y="244.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-305.4" y="416.6" type="line"/>
+      <point x="492.2" y="416.6" type="line"/>
+      <point x="501.6" y="475.6" type="line"/>
+      <point x="-296.0" y="475.6" type="line"/>
+    </contour>
+    <component base="slash" xOffset="-654.0"/>
+    <component base="slash" xOffset="-1105.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>slash</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>slash</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

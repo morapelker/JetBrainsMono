@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_equal_bar.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-934.4" y="35.0" type="line"/>
+      <point x="-822.9" y="35.0" type="line"/>
+      <point x="-903.85" y="164.75" type="line"/>
+      <point x="354.6" y="164.75" type="line"/>
+      <point x="334.5" y="35.0" type="line"/>
+      <point x="433.5" y="35.0" type="line"/>
+      <point x="526.5" y="625.0" type="line"/>
+      <point x="427.5" y="625.0" type="line"/>
+      <point x="407.25" y="495.25" type="line"/>
+      <point x="-843.05" y="495.25" type="line"/>
+      <point x="-719.75" y="625.0" type="line"/>
+      <point x="-840.4" y="625.0" type="line"/>
+      <point x="-1117.75" y="330.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-958.5" y="253.75" type="line"/>
+      <point x="-1002.65" y="326.15" type="line"/>
+      <point x="-927.55" y="406.25" type="line"/>
+      <point x="392.9" y="406.25" type="line"/>
+      <point x="369.1" y="253.75" type="line"/>
+    </contour>
+  </outline>
+</glyph>

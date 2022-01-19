@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notgreater" format="2">
+  <advance width="600.0"/>
+  <unicode hex="226F"/>
+  <outline>
+    <contour>
+      <point x="116.1" y="-69.7" type="line"/>
+      <point x="187.5" y="-69.7" type="line"/>
+      <point x="463.9" y="730.0" type="line"/>
+      <point x="392.5" y="730.0" type="line"/>
+    </contour>
+    <component base="greater"/>
+  </outline>
+</glyph>

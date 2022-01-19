@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore_bar_underscore.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-1048.6666666666667" y="-92.0" type="line"/>
+      <point x="331.3333333333333" y="-92.0" type="line"/>
+      <point x="342.0" y="-25.0" type="line"/>
+      <point x="-308.3333333333333" y="-25.0" type="line"/>
+      <point x="-185.33333333333334" y="750.0" type="line"/>
+      <point x="-264.6666666666667" y="750.0" type="line"/>
+      <point x="-387.6666666666667" y="-25.0" type="line"/>
+      <point x="-1038.0" y="-25.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccedilla" format="2">
+  <advance width="600.0"/>
+  <unicode hex="00C7"/>
+  <anchor x="305.0" y="0.0" name="_bottom"/>
+  <anchor x="305.0" y="0.0" name="bottom"/>
+  <anchor x="305.0" y="730.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="208.5" y="-206.3" type="line"/>
+      <point x="297.25" y="-206.3" type="line" smooth="yes"/>
+      <point x="371.05" y="-206.3"/>
+      <point x="420.25" y="-168.4"/>
+      <point x="420.25" y="-121.95" type="curve" smooth="yes"/>
+      <point x="420.25" y="-68.6"/>
+      <point x="350.3" y="-41.3"/>
+      <point x="296.95" y="-35.6" type="curve"/>
+      <point x="317.65" y="24.5" type="line"/>
+      <point x="258.25" y="24.5" type="line"/>
+      <point x="223.25" y="-69.0" type="line"/>
+      <point x="291.15" y="-69.0"/>
+      <point x="329.9" y="-88.85"/>
+      <point x="329.9" y="-113.05" type="curve" smooth="yes"/>
+      <point x="329.9" y="-130.75"/>
+      <point x="309.6" y="-149.05"/>
+      <point x="280.0" y="-149.05" type="curve" smooth="yes"/>
+      <point x="208.5" y="-149.05" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scedilla" format="2">
+  <advance width="600.0"/>
+  <unicode hex="015F"/>
+  <anchor x="310.0" y="0.0" name="_bottom"/>
+  <anchor x="300.0" y="0.0" name="bottom"/>
+  <anchor x="300.0" y="550.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="206.225" y="-215.87" type="line"/>
+      <point x="305.85" y="-215.87" type="line" smooth="yes"/>
+      <point x="384.87" y="-215.87"/>
+      <point x="437.55" y="-175.36"/>
+      <point x="437.55" y="-127.605" type="curve" smooth="yes"/>
+      <point x="437.55" y="-70.34"/>
+      <point x="361.945" y="-42.17"/>
+      <point x="304.68" y="-37.34" type="curve"/>
+      <point x="324.51" y="20.15" type="line"/>
+      <point x="258.15" y="20.15" type="line"/>
+      <point x="223.15" y="-69.0" type="line"/>
+      <point x="293.66" y="-69.0"/>
+      <point x="334.585" y="-88.415"/>
+      <point x="334.585" y="-116.095" type="curve" smooth="yes"/>
+      <point x="334.585" y="-132.925"/>
+      <point x="313.415" y="-152.095"/>
+      <point x="282.075" y="-152.095" type="curve" smooth="yes"/>
+      <point x="206.225" y="-152.095" type="line"/>
+    </contour>
+    <component base="s"/>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D.half" format="2">
+  <advance width="400.0"/>
+  <outline>
+    <contour>
+      <point x="-0.5" y="0.0" type="line"/>
+      <point x="151.0" y="0.0" type="line" smooth="yes"/>
+      <point x="252.5" y="0.0"/>
+      <point x="338.5" y="68.85"/>
+      <point x="353.5" y="167.0" type="curve" smooth="yes"/>
+      <point x="369.5" y="266.15"/>
+      <point x="305.5" y="335.0"/>
+      <point x="204.0" y="335.0" type="curve" smooth="yes"/>
+      <point x="52.5" y="335.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="77.95" y="60.0" type="line"/>
+      <point x="112.05" y="274.0" type="line"/>
+      <point x="194.55" y="274.0" type="line" smooth="yes"/>
+      <point x="254.25" y="274.0"/>
+      <point x="293.2" y="230.2"/>
+      <point x="282.5" y="167.0" type="curve" smooth="yes"/>
+      <point x="272.8" y="103.8"/>
+      <point x="220.15" y="60.0"/>
+      <point x="160.45" y="60.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

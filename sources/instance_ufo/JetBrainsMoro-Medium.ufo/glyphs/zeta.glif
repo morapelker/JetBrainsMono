@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeta" format="2">
+  <advance width="600.0"/>
+  <unicode hex="03B6"/>
+  <outline>
+    <contour>
+      <point x="439.6" y="-180.0" type="line"/>
+      <point x="538.6" y="-180.0" type="line"/>
+      <point x="538.6" y="-45.9" type="line" smooth="yes"/>
+      <point x="538.6" y="48.75"/>
+      <point x="495.6" y="87.5"/>
+      <point x="396.4" y="87.5" type="curve" smooth="yes"/>
+      <point x="271.95" y="87.5" type="line" smooth="yes"/>
+      <point x="202.6" y="87.5"/>
+      <point x="162.95" y="122.45"/>
+      <point x="162.95" y="179.7" type="curve" smooth="yes"/>
+      <point x="162.95" y="250.7"/>
+      <point x="220.15" y="345.05"/>
+      <point x="324.35" y="449.9" type="curve" smooth="yes"/>
+      <point x="506.35" y="633.1" type="line"/>
+      <point x="506.35" y="730.0" type="line"/>
+      <point x="88.2" y="730.0" type="line"/>
+      <point x="88.2" y="639.3" type="line"/>
+      <point x="400.9" y="639.3" type="line"/>
+      <point x="262.4" y="505.55" type="line" smooth="yes"/>
+      <point x="135.75" y="384.85"/>
+      <point x="63.8" y="273.45"/>
+      <point x="63.8" y="172.8" type="curve" smooth="yes"/>
+      <point x="63.8" y="68.3"/>
+      <point x="138.6" y="0.0"/>
+      <point x="271.1" y="0.0" type="curve" smooth="yes"/>
+      <point x="390.7" y="0.0" type="line" smooth="yes"/>
+      <point x="424.7" y="0.0"/>
+      <point x="439.6" y="-17.45"/>
+      <point x="439.6" y="-48.9" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

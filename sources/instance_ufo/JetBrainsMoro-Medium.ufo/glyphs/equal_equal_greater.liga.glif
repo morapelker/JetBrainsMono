@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_equal_greater.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="179.75" y="35.0" type="line"/>
+      <point x="295.4" y="35.0" type="line"/>
+      <point x="525.75" y="330.0" type="line"/>
+      <point x="296.4" y="625.0" type="line"/>
+      <point x="179.75" y="625.0" type="line"/>
+      <point x="281.8" y="495.25" type="line"/>
+      <point x="-1115.75" y="495.25" type="line"/>
+      <point x="-1115.75" y="406.25" type="line"/>
+      <point x="361.0" y="406.25" type="line"/>
+      <point x="355.1" y="402.15" type="line" smooth="yes"/>
+      <point x="389.1" y="359.0"/>
+      <point x="410.35" y="334.7"/>
+      <point x="417.5" y="328.85" type="curve"/>
+      <point x="410.5" y="323.0"/>
+      <point x="389.8" y="301.25"/>
+      <point x="358.65" y="261.4" type="curve" smooth="yes"/>
+      <point x="362.15" y="253.75" type="line"/>
+      <point x="-1115.75" y="253.75" type="line"/>
+      <point x="-1115.75" y="164.75" type="line"/>
+      <point x="281.95" y="164.75" type="line"/>
+    </contour>
+  </outline>
+</glyph>

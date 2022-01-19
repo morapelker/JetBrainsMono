@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N.half" format="2">
+  <advance width="400.0"/>
+  <outline>
+    <contour>
+      <point x="42.0" y="0.0" type="line"/>
+      <point x="113.0" y="0.0" type="line"/>
+      <point x="113.0" y="108.0" type="line" smooth="yes"/>
+      <point x="113.0" y="192.9"/>
+      <point x="110.1" y="207.5"/>
+      <point x="99.4" y="262.0" type="curve"/>
+      <point x="269.0" y="0.0" type="line"/>
+      <point x="358.0" y="0.0" type="line"/>
+      <point x="358.0" y="335.0" type="line"/>
+      <point x="287.0" y="335.0" type="line"/>
+      <point x="287.0" y="230.0" type="line" smooth="yes"/>
+      <point x="287.0" y="145.8"/>
+      <point x="289.9" y="129.3"/>
+      <point x="300.6" y="73.0" type="curve"/>
+      <point x="131.3" y="335.0" type="line"/>
+      <point x="42.0" y="335.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

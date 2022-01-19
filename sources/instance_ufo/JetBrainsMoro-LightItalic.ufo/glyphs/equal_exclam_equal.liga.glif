@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_exclam_equal.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-3.466666666666667" y="412.6666666666667" type="line"/>
+      <point x="541.5333333333333" y="412.6666666666667" type="line"/>
+      <point x="552.9333333333333" y="483.3333333333333" type="line"/>
+      <point x="7.933333333333334" y="483.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1135.9333333333334" y="176.66666666666666" type="line"/>
+      <point x="-590.9333333333333" y="176.66666666666666" type="line"/>
+      <point x="-579.5333333333333" y="247.33333333333334" type="line"/>
+      <point x="-1124.5333333333333" y="247.33333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1098.4666666666667" y="412.6666666666667" type="line"/>
+      <point x="-553.4666666666667" y="412.6666666666667" type="line"/>
+      <point x="-542.0666666666667" y="483.3333333333333" type="line"/>
+      <point x="-1087.0666666666666" y="483.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="-40.93333333333333" y="176.66666666666666" type="line"/>
+      <point x="504.06666666666666" y="176.66666666666666" type="line"/>
+      <point x="515.4666666666667" y="247.33333333333334" type="line"/>
+      <point x="-29.533333333333335" y="247.33333333333334" type="line"/>
+    </contour>
+    <component base="exclam" xOffset="-600.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>exclam</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

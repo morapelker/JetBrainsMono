@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_plus.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="184.53333333333333" y="49.0" type="line"/>
+      <point x="262.4" y="49.0" type="line"/>
+      <point x="301.4" y="295.3333333333333" type="line"/>
+      <point x="542.1333333333333" y="295.3333333333333" type="line"/>
+      <point x="553.5333333333333" y="366.0" type="line"/>
+      <point x="312.8" y="366.0" type="line"/>
+      <point x="351.3333333333333" y="612.3333333333334" type="line"/>
+      <point x="273.46666666666664" y="612.3333333333334" type="line"/>
+      <point x="234.93333333333334" y="366.0" type="line"/>
+      <point x="-5.8" y="366.0" type="line"/>
+      <point x="-17.2" y="295.3333333333333" type="line"/>
+      <point x="223.53333333333333" y="295.3333333333333" type="line"/>
+    </contour>
+    <component base="less" xOffset="-613.6666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>less</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

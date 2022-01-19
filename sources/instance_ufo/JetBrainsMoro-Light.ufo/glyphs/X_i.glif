@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Xi" format="2">
+  <advance width="600.0"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="81.33333333333333" y="656.5333333333333" type="line"/>
+      <point x="518.6666666666666" y="656.5333333333333" type="line"/>
+      <point x="518.6666666666666" y="730.0" type="line"/>
+      <point x="81.33333333333333" y="730.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="81.33333333333333" y="0.0" type="line"/>
+      <point x="518.6666666666666" y="0.0" type="line"/>
+      <point x="518.6666666666666" y="73.46666666666667" type="line"/>
+      <point x="81.33333333333333" y="73.46666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="114.0" y="333.26666666666665" type="line"/>
+      <point x="486.0" y="333.26666666666665" type="line"/>
+      <point x="486.0" y="406.73333333333335" type="line"/>
+      <point x="114.0" y="406.73333333333335" type="line"/>
+    </contour>
+  </outline>
+</glyph>
