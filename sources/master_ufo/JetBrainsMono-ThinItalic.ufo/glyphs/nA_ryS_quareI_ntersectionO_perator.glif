@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="nArySquareIntersectionOperator" format="2">
-  <advance width="600"/>
-  <unicode hex="2A05"/>
-  <outline>
-    <component base="nArySquareUnionOperator" yScale="-1" yOffset="730"/>
-  </outline>
-</glyph>

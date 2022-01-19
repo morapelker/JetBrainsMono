@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="exclam_exclam_braceright.liga" format="2">
-  <advance width="600"/>
-  <outline>
-    <component base="exclam" xOffset="-1146"/>
-    <component base="exclam" xOffset="-676"/>
-    <component base="braceright" xOffset="-110"/>
-  </outline>
-</glyph>

@@ -1,5 +1,5 @@
 #!/bin/bash
 
-fontmake JetBrainsMono-Italic.glyphs -o otf -a
-fontmake JetBrainsMono.glyphs -o otf -a
-cp -a master_otf/. /Users/mor/Library/Fonts/
+fontmake JetBrainsMono-Italic.glyphs -i -o ttf
+fontmake JetBrainsMono.glyphs -i -o ttf
+cp -a instance_ttf/. /Users/mor/Library/Fonts/
