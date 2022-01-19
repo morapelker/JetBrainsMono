@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_parenleft.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-529.2" y="0.0" type="line"/>
+      <point x="-474.2" y="0.0" type="line"/>
+      <point x="-419.0" y="222.0" type="line"/>
+      <point x="-243.4" y="222.0" type="line"/>
+      <point x="-298.6" y="0.0" type="line"/>
+      <point x="-243.6" y="0.0" type="line"/>
+      <point x="-188.4" y="222.0" type="line"/>
+      <point x="233.6" y="222.0" type="line"/>
+      <point x="238.0" y="272.0" type="line"/>
+      <point x="-174.8" y="272.0" type="line"/>
+      <point x="-128.4" y="458.0" type="line"/>
+      <point x="249.2" y="458.0" type="line"/>
+      <point x="253.2" y="508.0" type="line"/>
+      <point x="-115.2" y="508.0" type="line"/>
+      <point x="-59.6" y="730.0" type="line"/>
+      <point x="-114.6" y="730.0" type="line"/>
+      <point x="-170.2" y="508.0" type="line"/>
+      <point x="-345.8" y="508.0" type="line"/>
+      <point x="-290.2" y="730.0" type="line"/>
+      <point x="-345.2" y="730.0" type="line"/>
+      <point x="-400.8" y="508.0" type="line"/>
+      <point x="-514.8" y="508.0" type="line"/>
+      <point x="-518.8" y="458.0" type="line"/>
+      <point x="-414.0" y="458.0" type="line"/>
+      <point x="-460.4" y="272.0" type="line"/>
+      <point x="-565.0" y="272.0" type="line"/>
+      <point x="-569.4" y="222.0" type="line"/>
+      <point x="-474.0" y="222.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-405.4" y="272.0" type="line"/>
+      <point x="-359.0" y="458.0" type="line"/>
+      <point x="-183.4" y="458.0" type="line"/>
+      <point x="-229.8" y="272.0" type="line"/>
+    </contour>
+    <component base="parenleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>parenleft</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

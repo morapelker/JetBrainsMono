@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringequalto" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2257"/>
+  <outline>
+    <contour>
+      <point x="91.0" y="302.2" type="line"/>
+      <point x="509.0" y="302.2" type="line"/>
+      <point x="509.0" y="359.6" type="line"/>
+      <point x="91.0" y="359.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="91.0" y="98.8" type="line"/>
+      <point x="509.0" y="98.8" type="line"/>
+      <point x="509.0" y="156.2" type="line"/>
+      <point x="91.0" y="156.2" type="line"/>
+    </contour>
+    <component base="ringcomb" xOffset="600.0" yOffset="-115.0"/>
+  </outline>
+</glyph>

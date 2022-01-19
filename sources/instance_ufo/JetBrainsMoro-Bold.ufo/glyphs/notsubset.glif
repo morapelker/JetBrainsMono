@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notsubset" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2284"/>
+  <outline>
+    <contour>
+      <point x="117.075" y="-60.0" type="line"/>
+      <point x="196.45499999999998" y="-60.0" type="line"/>
+      <point x="482.925" y="780.0" type="line"/>
+      <point x="403.545" y="780.0" type="line"/>
+    </contour>
+    <component base="subset"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>subset</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

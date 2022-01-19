@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_numbersign_hyphen_hyphen.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-1536.8" y="35.0" type="line"/>
+      <point x="-1413.8" y="35.0" type="line"/>
+      <point x="-1566.5" y="281.0" type="line"/>
+      <point x="-1229.5" y="281.0" type="line"/>
+      <point x="-1213.8" y="379.0" type="line"/>
+      <point x="-1543.5" y="379.0" type="line"/>
+      <point x="-1312.2" y="625.0" type="line"/>
+      <point x="-1442.8" y="625.0" type="line"/>
+      <point x="-1718.5" y="330.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-559.5" y="281.0" type="line"/>
+      <point x="517.0" y="281.0" type="line"/>
+      <point x="532.7" y="379.0" type="line"/>
+      <point x="-543.8" y="379.0" type="line"/>
+    </contour>
+    <component base="numbersign" xOffset="-1200.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>numbersign</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

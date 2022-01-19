@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_colon.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="323.55" y="426.85" type="curve" smooth="yes"/>
+      <point x="373.35" y="426.85"/>
+      <point x="411.7" y="458.9"/>
+      <point x="419.85" y="509.1" type="curve" smooth="yes"/>
+      <point x="427.15" y="559.05"/>
+      <point x="399.25" y="592.25"/>
+      <point x="349.45" y="592.25" type="curve" smooth="yes"/>
+      <point x="299.65" y="592.25"/>
+      <point x="261.15" y="559.05"/>
+      <point x="253.85" y="509.1" type="curve" smooth="yes"/>
+      <point x="245.7" y="458.9"/>
+      <point x="273.75" y="426.85"/>
+    </contour>
+    <contour>
+      <point x="276.55" y="127.75" type="curve" smooth="yes"/>
+      <point x="326.35" y="127.75"/>
+      <point x="364.7" y="160.65"/>
+      <point x="372.0" y="210.85" type="curve" smooth="yes"/>
+      <point x="380.3" y="260.8"/>
+      <point x="352.25" y="293.15"/>
+      <point x="302.45" y="293.15" type="curve" smooth="yes"/>
+      <point x="252.65" y="293.15"/>
+      <point x="214.3" y="260.8"/>
+      <point x="206.0" y="210.85" type="curve" smooth="yes"/>
+      <point x="198.7" y="160.65"/>
+      <point x="226.75" y="127.75"/>
+    </contour>
+    <component base="numbersign" xOffset="-600.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>numbersign</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

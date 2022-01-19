@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numeral-greek" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0374"/>
+  <outline>
+    <contour>
+      <point x="161.25" y="409.85" type="line"/>
+      <point x="248.75" y="409.85" type="line"/>
+      <point x="378.75" y="720.85" type="line"/>
+      <point x="241.25" y="720.85" type="line"/>
+    </contour>
+  </outline>
+</glyph>

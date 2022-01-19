@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="superset" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2283"/>
+  <outline>
+    <contour>
+      <point x="29.25" y="117.75" type="line"/>
+      <point x="333.5" y="117.75" type="line" smooth="yes"/>
+      <point x="473.3" y="117.75"/>
+      <point x="566.5" y="205.65"/>
+      <point x="566.5" y="338.0" type="curve" smooth="yes"/>
+      <point x="566.5" y="382.0" type="line" smooth="yes"/>
+      <point x="566.5" y="514.35"/>
+      <point x="473.3" y="602.25"/>
+      <point x="333.5" y="602.25" type="curve" smooth="yes"/>
+      <point x="29.25" y="602.25" type="line"/>
+      <point x="29.25" y="511.55" type="line"/>
+      <point x="332.9" y="511.55" type="line" smooth="yes"/>
+      <point x="418.15" y="511.55"/>
+      <point x="467.5" y="463.65"/>
+      <point x="467.5" y="380.0" type="curve" smooth="yes"/>
+      <point x="467.5" y="340.0" type="line" smooth="yes"/>
+      <point x="467.5" y="256.35"/>
+      <point x="418.3" y="208.45"/>
+      <point x="332.9" y="208.45" type="curve" smooth="yes"/>
+      <point x="29.25" y="208.45" type="line"/>
+    </contour>
+  </outline>
+</glyph>

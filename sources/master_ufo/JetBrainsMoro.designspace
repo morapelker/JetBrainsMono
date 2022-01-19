@@ -11,14 +11,14 @@
       <map input="700" output="634"/>
       <map input="800" output="800"/>
     </axis>
-  </axes>
+  </axes> 
   <sources>
-    <source filename="JetBrainsMoro-Thin.ufo" name="JetBrains Moro Thin" familyname="JetBrains Moro" stylename="Thin">
+    <source filename="JetBrainsMoro-ThinItalic.ufo" name="JetBrains Moro Thin Italic" familyname="JetBrains Moro" stylename="Thin Italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="JetBrainsMoro-Regular.ufo" name="JetBrains Moro Regular" familyname="JetBrains Moro" stylename="Regular">
+    <source filename="JetBrainsMoro-Italic.ufo" name="JetBrains Moro Italic" familyname="JetBrains Moro" stylename="Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -27,19 +27,14 @@
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="JetBrainsMoro-ExtraBold.ufo" name="JetBrains Moro ExtraBold" familyname="JetBrains Moro" stylename="ExtraBold">
+    <source filename="JetBrainsMoro-ItalicExtraBold.ufo" name="JetBrains Moro ItalicExtraBold" familyname="JetBrains Moro" stylename="ItalicExtraBold">
       <location>
         <dimension name="Weight" xvalue="800"/>
       </location>
     </source>
-    <source filename="JetBrainsMoro-ExtraBold.ufo" name="JetBrains Moro ExtraBold {520}" layer="{520}">
-      <location>
-        <dimension name="Weight" xvalue="520"/>
-      </location>
-    </source>
   </sources>
   <instances>
-    <instance name="JetBrains Moro Thin" familyname="JetBrains Moro" stylename="Thin" filename="../instance_ufo/JetBrainsMoro-Thin.ufo" stylemapfamilyname="JetBrains Moro Thin" stylemapstylename="regular">
+    <instance name="JetBrains Moro Thin Italic" familyname="JetBrains Moro" stylename="Thin Italic" filename="../instance_ufo/JetBrainsMoro-ThinItalic.ufo" stylemapfamilyname="JetBrains Moro Thin" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -72,7 +67,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="JetBrains Moro ExtraLight" familyname="JetBrains Moro" stylename="ExtraLight" filename="../instance_ufo/JetBrainsMoro-ExtraLight.ufo" stylemapfamilyname="JetBrains Moro ExtraLight" stylemapstylename="regular">
+    <instance name="JetBrains Moro ExtraLight Italic" familyname="JetBrains Moro" stylename="ExtraLight Italic" filename="../instance_ufo/JetBrainsMoro-ExtraLightItalic.ufo" stylemapfamilyname="JetBrains Moro ExtraLight" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="220"/>
       </location>
@@ -105,7 +100,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="JetBrains Moro Light" familyname="JetBrains Moro" stylename="Light" filename="../instance_ufo/JetBrainsMoro-Light.ufo" stylemapfamilyname="JetBrains Moro Light" stylemapstylename="regular">
+    <instance name="JetBrains Moro Light Italic" familyname="JetBrains Moro" stylename="Light Italic" filename="../instance_ufo/JetBrainsMoro-LightItalic.ufo" stylemapfamilyname="JetBrains Moro Light" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="320"/>
       </location>
@@ -138,7 +133,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="JetBrains Moro Regular" familyname="JetBrains Moro" stylename="Regular" filename="../instance_ufo/JetBrainsMoro-Regular.ufo" stylemapfamilyname="JetBrains Moro" stylemapstylename="regular">
+    <instance name="JetBrains Moro Italic" familyname="JetBrains Moro" stylename="Italic" filename="../instance_ufo/JetBrainsMoro-Italic.ufo" stylemapfamilyname="JetBrains Moro" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="400"/>
       </location>
@@ -171,7 +166,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="JetBrains Moro Medium" familyname="JetBrains Moro" stylename="Medium" filename="../instance_ufo/JetBrainsMoro-Medium.ufo" stylemapfamilyname="JetBrains Moro Medium" stylemapstylename="regular">
+    <instance name="JetBrains Moro Medium Italic" familyname="JetBrains Moro" stylename="Medium Italic" filename="../instance_ufo/JetBrainsMoro-MediumItalic.ufo" stylemapfamilyname="JetBrains Moro Medium" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="460"/>
       </location>
@@ -204,7 +199,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="JetBrains Moro SemiBold" familyname="JetBrains Moro" stylename="SemiBold" filename="../instance_ufo/JetBrainsMoro-SemiBold.ufo" stylemapfamilyname="JetBrains Moro SemiBold" stylemapstylename="regular">
+    <instance name="JetBrains Moro SemiBold Italic" familyname="JetBrains Moro" stylename="SemiBold Italic" filename="../instance_ufo/JetBrainsMoro-SemiBoldItalic.ufo" stylemapfamilyname="JetBrains Moro SemiBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="520"/>
       </location>
@@ -237,7 +232,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="JetBrains Moro Bold" familyname="JetBrains Moro" stylename="Bold" filename="../instance_ufo/JetBrainsMoro-Bold.ufo" stylemapfamilyname="JetBrains Moro" stylemapstylename="bold">
+    <instance name="JetBrains Moro Bold Italic" familyname="JetBrains Moro" stylename="Bold Italic" filename="../instance_ufo/JetBrainsMoro-BoldItalic.ufo" stylemapfamilyname="JetBrains Moro" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="634"/>
       </location>
@@ -270,7 +265,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="JetBrains Moro ExtraBold" familyname="JetBrains Moro" stylename="ExtraBold" filename="../instance_ufo/JetBrainsMoro-ExtraBold.ufo" stylemapfamilyname="JetBrains Moro ExtraBold" stylemapstylename="regular">
+    <instance name="JetBrains Moro ExtraBold Italic" familyname="JetBrains Moro" stylename="ExtraBold Italic" filename="../instance_ufo/JetBrainsMoro-ExtraBoldItalic.ufo" stylemapfamilyname="JetBrains Moro ItalicExtraBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="800"/>
       </location>
@@ -311,7 +306,7 @@
         <key>9ADF6715-3D0F-493D-8567-18A6FBCFC567</key>
         <dict>
           <key>HH</key>
-          <string>135</string>
+          <integer>140</integer>
           <key>HV</key>
           <integer>150</integer>
           <key>OH</key>
@@ -325,14 +320,14 @@
           <key>oV</key>
           <integer>150</integer>
           <key>tH</key>
-          <string>135</string>
+          <integer>135</integer>
         </dict>
         <key>CCC0BD40-BA8C-414E-B576-CF0B94E6C996</key>
         <dict>
           <key>HH</key>
-          <string>82</string>
+          <integer>82</integer>
           <key>HV</key>
-          <string>90</string>
+          <integer>92</integer>
           <key>OH</key>
           <integer>80</integer>
           <key>OV</key>
@@ -391,8 +386,7 @@
         <string>V.half</string>
         <string>X.half</string>
         <string>_similiar_tilda</string>
-        <string>a.alt</string>
-        <string>bracketleft_bar_bar_bracketright.liga</string>
+        <string>equal_equal_equal.liga.old</string>
         <string>four.half</string>
         <string>one.half</string>
         <string>three.half</string>

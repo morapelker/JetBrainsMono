@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightCeiling" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2309"/>
+  <outline>
+    <contour>
+      <point x="240.25" y="-110.0" type="line"/>
+      <point x="339.25" y="-110.0" type="line"/>
+      <point x="487.25" y="830.0" type="line"/>
+      <point x="233.25" y="830.0" type="line"/>
+      <point x="219.75" y="741.0" type="line"/>
+      <point x="374.75" y="741.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="El-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="041B"/>
+  <outline>
+    <contour>
+      <point x="21.333333333333332" y="-5.0" type="line"/>
+      <point x="46.2" y="-5.0" type="line" smooth="yes"/>
+      <point x="152.13333333333333" y="-5.0"/>
+      <point x="203.13333333333333" y="71.26666666666667"/>
+      <point x="205.86666666666667" y="230.0" type="curve" smooth="yes"/>
+      <point x="213.13333333333333" y="657.6" type="line"/>
+      <point x="422.4" y="657.6" type="line"/>
+      <point x="422.4" y="0.0" type="line"/>
+      <point x="501.73333333333335" y="0.0" type="line"/>
+      <point x="501.73333333333335" y="730.0" type="line"/>
+      <point x="134.53333333333333" y="730.0" type="line"/>
+      <point x="126.53333333333333" y="230.0" type="line" smooth="yes"/>
+      <point x="124.8" y="116.93333333333334"/>
+      <point x="99.13333333333334" y="69.93333333333334"/>
+      <point x="42.53333333333333" y="69.93333333333334" type="curve" smooth="yes"/>
+      <point x="21.333333333333332" y="69.93333333333334" type="line"/>
+    </contour>
+  </outline>
+</glyph>

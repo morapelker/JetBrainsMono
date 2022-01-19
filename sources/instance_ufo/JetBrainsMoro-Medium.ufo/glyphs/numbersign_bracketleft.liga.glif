@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_bracketleft.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-518.65" y="0.0" type="line"/>
+      <point x="-444.15" y="0.0" type="line"/>
+      <point x="-406.5" y="204.75" type="line"/>
+      <point x="-251.0" y="204.75" type="line"/>
+      <point x="-288.65" y="0.0" type="line"/>
+      <point x="-214.15" y="0.0" type="line"/>
+      <point x="-176.5" y="204.75" type="line"/>
+      <point x="264.85" y="204.75" type="line"/>
+      <point x="264.85" y="275.0" type="line"/>
+      <point x="-164.6" y="275.0" type="line"/>
+      <point x="-131.35" y="455.0" type="line"/>
+      <point x="264.85" y="455.0" type="line"/>
+      <point x="264.85" y="525.25" type="line"/>
+      <point x="-119.45" y="525.25" type="line"/>
+      <point x="-81.65" y="730.0" type="line"/>
+      <point x="-156.15" y="730.0" type="line"/>
+      <point x="-193.95" y="525.25" type="line"/>
+      <point x="-349.45" y="525.25" type="line"/>
+      <point x="-311.65" y="730.0" type="line"/>
+      <point x="-386.15" y="730.0" type="line"/>
+      <point x="-423.95" y="525.25" type="line"/>
+      <point x="-530.15" y="525.25" type="line"/>
+      <point x="-530.15" y="455.0" type="line"/>
+      <point x="-435.85" y="455.0" type="line"/>
+      <point x="-469.1" y="275.0" type="line"/>
+      <point x="-565.15" y="275.0" type="line"/>
+      <point x="-565.15" y="204.75" type="line"/>
+      <point x="-481.0" y="204.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="-394.6" y="275.0" type="line"/>
+      <point x="-361.35" y="455.0" type="line"/>
+      <point x="-205.85" y="455.0" type="line"/>
+      <point x="-239.1" y="275.0" type="line"/>
+    </contour>
+    <component base="bracketleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bracketleft</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

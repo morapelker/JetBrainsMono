@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uring" format="2">
+  <advance width="600.0"/>
+  <unicode hex="016E"/>
+  <anchor x="300.0" y="0.0" name="bottom"/>
+  <anchor x="386.8666666666667" y="730.0" name="horn"/>
+  <anchor x="351.3333333333333" y="0.0" name="ogonek"/>
+  <anchor x="300.0" y="990.2666666666667" name="top"/>
+  <anchor x="580.0" y="730.0" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="ringcomb.case" xOffset="600.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

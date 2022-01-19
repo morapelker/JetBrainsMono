@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb.case" format="2">
+  <anchor x="-300.0" y="730.0" name="_top"/>
+  <anchor x="-297.55" y="980.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="-344.25" y="799.4" type="line"/>
+      <point x="-255.5" y="799.4" type="line"/>
+      <point x="-220.5" y="849.9" type="line" smooth="yes"/>
+      <point x="-209.05" y="866.05"/>
+      <point x="-202.75" y="886.35"/>
+      <point x="-202.75" y="904.1" type="curve" smooth="yes"/>
+      <point x="-202.75" y="950.15"/>
+      <point x="-244.75" y="980.75"/>
+      <point x="-307.75" y="980.75" type="curve" smooth="yes"/>
+      <point x="-391.5" y="980.75" type="line"/>
+      <point x="-391.5" y="912.75" type="line"/>
+      <point x="-315.75" y="912.75" type="line" smooth="yes"/>
+      <point x="-294.2" y="912.75"/>
+      <point x="-284.5" y="907.05"/>
+      <point x="-284.5" y="893.2" type="curve" smooth="yes"/>
+      <point x="-284.5" y="885.2"/>
+      <point x="-288.5" y="875.5"/>
+      <point x="-298.65" y="861.65" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

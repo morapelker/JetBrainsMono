@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tse-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="457.505" y="-140.0" type="line"/>
+      <point x="572.605" y="-140.0" type="line"/>
+      <point x="572.605" y="112.175" type="line"/>
+      <point x="497.605" y="112.175" type="line"/>
+      <point x="497.605" y="730.0" type="line"/>
+      <point x="372.505" y="730.0" type="line"/>
+      <point x="372.505" y="112.175" type="line"/>
+      <point x="202.72" y="112.175" type="line"/>
+      <point x="202.72" y="730.0" type="line"/>
+      <point x="77.62" y="730.0" type="line"/>
+      <point x="77.62" y="0.0" type="line"/>
+      <point x="457.505" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde_at.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-104.1" y="246.25" type="curve" smooth="yes"/>
+      <point x="11.4" y="246.25"/>
+      <point x="104.8" y="337.15"/>
+      <point x="125.8" y="468.9" type="curve"/>
+      <point x="75.85" y="468.9" type="line"/>
+      <point x="62.3" y="384.45"/>
+      <point x="-5.55" y="327.25"/>
+      <point x="-91.3" y="327.25" type="curve" smooth="yes"/>
+      <point x="-211.5" y="327.25"/>
+      <point x="-204.0" y="458.75"/>
+      <point x="-349.6" y="458.75" type="curve" smooth="yes"/>
+      <point x="-438.55" y="458.75"/>
+      <point x="-515.2" y="397.4"/>
+      <point x="-528.35" y="315.75" type="curve" smooth="yes"/>
+      <point x="-538.5" y="255.0" type="line"/>
+      <point x="-448.25" y="255.0" type="line"/>
+      <point x="-438.4" y="314.25" type="line" smooth="yes"/>
+      <point x="-432.55" y="350.35"/>
+      <point x="-399.75" y="377.75"/>
+      <point x="-360.8" y="377.75" type="curve" smooth="yes"/>
+      <point x="-273.55" y="377.75"/>
+      <point x="-269.0" y="246.25"/>
+    </contour>
+    <component base="at"/>
+  </outline>
+</glyph>

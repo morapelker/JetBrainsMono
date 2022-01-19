@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus_greater.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-337.46666666666664" y="49.0" type="line"/>
+      <point x="-259.6" y="49.0" type="line"/>
+      <point x="-220.6" y="295.3333333333333" type="line"/>
+      <point x="20.133333333333333" y="295.3333333333333" type="line"/>
+      <point x="31.53333333333333" y="366.0" type="line"/>
+      <point x="-209.2" y="366.0" type="line"/>
+      <point x="-170.66666666666666" y="612.3333333333334" type="line"/>
+      <point x="-248.53333333333333" y="612.3333333333334" type="line"/>
+      <point x="-287.06666666666666" y="366.0" type="line"/>
+      <point x="-527.8" y="366.0" type="line"/>
+      <point x="-539.2" y="295.3333333333333" type="line"/>
+      <point x="-298.46666666666664" y="295.3333333333333" type="line"/>
+    </contour>
+    <component base="greater" xOffset="13.666666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>greater</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

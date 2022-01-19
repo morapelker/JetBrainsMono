@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0167"/>
+  <anchor x="360.0" y="0.0" name="bottom"/>
+  <anchor x="300.0" y="275.0" name="center"/>
+  <anchor x="300.0" y="705.0" name="top"/>
+  <anchor x="580.0" y="550.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="87.4" y="244.86666666666667" type="line"/>
+      <point x="472.3333333333333" y="244.86666666666667" type="line"/>
+      <point x="472.3333333333333" y="311.3333333333333" type="line"/>
+      <point x="87.4" y="311.3333333333333" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

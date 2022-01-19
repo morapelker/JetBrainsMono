@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftcurlybracketupperhook" format="2">
+  <advance width="600.0"/>
+  <unicode hex="23A7"/>
+  <outline>
+    <contour>
+      <point x="237.45" y="-300.0" type="line"/>
+      <point x="362.55" y="-300.0" type="line"/>
+      <point x="362.55" y="644.11" type="line" smooth="yes"/>
+      <point x="362.55" y="692.92"/>
+      <point x="388.7" y="714.9"/>
+      <point x="437.075" y="714.9" type="curve" smooth="yes"/>
+      <point x="487.925" y="714.9" type="line"/>
+      <point x="487.925" y="830.0" type="line"/>
+      <point x="419.525" y="830.0" type="line" smooth="yes"/>
+      <point x="306.205" y="830.0"/>
+      <point x="237.45" y="763.735"/>
+      <point x="237.45" y="655.81" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_slash.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-30.0" y="-110.0" type="line"/>
+      <point x="83.9" y="-110.0" type="line"/>
+      <point x="583.0" y="830.0" type="line"/>
+      <point x="469.1" y="830.0" type="line"/>
+      <point x="74.9" y="88.6" type="line"/>
+      <point x="-385.2" y="326.7" type="line"/>
+      <point x="-0.7000000000000002" y="490.7" type="line"/>
+      <point x="15.399999999999999" y="599.2" type="line"/>
+      <point x="-457.3" y="386.0" type="line"/>
+      <point x="-475.1" y="273.1" type="line"/>
+      <point x="31.2" y="5.699999999999999" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb.case" format="2">
+  <anchor x="-344.0" y="0.0" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="-370.06666666666666" y="-200.86666666666667" type="curve" smooth="yes"/>
+      <point x="-293.4" y="-200.86666666666667" type="line"/>
+      <point x="-284.93333333333334" y="-145.66666666666666" type="line"/>
+      <point x="-346.0" y="-145.66666666666666" type="line" smooth="yes"/>
+      <point x="-379.46666666666664" y="-145.66666666666666"/>
+      <point x="-396.2" y="-125.2"/>
+      <point x="-391.93333333333334" y="-95.66666666666667" type="curve" smooth="yes"/>
+      <point x="-387.2" y="-67.66666666666667"/>
+      <point x="-362.6" y="-36.0"/>
+      <point x="-313.46666666666664" y="0.7333333333333334" type="curve"/>
+      <point x="-300.46666666666664" y="10.0" type="line"/>
+      <point x="-365.3333333333333" y="10.0" type="line"/>
+      <point x="-431.8666666666667" y="-32.13333333333333"/>
+      <point x="-462.8" y="-72.53333333333333"/>
+      <point x="-468.8" y="-111.33333333333333" type="curve" smooth="yes"/>
+      <point x="-477.53333333333336" y="-164.26666666666668"/>
+      <point x="-439.0" y="-200.86666666666667"/>
+    </contour>
+  </outline>
+</glyph>

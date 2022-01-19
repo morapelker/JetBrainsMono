@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doesnotdivide" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2224"/>
+  <outline>
+    <contour>
+      <point x="115.2" y="140.0" type="line"/>
+      <point x="179.33333333333334" y="140.0" type="line"/>
+      <point x="513.8" y="590.0" type="line"/>
+      <point x="449.6666666666667" y="590.0" type="line"/>
+    </contour>
+    <component base="divides"/>
+  </outline>
+</glyph>

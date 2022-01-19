@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar_braceright.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-60.85" y="-110.585" type="line"/>
+      <point x="77.55" y="-110.585" type="line" smooth="yes"/>
+      <point x="190.285" y="-110.585"/>
+      <point x="266.795" y="-42.565"/>
+      <point x="259.625" y="66.53" type="curve" smooth="yes"/>
+      <point x="249.625" y="219.415" type="line" smooth="yes"/>
+      <point x="246.21" y="273.45"/>
+      <point x="271.815" y="301.865"/>
+      <point x="332.075" y="301.865" type="curve" smooth="yes"/>
+      <point x="450.85" y="301.865" type="line"/>
+      <point x="450.85" y="416.965" type="line"/>
+      <point x="332.075" y="416.965" type="line" smooth="yes"/>
+      <point x="271.4" y="416.965"/>
+      <point x="246.21" y="445.38"/>
+      <point x="249.625" y="499.415" type="curve" smooth="yes"/>
+      <point x="259.625" y="655.81" type="line" smooth="yes"/>
+      <point x="266.21" y="763.735"/>
+      <point x="190.87" y="830.0"/>
+      <point x="77.55" y="830.0" type="curve" smooth="yes"/>
+      <point x="-60.85" y="830.0" type="line"/>
+      <point x="-60.85" y="714.9" type="line"/>
+      <point x="60.0" y="714.9" type="line" smooth="yes"/>
+      <point x="108.375" y="714.9"/>
+      <point x="137.525" y="692.92"/>
+      <point x="134.525" y="644.11" type="curve" smooth="yes"/>
+      <point x="124.525" y="487.715" type="line" smooth="yes"/>
+      <point x="119.525" y="408.905"/>
+      <point x="176.54500000000002" y="357.415"/>
+      <point x="269.15" y="357.415" type="curve"/>
+      <point x="269.15" y="363.585" type="line"/>
+      <point x="176.96" y="363.585"/>
+      <point x="119.525" y="310.68"/>
+      <point x="124.525" y="231.115" type="curve" smooth="yes"/>
+      <point x="134.525" y="75.305" type="line" smooth="yes"/>
+      <point x="136.94" y="30.589999999999996"/>
+      <point x="107.205" y="4.515000000000001"/>
+      <point x="60.0" y="4.515000000000001" type="curve" smooth="yes"/>
+      <point x="-60.85" y="4.515000000000001" type="line"/>
+    </contour>
+    <component base="bar" xOffset="-580.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

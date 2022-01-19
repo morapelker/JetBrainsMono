@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde_greater.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="171.5" y="35.0" type="line"/>
+      <point x="297.8" y="35.0" type="line"/>
+      <point x="526.5" y="330.0" type="line"/>
+      <point x="298.8" y="625.0" type="line"/>
+      <point x="171.5" y="625.0" type="line"/>
+      <point x="411.6" y="319.8" type="line"/>
+      <point x="412.5" y="335.4" type="line"/>
+      <point x="405.5" y="340.2" type="line" smooth="yes"/>
+      <point x="316.9" y="323.1"/>
+      <point x="323.9" y="437.3"/>
+      <point x="196.5" y="437.3" type="curve" smooth="yes"/>
+      <point x="73.0" y="437.3"/>
+      <point x="63.1" y="310.3"/>
+      <point x="0.5" y="310.3" type="curve" smooth="yes"/>
+      <point x="-63.5" y="310.3"/>
+      <point x="-72.0" y="437.3"/>
+      <point x="-195.5" y="437.3" type="curve" smooth="yes"/>
+      <point x="-319.0" y="437.3"/>
+      <point x="-324.0" y="310.3"/>
+      <point x="-388.1" y="310.3" type="curve" smooth="yes"/>
+      <point x="-415.7" y="310.3"/>
+      <point x="-431.5" y="327.8"/>
+      <point x="-431.5" y="360.5" type="curve" smooth="yes"/>
+      <point x="-431.5" y="399.3" type="line"/>
+      <point x="-527.0" y="399.3" type="line"/>
+      <point x="-527.0" y="356.3" type="line" smooth="yes"/>
+      <point x="-527.0" y="277.8"/>
+      <point x="-471.1" y="224.8"/>
+      <point x="-391.0" y="224.8" type="curve" smooth="yes"/>
+      <point x="-267.5" y="224.8"/>
+      <point x="-260.9" y="351.8"/>
+      <point x="-196.9" y="351.8" type="curve" smooth="yes"/>
+      <point x="-132.9" y="351.8"/>
+      <point x="-123.0" y="224.8"/>
+      <point x="0.5" y="224.8" type="curve" smooth="yes"/>
+      <point x="124.0" y="224.8"/>
+      <point x="132.5" y="351.8"/>
+      <point x="196.5" y="351.8" type="curve" smooth="yes"/>
+      <point x="252.1" y="351.8"/>
+      <point x="266.0" y="278.6"/>
+      <point x="346.0" y="258.6" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

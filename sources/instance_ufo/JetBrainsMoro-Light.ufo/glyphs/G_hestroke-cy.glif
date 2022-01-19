@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghestroke-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0492"/>
+  <anchor x="582.6666666666666" y="0.0" name="bottomright"/>
+  <anchor x="322.6666666666667" y="730.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="32.666666666666664" y="331.6" type="line"/>
+      <point x="377.3333333333333" y="331.6" type="line"/>
+      <point x="377.3333333333333" y="402.26666666666665" type="line"/>
+      <point x="32.666666666666664" y="402.26666666666665" type="line"/>
+    </contour>
+    <component base="Ge-cy" xOffset="2.6666666666666665"/>
+  </outline>
+</glyph>

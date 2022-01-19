@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright_numbersign.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="77.15" y="0.0" type="line"/>
+      <point x="164.7" y="0.0" type="line"/>
+      <point x="198.435" y="189.525" type="line"/>
+      <point x="340.885" y="189.525" type="line"/>
+      <point x="307.15" y="0.0" type="line"/>
+      <point x="394.7" y="0.0" type="line"/>
+      <point x="428.435" y="189.525" type="line"/>
+      <point x="530.0" y="189.525" type="line"/>
+      <point x="530.0" y="275.0" type="line"/>
+      <point x="442.945" y="275.0" type="line"/>
+      <point x="474.02" y="455.0" type="line"/>
+      <point x="565.0" y="455.0" type="line"/>
+      <point x="565.0" y="540.475" type="line"/>
+      <point x="488.53" y="540.475" type="line"/>
+      <point x="522.85" y="730.0" type="line"/>
+      <point x="435.3" y="730.0" type="line"/>
+      <point x="400.98" y="540.475" type="line"/>
+      <point x="258.53" y="540.475" type="line"/>
+      <point x="292.85" y="730.0" type="line"/>
+      <point x="205.3" y="730.0" type="line"/>
+      <point x="170.98" y="540.475" type="line"/>
+      <point x="-260.85" y="540.475" type="line"/>
+      <point x="-260.85" y="455.0" type="line"/>
+      <point x="156.47" y="455.0" type="line"/>
+      <point x="125.395" y="275.0" type="line"/>
+      <point x="-260.85" y="275.0" type="line"/>
+      <point x="-260.85" y="189.525" type="line"/>
+      <point x="110.885" y="189.525" type="line"/>
+    </contour>
+    <contour>
+      <point x="212.945" y="275.0" type="line"/>
+      <point x="244.02" y="455.0" type="line"/>
+      <point x="386.47" y="455.0" type="line"/>
+      <point x="355.395" y="275.0" type="line"/>
+    </contour>
+    <component base="bracketright" xOffset="-600.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bracketright</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.half" format="2">
+  <advance width="400.0"/>
+  <outline>
+    <contour>
+      <point x="28.5" y="0.0" type="line"/>
+      <point x="95.75" y="0.0" type="line"/>
+      <point x="95.75" y="95.0" type="line" smooth="yes"/>
+      <point x="95.75" y="198.0"/>
+      <point x="90.65" y="242.65"/>
+      <point x="80.65" y="293.65" type="curve"/>
+      <point x="165.65" y="96.0" type="line"/>
+      <point x="235.5" y="96.0" type="line"/>
+      <point x="318.35" y="296.65" type="line"/>
+      <point x="305.1" y="245.65"/>
+      <point x="305.1" y="185.0"/>
+      <point x="305.1" y="95.0" type="curve" smooth="yes"/>
+      <point x="305.1" y="0.0" type="line"/>
+      <point x="371.5" y="0.0" type="line"/>
+      <point x="371.5" y="335.0" type="line"/>
+      <point x="276.55" y="335.0" type="line"/>
+      <point x="225.35" y="213.0" type="line" smooth="yes"/>
+      <point x="211.8" y="180.85"/>
+      <point x="205.7" y="169.0"/>
+      <point x="201.15" y="147.05" type="curve"/>
+      <point x="196.6" y="169.0"/>
+      <point x="190.35" y="181.7"/>
+      <point x="177.65" y="212.0" type="curve" smooth="yes"/>
+      <point x="124.45" y="335.0" type="line"/>
+      <point x="28.5" y="335.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

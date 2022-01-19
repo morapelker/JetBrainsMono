@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightnormalfactorsemidirectproduct" format="2">
+  <advance width="600.0"/>
+  <unicode hex="22CA"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="600.0" type="line"/>
+      <point x="263.0" y="359.0" type="line"/>
+      <point x="0.0" y="119.0" type="line"/>
+      <point x="34.0" y="84.0" type="line"/>
+      <point x="299.0" y="325.0" type="line"/>
+      <point x="600.0" y="50.0" type="line"/>
+      <point x="600.0" y="667.0" type="line"/>
+      <point x="300.0" y="394.0" type="line"/>
+      <point x="35.0" y="637.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="550.0" y="165.0" type="line"/>
+      <point x="336.0" y="360.0" type="line"/>
+      <point x="550.0" y="555.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

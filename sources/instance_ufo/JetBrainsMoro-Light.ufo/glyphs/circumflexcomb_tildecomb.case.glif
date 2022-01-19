@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb.case" format="2">
+  <anchor x="-300.0" y="730.0" name="_top"/>
+  <anchor x="-300.0" y="1020.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-223.53333333333333" y="920.0" type="curve" smooth="yes"/>
+      <point x="-171.66666666666666" y="920.0"/>
+      <point x="-139.0" y="951.2"/>
+      <point x="-139.0" y="1000.8666666666667" type="curve" smooth="yes"/>
+      <point x="-139.0" y="1010.0" type="line"/>
+      <point x="-197.33333333333334" y="1010.0" type="line"/>
+      <point x="-197.33333333333334" y="1000.8666666666667" type="line" smooth="yes"/>
+      <point x="-197.33333333333334" y="981.5333333333333"/>
+      <point x="-209.86666666666667" y="969.0"/>
+      <point x="-228.66666666666666" y="969.0" type="curve" smooth="yes"/>
+      <point x="-275.0" y="969.0"/>
+      <point x="-291.3333333333333" y="1020.0"/>
+      <point x="-373.6666666666667" y="1020.0" type="curve" smooth="yes"/>
+      <point x="-427.06666666666666" y="1020.0"/>
+      <point x="-461.0" y="988.8"/>
+      <point x="-461.0" y="939.1333333333333" type="curve" smooth="yes"/>
+      <point x="-461.0" y="930.0" type="line"/>
+      <point x="-402.6666666666667" y="930.0" type="line"/>
+      <point x="-402.6666666666667" y="939.1333333333333" type="line" smooth="yes"/>
+      <point x="-402.6666666666667" y="958.4666666666667"/>
+      <point x="-389.8666666666667" y="971.0"/>
+      <point x="-370.0" y="971.0" type="curve" smooth="yes"/>
+      <point x="-323.6666666666667" y="971.0"/>
+      <point x="-305.1333333333333" y="920.0"/>
+    </contour>
+    <contour>
+      <point x="-472.0" y="780.0" type="line"/>
+      <point x="-385.8" y="780.0" type="line"/>
+      <point x="-300.0" y="858.0666666666667" type="line"/>
+      <point x="-215.13333333333333" y="780.0" type="line"/>
+      <point x="-128.0" y="780.0" type="line"/>
+      <point x="-245.06666666666666" y="892.9333333333333" type="line"/>
+      <point x="-354.93333333333334" y="892.9333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

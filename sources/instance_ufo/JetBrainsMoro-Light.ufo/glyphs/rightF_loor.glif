@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightFloor" format="2">
+  <advance width="600.0"/>
+  <unicode hex="230B"/>
+  <outline>
+    <contour>
+      <point x="151.33333333333334" y="-110.0" type="line"/>
+      <point x="391.0" y="-110.0" type="line"/>
+      <point x="391.0" y="830.0" type="line"/>
+      <point x="311.6666666666667" y="830.0" type="line"/>
+      <point x="311.6666666666667" y="-39.333333333333336" type="line"/>
+      <point x="151.33333333333334" y="-39.333333333333336" type="line"/>
+    </contour>
+  </outline>
+</glyph>

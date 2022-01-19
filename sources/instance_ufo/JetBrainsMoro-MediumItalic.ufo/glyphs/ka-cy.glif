@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="043A"/>
+  <anchor x="343.0" y="550.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="48.8" y="0.0" type="line"/>
+      <point x="147.8" y="0.0" type="line"/>
+      <point x="186.05" y="240.65" type="line"/>
+      <point x="280.05" y="240.65" type="line"/>
+      <point x="395.2" y="0.0" type="line"/>
+      <point x="507.65" y="0.0" type="line"/>
+      <point x="370.0" y="283.65" type="line"/>
+      <point x="591.65" y="550.0" type="line"/>
+      <point x="476.9" y="550.0" type="line"/>
+      <point x="288.1" y="325.85" type="line"/>
+      <point x="199.25" y="325.85" type="line"/>
+      <point x="234.8" y="550.0" type="line"/>
+      <point x="135.8" y="550.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

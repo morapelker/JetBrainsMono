@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn" format="2">
+  <advance width="600.0"/>
+  <unicode hex="00FE"/>
+  <anchor x="252.33333333333334" y="0.0" name="bottom"/>
+  <anchor x="368.3333333333333" y="730.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="20.4" y="-180.0" type="line"/>
+      <point x="99.73333333333333" y="-180.0" type="line"/>
+      <point x="137.73333333333332" y="59.0" type="line"/>
+      <point x="58.4" y="59.0" type="line"/>
+    </contour>
+    <component base="b" xOffset="-3.666666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>b</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

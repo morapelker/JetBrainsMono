@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K.half" format="2">
+  <advance width="400.0"/>
+  <outline>
+    <contour>
+      <point x="-0.5" y="0.0" type="line"/>
+      <point x="68.5" y="0.0" type="line"/>
+      <point x="91.2" y="141.5" type="line"/>
+      <point x="171.1" y="141.5" type="line"/>
+      <point x="249.65" y="0.0" type="line"/>
+      <point x="327.5" y="0.0" type="line"/>
+      <point x="232.9" y="170.3" type="line"/>
+      <point x="370.5" y="335.0" type="line"/>
+      <point x="290.05" y="335.0" type="line"/>
+      <point x="174.4" y="202.5" type="line"/>
+      <point x="100.65" y="202.5" type="line"/>
+      <point x="121.5" y="335.0" type="line"/>
+      <point x="52.5" y="335.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="044A"/>
+  <outline>
+    <contour>
+      <point x="138.66666666666666" y="0.0" type="line"/>
+      <point x="343.6666666666667" y="0.0" type="line" smooth="yes"/>
+      <point x="465.3333333333333" y="0.0"/>
+      <point x="542.3333333333334" y="67.26666666666667"/>
+      <point x="542.3333333333334" y="174.0" type="curve" smooth="yes"/>
+      <point x="542.3333333333334" y="281.73333333333335"/>
+      <point x="466.6" y="348.0"/>
+      <point x="343.6666666666667" y="348.0" type="curve" smooth="yes"/>
+      <point x="219.33333333333334" y="348.0" type="line"/>
+      <point x="219.33333333333334" y="550.0" type="line"/>
+      <point x="2.6666666666666665" y="550.0" type="line"/>
+      <point x="2.6666666666666665" y="478.0" type="line"/>
+      <point x="138.66666666666666" y="478.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="219.33333333333334" y="73.46666666666667" type="line"/>
+      <point x="219.33333333333334" y="274.53333333333336" type="line"/>
+      <point x="343.6666666666667" y="274.53333333333336" type="line" smooth="yes"/>
+      <point x="417.2" y="274.53333333333336"/>
+      <point x="459.46666666666664" y="238.53333333333333"/>
+      <point x="459.46666666666664" y="174.0" type="curve" smooth="yes"/>
+      <point x="459.46666666666664" y="109.73333333333333"/>
+      <point x="417.2" y="73.46666666666667"/>
+      <point x="343.6666666666667" y="73.46666666666667" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

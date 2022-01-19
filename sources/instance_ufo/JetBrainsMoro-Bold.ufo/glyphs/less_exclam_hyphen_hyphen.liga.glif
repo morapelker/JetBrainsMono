@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_exclam_hyphen_hyphen.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-1503.36" y="35.0" type="line"/>
+      <point x="-1355.825" y="35.0" type="line"/>
+      <point x="-1524.275" y="255.96" type="line" smooth="yes"/>
+      <point x="-1559.88" y="302.245"/>
+      <point x="-1578.635" y="326.17"/>
+      <point x="-1583.05" y="331.0" type="curve"/>
+      <point x="-1579.22" y="335.83"/>
+      <point x="-1560.88" y="358.51"/>
+      <point x="-1526.52" y="402.965" type="curve" smooth="yes"/>
+      <point x="-1355.825" y="625.0" type="line"/>
+      <point x="-1502.36" y="625.0" type="line"/>
+      <point x="-1727.925" y="330.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1618.675" y="272.45" type="line"/>
+      <point x="-1105.85" y="272.45" type="line"/>
+      <point x="-1105.85" y="387.55" type="line"/>
+      <point x="-1618.675" y="387.55" type="line"/>
+    </contour>
+    <contour>
+      <point x="-694.15" y="272.45" type="line"/>
+      <point x="517.925" y="272.45" type="line"/>
+      <point x="517.925" y="387.55" type="line"/>
+      <point x="-694.15" y="387.55" type="line"/>
+    </contour>
+    <component base="exclam" xOffset="-1200.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>exclam</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

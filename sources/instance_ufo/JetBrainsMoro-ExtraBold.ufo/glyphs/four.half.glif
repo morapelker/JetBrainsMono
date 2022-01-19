@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.half" format="2">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="252" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="336" y="225" type="line"/>
+      <point x="252" y="225" type="line"/>
+      <point x="252" y="136" type="line"/>
+      <point x="141" y="136" type="line"/>
+      <point x="141" y="146" type="line"/>
+      <point x="308" y="335" type="line"/>
+      <point x="210" y="335" type="line"/>
+      <point x="47" y="155" type="line"/>
+      <point x="47" y="56" type="line"/>
+      <point x="252" y="56" type="line"/>
+    </contour>
+  </outline>
+</glyph>

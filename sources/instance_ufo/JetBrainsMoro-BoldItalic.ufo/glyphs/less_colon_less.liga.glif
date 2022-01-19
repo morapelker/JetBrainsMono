@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_colon_less.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <component base="less" xOffset="-1160.0"/>
+    <component base="colon" xOffset="-600.0" yOffset="55.0"/>
+    <component base="less" xOffset="-90.0"/>
+  </outline>
+</glyph>

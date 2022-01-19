@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="squaredtimes" format="2">
+  <advance width="600.0"/>
+  <unicode hex="22A0"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="30.0" type="line"/>
+      <point x="600.0" y="30.0" type="line"/>
+      <point x="600.0" y="630.0" type="line"/>
+      <point x="0.0" y="630.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="50.0" y="80.0" type="line"/>
+      <point x="50.0" y="580.0" type="line"/>
+      <point x="550.0" y="580.0" type="line"/>
+      <point x="550.0" y="80.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="237.865" y="57.925" type="line"/>
+      <point x="362.135" y="57.925" type="line"/>
+      <point x="362.135" y="272.45" type="line"/>
+      <point x="570.85" y="272.45" type="line"/>
+      <point x="570.85" y="387.55" type="line"/>
+      <point x="362.135" y="387.55" type="line"/>
+      <point x="362.135" y="603.775" type="line"/>
+      <point x="237.865" y="603.775" type="line"/>
+      <point x="237.865" y="387.55" type="line"/>
+      <point x="29.15" y="387.55" type="line"/>
+      <point x="29.15" y="272.45" type="line"/>
+      <point x="237.865" y="272.45" type="line"/>
+    </contour>
+  </outline>
+</glyph>

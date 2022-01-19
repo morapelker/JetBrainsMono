@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notlessnorequal" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2270"/>
+  <outline>
+    <contour>
+      <point x="31.810000000000002" y="0.0" type="line"/>
+      <point x="479.36" y="0.0" type="line"/>
+      <point x="497.625" y="115.93" type="line"/>
+      <point x="50.075" y="115.93" type="line"/>
+    </contour>
+    <contour>
+      <point x="58.925" y="-110.0" type="line"/>
+      <point x="139.135" y="-110.0" type="line"/>
+      <point x="578.305" y="780.0" type="line"/>
+      <point x="498.095" y="780.0" type="line"/>
+    </contour>
+    <component base="less" xOffset="20.0" yOffset="125.0"/>
+  </outline>
+</glyph>

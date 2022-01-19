@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_parenleft.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-518.5" y="0.0" type="line"/>
+      <point x="-444.0" y="0.0" type="line"/>
+      <point x="-406.35" y="204.75" type="line"/>
+      <point x="-250.85" y="204.75" type="line"/>
+      <point x="-288.5" y="0.0" type="line"/>
+      <point x="-214.0" y="0.0" type="line"/>
+      <point x="-176.35" y="204.75" type="line"/>
+      <point x="239.5" y="204.75" type="line"/>
+      <point x="239.5" y="275.0" type="line"/>
+      <point x="-164.45" y="275.0" type="line"/>
+      <point x="-131.2" y="455.0" type="line"/>
+      <point x="239.5" y="455.0" type="line"/>
+      <point x="239.5" y="525.25" type="line"/>
+      <point x="-119.3" y="525.25" type="line"/>
+      <point x="-81.5" y="730.0" type="line"/>
+      <point x="-156.0" y="730.0" type="line"/>
+      <point x="-193.8" y="525.25" type="line"/>
+      <point x="-349.3" y="525.25" type="line"/>
+      <point x="-311.5" y="730.0" type="line"/>
+      <point x="-386.0" y="730.0" type="line"/>
+      <point x="-423.8" y="525.25" type="line"/>
+      <point x="-530.0" y="525.25" type="line"/>
+      <point x="-530.0" y="455.0" type="line"/>
+      <point x="-435.7" y="455.0" type="line"/>
+      <point x="-468.95" y="275.0" type="line"/>
+      <point x="-565.0" y="275.0" type="line"/>
+      <point x="-565.0" y="204.75" type="line"/>
+      <point x="-480.85" y="204.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="-394.45" y="275.0" type="line"/>
+      <point x="-361.2" y="455.0" type="line"/>
+      <point x="-205.7" y="455.0" type="line"/>
+      <point x="-238.95" y="275.0" type="line"/>
+    </contour>
+    <component base="parenleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>parenleft</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

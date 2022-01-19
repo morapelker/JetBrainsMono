@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar_braceright.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-109.33333333333333" y="-110.0" type="line"/>
+      <point x="5.4" y="-110.0" type="line" smooth="yes"/>
+      <point x="117.53333333333333" y="-110.0"/>
+      <point x="196.33333333333334" y="-50.6"/>
+      <point x="206.53333333333333" y="51.733333333333334" type="curve" smooth="yes"/>
+      <point x="222.8" y="224.53333333333333" type="line" smooth="yes"/>
+      <point x="229.53333333333333" y="295.53333333333336"/>
+      <point x="252.8" y="324.26666666666665"/>
+      <point x="338.8" y="324.26666666666665" type="curve" smooth="yes"/>
+      <point x="448.8" y="324.26666666666665" type="line"/>
+      <point x="459.46666666666664" y="395.2" type="line"/>
+      <point x="349.46666666666664" y="395.2" type="line" smooth="yes"/>
+      <point x="263.8" y="395.2"/>
+      <point x="249.93333333333334" y="423.4"/>
+      <point x="265.46666666666664" y="495.2" type="curve" smooth="yes"/>
+      <point x="303.8666666666667" y="668.2666666666667" type="line" smooth="yes"/>
+      <point x="326.6" y="770.6"/>
+      <point x="265.8" y="830.0"/>
+      <point x="153.66666666666666" y="830.0" type="curve" smooth="yes"/>
+      <point x="38.93333333333334" y="830.0" type="line"/>
+      <point x="28.266666666666666" y="759.3333333333334" type="line"/>
+      <point x="143.0" y="759.3333333333334" type="line" smooth="yes"/>
+      <point x="205.73333333333332" y="759.3333333333334"/>
+      <point x="237.33333333333334" y="727.4"/>
+      <point x="224.53333333333333" y="668.2666666666667" type="curve" smooth="yes"/>
+      <point x="186.13333333333333" y="495.2" type="line" smooth="yes"/>
+      <point x="167.66666666666666" y="411.4"/>
+      <point x="207.8" y="357.73333333333335"/>
+      <point x="288.0" y="357.73333333333335" type="curve"/>
+      <point x="288.26666666666665" y="363.26666666666665" type="line"/>
+      <point x="208.8" y="363.26666666666665"/>
+      <point x="151.2" y="307.8666666666667"/>
+      <point x="143.46666666666667" y="224.53333333333333" type="curve" smooth="yes"/>
+      <point x="127.2" y="51.733333333333334" type="line" smooth="yes"/>
+      <point x="121.2" y="-7.4"/>
+      <point x="78.8" y="-39.333333333333336"/>
+      <point x="16.066666666666666" y="-39.333333333333336" type="curve" smooth="yes"/>
+      <point x="-98.66666666666667" y="-39.333333333333336" type="line"/>
+    </contour>
+    <component base="bar" xOffset="-580.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notalmostequalto" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2249"/>
+  <outline>
+    <contour>
+      <point x="65.25" y="-60.0" type="line"/>
+      <point x="134.15" y="-60.0" type="line"/>
+      <point x="560.75" y="780.0" type="line"/>
+      <point x="491.85" y="780.0" type="line"/>
+    </contour>
+    <component base="asciitilde" xOffset="16.3" yOffset="101.5"/>
+    <component base="asciitilde" xOffset="-22.3" yOffset="-146.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>asciitilde</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>asciitilde</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

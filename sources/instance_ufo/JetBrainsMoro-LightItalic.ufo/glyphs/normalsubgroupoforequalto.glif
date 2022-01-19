@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="normalsubgroupoforequalto" format="2">
+  <advance width="600.0"/>
+  <unicode hex="22B4"/>
+  <outline>
+    <contour>
+      <point x="500.2" y="194.0" type="line"/>
+      <point x="583.1333333333333" y="716.0" type="line"/>
+      <point x="121.26666666666667" y="497.8" type="line"/>
+      <point x="107.4" y="412.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="42.333333333333336" y="0.0" type="line"/>
+      <point x="469.6666666666667" y="0.0" type="line"/>
+      <point x="481.06666666666666" y="70.66666666666667" type="line"/>
+      <point x="53.733333333333334" y="70.66666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="450.8666666666667" y="304.93333333333334" type="line"/>
+      <point x="232.93333333333334" y="423.73333333333335" type="line" smooth="yes"/>
+      <point x="209.86666666666667" y="436.53333333333336"/>
+      <point x="184.46666666666667" y="447.6666666666667"/>
+      <point x="170.86666666666667" y="452.26666666666665" type="curve"/>
+      <point x="185.26666666666668" y="456.8666666666667"/>
+      <point x="213.46666666666667" y="467.53333333333336"/>
+      <point x="241.53333333333333" y="480.3333333333333" type="curve" smooth="yes"/>
+      <point x="497.06666666666666" y="598.8666666666667" type="line"/>
+    </contour>
+  </outline>
+</glyph>

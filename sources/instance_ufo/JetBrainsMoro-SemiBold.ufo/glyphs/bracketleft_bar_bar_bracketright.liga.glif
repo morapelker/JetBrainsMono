@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft_bar_bar_bracketright.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="86.0" y="-110.0" type="line"/>
+      <point x="349.0" y="-110.0" type="line"/>
+      <point x="349.0" y="830.0" type="line"/>
+      <point x="86.0" y="830.0" type="line"/>
+      <point x="86.0" y="732.0" type="line"/>
+      <point x="241.0" y="732.0" type="line"/>
+      <point x="241.0" y="-12.0" type="line"/>
+      <point x="86.0" y="-12.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1549.0" y="-110.0" type="line"/>
+      <point x="-1286.0" y="-110.0" type="line"/>
+      <point x="-1286.0" y="-12.0" type="line"/>
+      <point x="-1441.0" y="-12.0" type="line"/>
+      <point x="-1441.0" y="732.0" type="line"/>
+      <point x="-1286.0" y="732.0" type="line"/>
+      <point x="-1286.0" y="830.0" type="line"/>
+      <point x="-1549.0" y="830.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-944.0" y="-110.0" type="line"/>
+      <point x="-836.0" y="-110.0" type="line"/>
+      <point x="-836.0" y="830.0" type="line"/>
+      <point x="-944.0" y="830.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-364.0" y="-110.0" type="line"/>
+      <point x="-256.0" y="-110.0" type="line"/>
+      <point x="-256.0" y="830.0" type="line"/>
+      <point x="-364.0" y="830.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

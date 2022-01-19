@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reflexsubset" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2286"/>
+  <outline>
+    <contour>
+      <point x="0.15000000000000036" y="0.0" type="line"/>
+      <point x="528.925" y="0.0" type="line"/>
+      <point x="547.19" y="115.93" type="line"/>
+      <point x="18.415" y="115.93" type="line"/>
+    </contour>
+    <component base="subset" xOffset="13.0" yOffset="80.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>subset</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

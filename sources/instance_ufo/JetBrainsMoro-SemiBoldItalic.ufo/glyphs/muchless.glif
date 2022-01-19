@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="muchless" format="2">
+  <advance width="600.0"/>
+  <unicode hex="226A"/>
+  <outline>
+    <contour>
+      <point x="566.1" y="59.9" type="line"/>
+      <point x="580.9" y="152.7" type="line"/>
+      <point x="400.8" y="297.0" type="line" smooth="yes"/>
+      <point x="382.0" y="312.1"/>
+      <point x="362.4" y="323.8"/>
+      <point x="349.1" y="329.4" type="curve"/>
+      <point x="363.7" y="335.0"/>
+      <point x="387.8" y="348.2"/>
+      <point x="411.5" y="362.9" type="curve" smooth="yes"/>
+      <point x="635.5" y="499.9" type="line"/>
+      <point x="651.6" y="598.9" type="line"/>
+      <point x="288.9" y="376.7" type="line"/>
+      <point x="274.8" y="285.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="292.4" y="59.9" type="line"/>
+      <point x="306.9" y="152.7" type="line"/>
+      <point x="127.8" y="297.0" type="line" smooth="yes"/>
+      <point x="109.0" y="312.1"/>
+      <point x="89.4" y="323.8"/>
+      <point x="76.1" y="329.4" type="curve"/>
+      <point x="90.7" y="335.0"/>
+      <point x="114.8" y="348.2"/>
+      <point x="138.5" y="362.9" type="curve" smooth="yes"/>
+      <point x="362.5" y="499.9" type="line"/>
+      <point x="377.6" y="598.9" type="line"/>
+      <point x="15.9" y="376.7" type="line"/>
+      <point x="1.8" y="285.2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

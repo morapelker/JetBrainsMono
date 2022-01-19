@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E.half" format="2">
+  <advance width="400.0"/>
+  <outline>
+    <contour>
+      <point x="353.51" y="65.02" type="line"/>
+      <point x="127.36" y="65.02" type="line"/>
+      <point x="127.36" y="140.49" type="line"/>
+      <point x="323.51" y="140.49" type="line"/>
+      <point x="323.51" y="194.51" type="line"/>
+      <point x="127.36" y="194.51" type="line"/>
+      <point x="127.36" y="269.98" type="line"/>
+      <point x="353.51" y="269.98" type="line"/>
+      <point x="353.51" y="335.0" type="line"/>
+      <point x="49.66" y="335.0" type="line"/>
+      <point x="49.66" y="0.0" type="line"/>
+      <point x="353.51" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

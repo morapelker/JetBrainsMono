@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_bracketleft.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-557.5333333333333" y="0.0" type="line"/>
+      <point x="-494.2" y="0.0" type="line"/>
+      <point x="-420.06666666666666" y="215.33333333333334" type="line"/>
+      <point x="-253.13333333333333" y="215.33333333333334" type="line"/>
+      <point x="-327.26666666666665" y="0.0" type="line"/>
+      <point x="-263.93333333333334" y="0.0" type="line"/>
+      <point x="-189.8" y="215.33333333333334" type="line"/>
+      <point x="249.2" y="215.33333333333334" type="line"/>
+      <point x="259.1333333333333" y="273.6666666666667" type="line"/>
+      <point x="-169.66666666666666" y="273.6666666666667" type="line"/>
+      <point x="-106.6" y="456.3333333333333" type="line"/>
+      <point x="287.6666666666667" y="456.3333333333333" type="line"/>
+      <point x="296.6" y="514.6666666666666" type="line"/>
+      <point x="-87.46666666666667" y="514.6666666666666" type="line"/>
+      <point x="-12.333333333333334" y="730.0" type="line"/>
+      <point x="-75.66666666666667" y="730.0" type="line"/>
+      <point x="-150.8" y="514.6666666666666" type="line"/>
+      <point x="-317.73333333333335" y="514.6666666666666" type="line"/>
+      <point x="-242.6" y="730.0" type="line"/>
+      <point x="-305.93333333333334" y="730.0" type="line"/>
+      <point x="-381.06666666666666" y="514.6666666666666" type="line"/>
+      <point x="-491.73333333333335" y="514.6666666666666" type="line"/>
+      <point x="-500.6666666666667" y="456.3333333333333" type="line"/>
+      <point x="-400.2" y="456.3333333333333" type="line"/>
+      <point x="-463.26666666666665" y="273.6666666666667" type="line"/>
+      <point x="-564.2" y="273.6666666666667" type="line"/>
+      <point x="-574.1333333333333" y="215.33333333333334" type="line"/>
+      <point x="-483.4" y="215.33333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="-399.93333333333334" y="273.6666666666667" type="line"/>
+      <point x="-336.8666666666667" y="456.3333333333333" type="line"/>
+      <point x="-169.93333333333334" y="456.3333333333333" type="line"/>
+      <point x="-233.0" y="273.6666666666667" type="line"/>
+    </contour>
+    <component base="bracketleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bracketleft</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

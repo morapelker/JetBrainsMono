@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_bracketleft.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-565.095" y="0.0" type="line"/>
+      <point x="-477.545" y="0.0" type="line"/>
+      <point x="-413.735" y="189.525" type="line"/>
+      <point x="-271.285" y="189.525" type="line"/>
+      <point x="-335.095" y="0.0" type="line"/>
+      <point x="-247.54500000000002" y="0.0" type="line"/>
+      <point x="-183.735" y="189.525" type="line"/>
+      <point x="252.83" y="189.525" type="line"/>
+      <point x="266.755" y="275.0" type="line"/>
+      <point x="-155.3" y="275.0" type="line"/>
+      <point x="-96.225" y="455.0" type="line"/>
+      <point x="294.755" y="455.0" type="line"/>
+      <point x="308.265" y="540.475" type="line"/>
+      <point x="-68.205" y="540.475" type="line"/>
+      <point x="-3.3950000000000005" y="730.0" type="line"/>
+      <point x="-90.945" y="730.0" type="line"/>
+      <point x="-155.755" y="540.475" type="line"/>
+      <point x="-298.205" y="540.475" type="line"/>
+      <point x="-233.395" y="730.0" type="line"/>
+      <point x="-320.945" y="730.0" type="line"/>
+      <point x="-385.755" y="540.475" type="line"/>
+      <point x="-486.735" y="540.475" type="line"/>
+      <point x="-500.245" y="455.0" type="line"/>
+      <point x="-413.775" y="455.0" type="line"/>
+      <point x="-472.85" y="275.0" type="line"/>
+      <point x="-563.245" y="275.0" type="line"/>
+      <point x="-577.17" y="189.525" type="line"/>
+      <point x="-501.285" y="189.525" type="line"/>
+    </contour>
+    <contour>
+      <point x="-385.3" y="275.0" type="line"/>
+      <point x="-326.225" y="455.0" type="line"/>
+      <point x="-183.775" y="455.0" type="line"/>
+      <point x="-242.85" y="275.0" type="line"/>
+    </contour>
+    <component base="bracketleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bracketleft</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

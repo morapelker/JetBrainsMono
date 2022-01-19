@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus_plus.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-336.72" y="92.075" type="line"/>
+      <point x="-212.45" y="92.075" type="line"/>
+      <point x="-183.79" y="272.45" type="line"/>
+      <point x="181.94" y="272.45" type="line"/>
+      <point x="153.28" y="92.075" type="line"/>
+      <point x="277.55" y="92.075" type="line"/>
+      <point x="306.21" y="272.45" type="line"/>
+      <point x="484.925" y="272.45" type="line"/>
+      <point x="503.19" y="387.55" type="line"/>
+      <point x="324.475" y="387.55" type="line"/>
+      <point x="352.72" y="567.925" type="line"/>
+      <point x="228.45" y="567.925" type="line"/>
+      <point x="200.205" y="387.55" type="line"/>
+      <point x="-165.525" y="387.55" type="line"/>
+      <point x="-137.28" y="567.925" type="line"/>
+      <point x="-261.55" y="567.925" type="line"/>
+      <point x="-289.795" y="387.55" type="line"/>
+      <point x="-468.51" y="387.55" type="line"/>
+      <point x="-486.775" y="272.45" type="line"/>
+      <point x="-308.06" y="272.45" type="line"/>
+    </contour>
+  </outline>
+</glyph>

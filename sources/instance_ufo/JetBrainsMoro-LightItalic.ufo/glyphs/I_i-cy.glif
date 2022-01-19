@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ii-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0418"/>
+  <anchor x="536.0" y="0.0" name="bottomright"/>
+  <anchor x="372.0" y="730.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="51.06666666666666" y="0.0" type="line"/>
+      <point x="157.46666666666667" y="0.0" type="line"/>
+      <point x="493.8666666666667" y="638.3333333333334" type="line"/>
+      <point x="482.93333333333334" y="591.7333333333333"/>
+      <point x="464.3333333333333" y="507.5333333333333"/>
+      <point x="455.73333333333335" y="450.0" type="curve" smooth="yes"/>
+      <point x="384.3333333333333" y="0.0" type="line"/>
+      <point x="460.93333333333334" y="0.0" type="line"/>
+      <point x="576.9333333333333" y="730.0" type="line"/>
+      <point x="470.26666666666665" y="730.0" type="line"/>
+      <point x="135.4" y="91.66666666666667" type="line"/>
+      <point x="144.53333333333333" y="132.66666666666666"/>
+      <point x="161.33333333333334" y="212.86666666666667"/>
+      <point x="172.26666666666668" y="280.0" type="curve" smooth="yes"/>
+      <point x="243.66666666666666" y="730.0" type="line"/>
+      <point x="167.06666666666666" y="730.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

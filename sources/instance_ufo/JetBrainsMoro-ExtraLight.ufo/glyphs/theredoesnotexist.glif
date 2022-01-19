@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theredoesnotexist" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2204"/>
+  <outline>
+    <contour>
+      <point x="74.8" y="-110.0" type="line"/>
+      <point x="130.4" y="-110.0" type="line"/>
+      <point x="475.4" y="830.0" type="line"/>
+      <point x="419.8" y="830.0" type="line"/>
+    </contour>
+    <component base="existential"/>
+  </outline>
+</glyph>

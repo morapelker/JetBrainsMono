@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="600.0"/>
+  <unicode hex="01A1"/>
+  <anchor x="334.8666666666667" y="550.0" name="top"/>
+  <anchor x="256.0" y="0.0" name="bottom"/>
+  <anchor x="300.0" y="275.0" name="center"/>
+  <anchor x="371.8" y="550.0" name="horn"/>
+  <anchor x="305.0" y="0.0" name="ogonek"/>
+  <anchor x="624.0" y="550.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="429.73333333333335" y="473.0" type="line"/>
+      <point x="467.6666666666667" y="473.0" type="line" smooth="yes"/>
+      <point x="527.4666666666667" y="473.0"/>
+      <point x="573.0666666666667" y="509.93333333333334"/>
+      <point x="581.8" y="565.3333333333334" type="curve" smooth="yes"/>
+      <point x="593.2666666666667" y="640.0" type="line"/>
+      <point x="527.6" y="640.0" type="line"/>
+      <point x="516.1333333333333" y="569.0" type="line" smooth="yes"/>
+      <point x="512.6" y="544.1333333333333"/>
+      <point x="497.0" y="530.0"/>
+      <point x="472.93333333333334" y="530.0" type="curve" smooth="yes"/>
+      <point x="438.6666666666667" y="530.0" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+</glyph>

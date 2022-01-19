@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf" format="2">
+  <advance width="600.0"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <contour>
+      <point x="314.25" y="0.0" type="line"/>
+      <point x="572.25" y="0.0" type="line"/>
+      <point x="572.25" y="53.75" type="line"/>
+      <point x="464.6" y="53.75" type="line" smooth="yes"/>
+      <point x="437.25" y="53.75"/>
+      <point x="406.85" y="49.05"/>
+      <point x="391.85" y="46.2" type="curve"/>
+      <point x="391.85" y="56.05" type="line"/>
+      <point x="479.6" y="104.9" type="line" smooth="yes"/>
+      <point x="536.25" y="136.5"/>
+      <point x="567.25" y="177.45"/>
+      <point x="567.25" y="219.35" type="curve" smooth="yes"/>
+      <point x="567.25" y="285.6"/>
+      <point x="516.8" y="330.0"/>
+      <point x="441.2" y="330.0" type="curve" smooth="yes"/>
+      <point x="367.85" y="330.0"/>
+      <point x="316.8" y="284.7"/>
+      <point x="314.25" y="216.0" type="curve"/>
+      <point x="378.75" y="216.0" type="line"/>
+      <point x="378.75" y="253.05"/>
+      <point x="403.7" y="277.0"/>
+      <point x="441.2" y="277.0" type="curve" smooth="yes"/>
+      <point x="478.1" y="277.0"/>
+      <point x="502.75" y="253.35"/>
+      <point x="502.75" y="216.45" type="curve" smooth="yes"/>
+      <point x="502.75" y="188.8"/>
+      <point x="481.55" y="163.6"/>
+      <point x="437.7" y="138.4" type="curve" smooth="yes"/>
+      <point x="314.25" y="67.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="31.05" y="405.0" type="line"/>
+      <point x="317.4" y="405.0" type="line"/>
+      <point x="317.4" y="458.75" type="line"/>
+      <point x="212.95" y="458.75" type="line"/>
+      <point x="212.95" y="730.0" type="line"/>
+      <point x="123.45" y="730.0" type="line"/>
+      <point x="52.7" y="670.05" type="line"/>
+      <point x="52.7" y="595.85" type="line"/>
+      <point x="114.55" y="648.8" type="line" smooth="yes"/>
+      <point x="129.55" y="661.65"/>
+      <point x="142.15" y="678.1"/>
+      <point x="148.45" y="687.55" type="curve"/>
+      <point x="148.45" y="458.75" type="line"/>
+      <point x="31.05" y="458.75" type="line"/>
+    </contour>
+    <component base="fraction"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

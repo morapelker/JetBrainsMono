@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_exclam_equal.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-2.8" y="416.0" type="line"/>
+      <point x="542.2" y="416.0" type="line"/>
+      <point x="551.6" y="475.0" type="line"/>
+      <point x="6.6" y="475.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1134.6" y="185.0" type="line"/>
+      <point x="-589.6" y="185.0" type="line"/>
+      <point x="-580.2" y="244.0" type="line"/>
+      <point x="-1125.2" y="244.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1097.8" y="416.0" type="line"/>
+      <point x="-552.8" y="416.0" type="line"/>
+      <point x="-543.4" y="475.0" type="line"/>
+      <point x="-1088.4" y="475.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-39.6" y="185.0" type="line"/>
+      <point x="505.4" y="185.0" type="line"/>
+      <point x="514.8" y="244.0" type="line"/>
+      <point x="-30.2" y="244.0" type="line"/>
+    </contour>
+    <component base="exclam" xOffset="-600.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>exclam</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

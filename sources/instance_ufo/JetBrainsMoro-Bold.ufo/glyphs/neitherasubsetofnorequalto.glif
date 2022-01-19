@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="neitherasubsetofnorequalto" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2288"/>
+  <outline>
+    <contour>
+      <point x="95.565" y="-110.0" type="line"/>
+      <point x="178.435" y="-110.0" type="line"/>
+      <point x="523.435" y="830.0" type="line"/>
+      <point x="440.565" y="830.0" type="line"/>
+    </contour>
+    <component base="reflexsuperset" xScale="-1.0" xOffset="600.0"/>
+  </outline>
+</glyph>

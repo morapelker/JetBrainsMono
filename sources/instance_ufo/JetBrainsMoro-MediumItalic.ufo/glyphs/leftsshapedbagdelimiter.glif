@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftsshapedbagdelimiter" format="2">
+  <advance width="600.0"/>
+  <unicode hex="27C5"/>
+  <outline>
+    <contour>
+      <point x="233.8" y="659.0" type="line"/>
+      <point x="332.5" y="659.0" type="line"/>
+      <point x="336.5" y="686.0" type="line"/>
+      <point x="342.5" y="725.15"/>
+      <point x="372.5" y="751.0"/>
+      <point x="410.8" y="751.0" type="curve" smooth="yes"/>
+      <point x="451.65" y="751.0"/>
+      <point x="468.4" y="721.75"/>
+      <point x="462.4" y="686.0" type="curve" smooth="yes"/>
+      <point x="458.25" y="660.25"/>
+      <point x="440.95" y="612.75"/>
+      <point x="384.15" y="541.9" type="curve" smooth="yes"/>
+      <point x="219.25" y="335.7" type="line" smooth="yes"/>
+      <point x="130.0" y="223.75"/>
+      <point x="105.6" y="138.3"/>
+      <point x="99.1" y="97.15" type="curve" smooth="yes"/>
+      <point x="79.25" y="-28.95"/>
+      <point x="148.75" y="-110.0"/>
+      <point x="279.8" y="-110.0" type="curve" smooth="yes"/>
+      <point x="425.45" y="-110.0" type="line"/>
+      <point x="438.95" y="-21.0" type="line"/>
+      <point x="294.5" y="-21.0" type="line" smooth="yes"/>
+      <point x="223.9" y="-21.0"/>
+      <point x="186.85" y="25.6"/>
+      <point x="198.1" y="99.5" type="curve" smooth="yes"/>
+      <point x="206.1" y="149.2"/>
+      <point x="237.2" y="214.05"/>
+      <point x="329.7" y="332.25" type="curve" smooth="yes"/>
+      <point x="476.7" y="522.1" type="line" smooth="yes"/>
+      <point x="518.8" y="573.6"/>
+      <point x="552.4" y="632.25"/>
+      <point x="561.1" y="687.7" type="curve" smooth="yes"/>
+      <point x="576.0" y="779.7"/>
+      <point x="522.55" y="840.0"/>
+      <point x="425.15" y="840.0" type="curve" smooth="yes"/>
+      <point x="326.45" y="840.0"/>
+      <point x="252.7" y="779.7"/>
+      <point x="237.8" y="686.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

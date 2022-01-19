@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb" format="2">
+  <anchor x="-300" y="550" name="_top"/>
+  <anchor x="-248" y="900" name="top"/>
+  <outline>
+    <contour>
+      <point x="-125" y="760" type="line"/>
+      <point x="10" y="760" type="line"/>
+      <point x="-110" y="900" type="line"/>
+      <point x="-255" y="900" type="line"/>
+    </contour>
+    <contour>
+      <point x="-505" y="645" type="line"/>
+      <point x="-369" y="645" type="line"/>
+      <point x="-300" y="715" type="line"/>
+      <point x="-231" y="645" type="line"/>
+      <point x="-95" y="645" type="line"/>
+      <point x="-230" y="785" type="line"/>
+      <point x="-370" y="785" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

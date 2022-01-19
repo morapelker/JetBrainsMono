@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornhookabove" format="2">
+  <advance width="600.0"/>
+  <unicode hex="1EED"/>
+  <anchor x="249.3" y="0.0" name="bottom"/>
+  <anchor x="386.3" y="827.7" name="top"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="hookabovecomb" xOffset="594.0"/>
+  </outline>
+</glyph>

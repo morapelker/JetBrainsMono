@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalor" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2228"/>
+  <outline>
+    <contour>
+      <point x="193.4" y="50.0" type="line"/>
+      <point x="335.2" y="50.0" type="line"/>
+      <point x="592.9" y="550.0" type="line"/>
+      <point x="480.3" y="550.0" type="line"/>
+      <point x="278.3" y="136.4" type="line"/>
+      <point x="201.0" y="550.0" type="line"/>
+      <point x="93.1" y="550.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

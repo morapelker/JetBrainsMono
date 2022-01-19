@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_bar_greater.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-205.66666666666666" y="-86.0" type="line"/>
+      <point x="448.4" y="286.93333333333334" type="line"/>
+      <point x="462.53333333333336" y="374.6666666666667" type="line"/>
+      <point x="-72.66666666666667" y="750.0" type="line"/>
+      <point x="-87.8" y="662.4" type="line"/>
+      <point x="382.06666666666666" y="335.26666666666665" type="line"/>
+      <point x="-190.53333333333333" y="12.933333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="-510.3333333333333" y="-86.73333333333333" type="line"/>
+      <point x="-494.93333333333334" y="3.0666666666666664" type="line"/>
+      <point x="-965.8" y="325.8" type="line"/>
+      <point x="-392.46666666666664" y="653.2666666666667" type="line"/>
+      <point x="-377.3333333333333" y="750.0" type="line"/>
+      <point x="-1032.1333333333334" y="373.8666666666667" type="line"/>
+      <point x="-1046.2666666666667" y="286.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="-400.6666666666667" y="-110.0" type="line"/>
+      <point x="-321.3333333333333" y="-110.0" type="line"/>
+      <point x="-180.33333333333334" y="780.0" type="line"/>
+      <point x="-259.6666666666667" y="780.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

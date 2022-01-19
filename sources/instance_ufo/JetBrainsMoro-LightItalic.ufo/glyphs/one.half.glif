@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.half" format="2">
+  <advance width="400.0"/>
+  <outline>
+    <contour>
+      <point x="17.933333333333334" y="0.0" type="line"/>
+      <point x="313.3333333333333" y="0.0" type="line"/>
+      <point x="322.26666666666665" y="54.666666666666664" type="line"/>
+      <point x="217.73333333333332" y="54.666666666666664" type="line"/>
+      <point x="261.8" y="335.0" type="line"/>
+      <point x="177.2" y="335.0" type="line"/>
+      <point x="68.4" y="261.8666666666667" type="line"/>
+      <point x="57.2" y="190.26666666666668" type="line"/>
+      <point x="193.46666666666667" y="279.4" type="line"/>
+      <point x="157.33333333333334" y="54.666666666666664" type="line"/>
+      <point x="26.866666666666667" y="54.666666666666664" type="line"/>
+    </contour>
+  </outline>
+</glyph>

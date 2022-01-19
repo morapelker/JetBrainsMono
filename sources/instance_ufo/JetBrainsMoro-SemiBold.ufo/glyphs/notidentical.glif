@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notidentical" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2262"/>
+  <outline>
+    <contour>
+      <point x="132.5" y="-75.0" type="line"/>
+      <point x="203.9" y="-75.0" type="line"/>
+      <point x="467.5" y="741.3" type="line"/>
+      <point x="396.1" y="741.3" type="line"/>
+    </contour>
+    <component base="equivalence"/>
+  </outline>
+</glyph>

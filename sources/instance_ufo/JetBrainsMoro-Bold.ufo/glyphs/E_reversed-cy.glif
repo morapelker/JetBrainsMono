@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ereversed-cy" format="2">
+  <advance width="600.0"/>
+  <unicode hex="042D"/>
+  <outline>
+    <contour>
+      <point x="296.0" y="-10.0" type="curve" smooth="yes"/>
+      <point x="437.19" y="-10.0"/>
+      <point x="527.55" y="74.265"/>
+      <point x="527.55" y="205.85" type="curve" smooth="yes"/>
+      <point x="527.55" y="524.15" type="line" smooth="yes"/>
+      <point x="527.55" y="656.32"/>
+      <point x="437.19" y="740.0"/>
+      <point x="296.0" y="740.0" type="curve" smooth="yes"/>
+      <point x="155.64" y="740.0"/>
+      <point x="65.28" y="655.49"/>
+      <point x="65.28" y="524.15" type="curve"/>
+      <point x="190.38" y="524.15" type="line"/>
+      <point x="190.38" y="592.525"/>
+      <point x="228.53" y="630.75"/>
+      <point x="296.0" y="630.75" type="curve" smooth="yes"/>
+      <point x="363.885" y="630.75"/>
+      <point x="402.45" y="592.525"/>
+      <point x="402.45" y="524.565" type="curve" smooth="yes"/>
+      <point x="402.45" y="424.21" type="line"/>
+      <point x="189.15" y="424.21" type="line"/>
+      <point x="189.15" y="311.205" type="line"/>
+      <point x="402.45" y="311.205" type="line"/>
+      <point x="402.45" y="205.85" type="line" smooth="yes"/>
+      <point x="402.45" y="137.475"/>
+      <point x="363.885" y="99.25"/>
+      <point x="296.0" y="99.25" type="curve" smooth="yes"/>
+      <point x="228.53" y="99.25"/>
+      <point x="190.38" y="137.475"/>
+      <point x="190.38" y="205.85" type="curve"/>
+      <point x="65.28" y="205.85" type="line"/>
+      <point x="65.28" y="74.51"/>
+      <point x="155.64" y="-10.0"/>
+    </contour>
+  </outline>
+</glyph>

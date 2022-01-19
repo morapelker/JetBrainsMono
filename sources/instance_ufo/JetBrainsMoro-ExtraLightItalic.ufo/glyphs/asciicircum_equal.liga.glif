@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum_equal.liga" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <contour>
+      <point x="-398.0" y="416.0" type="line"/>
+      <point x="-325.4" y="416.0" type="line"/>
+      <point x="-133.2" y="703.0" type="line"/>
+      <point x="-37.6" y="416.0" type="line"/>
+      <point x="437.2" y="416.0" type="line"/>
+      <point x="446.6" y="475.0" type="line"/>
+      <point x="9.6" y="475.0" type="line"/>
+      <point x="-96.2" y="760.0" type="line"/>
+      <point x="-158.0" y="760.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-75.6" y="185.0" type="line"/>
+      <point x="400.4" y="185.0" type="line"/>
+      <point x="409.8" y="244.0" type="line"/>
+      <point x="-66.2" y="244.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

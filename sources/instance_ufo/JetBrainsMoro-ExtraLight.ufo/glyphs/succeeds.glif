@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="succeeds" format="2">
+  <advance width="600.0"/>
+  <unicode hex="227B"/>
+  <outline>
+    <contour>
+      <point x="86.0" y="55.0" type="curve"/>
+      <point x="149.0" y="55.0" type="line"/>
+      <point x="167.2" y="199.2"/>
+      <point x="321.8" y="292.0"/>
+      <point x="542.0" y="292.0" type="curve"/>
+      <point x="542.0" y="368.0" type="line"/>
+      <point x="321.8" y="368.0"/>
+      <point x="167.2" y="458.8"/>
+      <point x="149.0" y="600.0" type="curve"/>
+      <point x="86.0" y="600.0" type="line"/>
+      <point x="104.0" y="441.4"/>
+      <point x="243.2" y="336.2"/>
+      <point x="441.0" y="332.2" type="curve"/>
+      <point x="441.0" y="334.2" type="line"/>
+      <point x="243.2" y="328.2"/>
+      <point x="104.0" y="218.8"/>
+    </contour>
+  </outline>
+</glyph>

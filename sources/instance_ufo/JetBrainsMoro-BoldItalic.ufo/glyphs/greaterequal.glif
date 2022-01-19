@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greaterequal" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="32.225" y="0.0" type="line"/>
+      <point x="479.775" y="0.0" type="line"/>
+      <point x="498.04" y="115.1" type="line"/>
+      <point x="50.49" y="115.1" type="line"/>
+    </contour>
+    <component base="greater" xOffset="20.0" yOffset="125.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>greater</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

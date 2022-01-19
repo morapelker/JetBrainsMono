@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nArySquareUnionOperator" format="2">
+  <advance width="600.0"/>
+  <unicode hex="2A06"/>
+  <outline>
+    <contour>
+      <point x="36.55" y="0.0" type="line"/>
+      <point x="563.45" y="0.0" type="line"/>
+      <point x="563.45" y="730.0" type="line"/>
+      <point x="464.45" y="730.0" type="line"/>
+      <point x="464.45" y="90.7" type="line"/>
+      <point x="135.55" y="90.7" type="line"/>
+      <point x="135.55" y="730.0" type="line"/>
+      <point x="36.55" y="730.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

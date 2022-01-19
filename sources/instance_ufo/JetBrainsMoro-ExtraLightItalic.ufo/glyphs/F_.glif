@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0046"/>
+  <anchor x="256.0" y="0.0" name="bottom"/>
+  <anchor x="372.0" y="730.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="63.0" y="0.0" type="line"/>
+      <point x="129.0" y="0.0" type="line"/>
+      <point x="182.4" y="337.2" type="line"/>
+      <point x="503.0" y="337.2" type="line"/>
+      <point x="512.4" y="397.6" type="line"/>
+      <point x="191.0" y="397.6" type="line"/>
+      <point x="234.2" y="669.6" type="line"/>
+      <point x="587.0" y="669.6" type="line"/>
+      <point x="597.0" y="730.0" type="line"/>
+      <point x="179.0" y="730.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

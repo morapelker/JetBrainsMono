@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="600.0"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="50.0" y="405.0" type="line"/>
+      <point x="325.0" y="405.0" type="line"/>
+      <point x="332.46666666666664" y="452.3333333333333" type="line"/>
+      <point x="231.73333333333332" y="452.3333333333333" type="line"/>
+      <point x="276.26666666666665" y="730.0" type="line"/>
+      <point x="195.26666666666668" y="730.0" type="line"/>
+      <point x="115.0" y="669.0" type="line"/>
+      <point x="104.53333333333333" y="603.0" type="line"/>
+      <point x="175.06666666666666" y="657.0" type="line" smooth="yes"/>
+      <point x="192.06666666666666" y="670.0"/>
+      <point x="206.8" y="685.2"/>
+      <point x="213.8" y="693.4" type="curve"/>
+      <point x="175.73333333333332" y="452.3333333333333" type="line"/>
+      <point x="57.46666666666667" y="452.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="438.6666666666667" y="0.0" type="line"/>
+      <point x="494.6666666666667" y="0.0" type="line"/>
+      <point x="527.9333333333333" y="210.86666666666667" type="line"/>
+      <point x="471.93333333333334" y="210.86666666666667" type="line"/>
+      <point x="457.1333333333333" y="117.33333333333333" type="line"/>
+      <point x="336.8" y="117.33333333333333" type="line"/>
+      <point x="339.8" y="133.33333333333334" type="line"/>
+      <point x="504.8666666666667" y="325.0" type="line"/>
+      <point x="440.93333333333334" y="325.0" type="line"/>
+      <point x="285.8" y="147.33333333333334" type="line"/>
+      <point x="273.3333333333333" y="70.0" type="line"/>
+      <point x="449.6666666666667" y="70.0" type="line"/>
+    </contour>
+    <component base="fraction" yxScale="0.04223466666666666" xOffset="-11.733333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
